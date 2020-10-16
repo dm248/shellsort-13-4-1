@@ -1,0 +1,7090 @@
+#periods: 177100 27132 1716
+#disp1: roll0=0 +50
+#disp0: roll0=50 +50
+#disp3: roll0=150 +50
+#disp2: roll0=100 +50
+#disp5: roll0=200 +50
+#disp4: roll0=250 +50
+#disp7: roll0=300 +50
+#res1: 0
+#res2: 0
+#res0: 0
+#disp0: roll0=350 +50
+#disp1: roll0=400 +50
+#disp6: roll0=450 +50
+#disp2: roll0=500 +50
+#res3: 0
+#disp3: roll0=550 +50
+#res5: 50461
+#disp5: roll0=600 +50
+#res1: 39693
+#disp1: roll0=650 +50
+#res4: 15799
+#disp4: roll0=700 +50
+#res7: 159
+#disp7: roll0=750 +50
+#res0: 1
+#disp0: roll0=800 +50
+#res3: 10251
+#disp3: roll0=850 +50
+#res6: 1305
+#disp6: roll0=900 +50
+#res2: 9
+#disp2: roll0=950 +50
+#res5: 497
+#disp5: roll0=1000 +50
+#res4: 1247
+#disp4: roll0=1050 +50
+#res1: 1
+#disp1: roll0=1100 +50
+#res7: 9
+#disp7: roll0=1150 +50
+#res3: 44
+#disp3: roll0=1200 +50
+#res0: 0
+#disp0: roll0=1250 +50
+#res6: 9
+#disp6: roll0=1300 +50
+#res2: 16
+#disp2: roll0=1350 +50
+#res5: 126
+#disp5: roll0=1400 +50
+#res4: 138
+#disp4: roll0=1450 +50
+#res1: 345
+#disp1: roll0=1500 +50
+#res7: 257
+#disp7: roll0=1550 +50
+#res3: 1
+#disp3: roll0=1600 +50
+#res0: 27
+#disp0: roll0=1650 +50
+#res7: 37561
+#disp7: roll0=1700 +50
+#res6: 0
+#disp6: roll0=1750 +50
+#res2: 0
+#disp2: roll0=1800 +50
+#res3: 1268
+#disp3: roll0=1850 +50
+#res7: 17388
+#disp7: roll0=1900 +50
+#res5: 228
+#disp5: roll0=1950 +50
+#res0: 24
+#disp0: roll0=2000 +50
+#res1: 97
+#disp1: roll0=2050 +50
+#res6: 5446
+#disp6: roll0=2100 +50
+#res4: 1272
+#disp4: roll0=2150 +50
+#res7: 5319
+#disp7: roll0=2200 +50
+#res2: 5
+#disp2: roll0=2250 +50
+#res3: 0
+#disp3: roll0=2300 +50
+#res5: 1
+#disp5: roll0=2350 +50
+#res0: 0
+#disp0: roll0=2400 +50
+#res1: 480
+#disp1: roll0=2450 +50
+#res4: 9
+#disp4: roll0=2500 +50
+#res6: 0
+#disp6: roll0=2550 +50
+#res7: 1
+#disp7: roll0=2600 +50
+#res2: 0
+#disp2: roll0=2650 +50
+#res3: 41
+#disp3: roll0=2700 +50
+#res5: 1
+#disp5: roll0=2750 +50
+#res0: 218
+#disp0: roll0=2800 +50
+#res1: 7
+#disp1: roll0=2850 +50
+#res4: 101
+#disp4: roll0=2900 +50
+#res6: 7
+#disp6: roll0=2950 +50
+#res7: 0
+#disp7: roll0=3000 +50
+#res1: 10929
+#disp1: roll0=3050 +50
+#res2: 0
+#disp2: roll0=3100 +50
+#res3: 2
+#disp3: roll0=3150 +50
+#res4: 1248
+#disp4: roll0=3200 +50
+#res6: 0
+#disp6: roll0=3250 +50
+#res5: 375
+#disp5: roll0=3300 +50
+#res0: 244
+#disp0: roll0=3350 +50
+#res7: 1994
+#disp7: roll0=3400 +50
+#res1: 480
+#disp1: roll0=3450 +50
+#res2: 0
+#disp2: roll0=3500 +50
+#res4: 9
+#disp4: roll0=3550 +50
+#res3: 151
+#disp3: roll0=3600 +50
+#res5: 1
+#disp5: roll0=3650 +50
+#res6: 0
+#disp6: roll0=3700 +50
+#res0: 0
+#disp0: roll0=3750 +50
+#res1: 9
+#disp1: roll0=3800 +50
+#res7: 0
+#disp7: roll0=3850 +50
+#res4: 93
+#disp4: roll0=3900 +50
+#res2: 0
+#disp2: roll0=3950 +50
+#res3: 26
+#disp3: roll0=4000 +50
+#res5: 7
+#disp5: roll0=4050 +50
+#res6: 1
+#disp6: roll0=4100 +50
+#res0: 0
+#disp0: roll0=4150 +50
+#res3: 1069
+#disp3: roll0=4200 +50
+#res1: 0
+#disp1: roll0=4250 +50
+#res7: 0
+#disp7: roll0=4300 +50
+#res4: 163
+#disp4: roll0=4350 +50
+#res5: 0
+#disp5: roll0=4400 +50
+#res2: 56
+#disp2: roll0=4450 +50
+#res0: 44
+#disp0: roll0=4500 +50
+#res6: 0
+#disp6: roll0=4550 +50
+#res7: 1
+#disp7: roll0=4600 +50
+#res3: 0
+#disp3: roll0=4650 +50
+#res1: 0
+#disp1: roll0=4700 +50
+#res5: 33
+#disp5: roll0=4750 +50
+#res4: 0
+#disp4: roll0=4800 +50
+#res2: 8
+#disp2: roll0=4850 +50
+#res0: 191
+#disp0: roll0=4900 +50
+#res6: 33
+#disp6: roll0=4950 +50
+#res7: 101
+#disp7: roll0=5000 +50
+#res3: 7
+#disp3: roll0=5050 +50
+#res1: 0
+#disp1: roll0=5100 +50
+#res5: 0
+#disp5: roll0=5150 +50
+#res4: 2
+#disp4: roll0=5200 +50
+#res6: 119
+#disp6: roll0=5250 +50
+#res2: 56
+#disp2: roll0=5300 +50
+#res0: 411
+#disp0: roll0=5350 +50
+#res7: 0
+#disp7: roll0=5400 +50
+#res1: 1
+#disp1: roll0=5450 +50
+#res3: 0
+#disp3: roll0=5500 +50
+#res5: 8
+#disp5: roll0=5550 +50
+#res4: 0
+#disp4: roll0=5600 +50
+#res6: 125
+#disp6: roll0=5650 +50
+#res2: 1
+#disp2: roll0=5700 +50
+#res0: 451
+#disp0: roll0=5750 +50
+#res7: 242
+#disp7: roll0=5800 +50
+#res1: 7
+#disp1: roll0=5850 +50
+#res3: 27
+#disp3: roll0=5900 +50
+#res5: 0
+#disp5: roll0=5950 +50
+#res4: 0
+#disp4: roll0=6000 +50
+#res7: 1
+#disp7: roll0=6050 +50
+#res6: 75
+#disp6: roll0=6100 +50
+#res2: 422
+#disp2: roll0=6150 +50
+#res0: 39
+#disp0: roll0=6200 +50
+#res3: 159
+#disp3: roll0=6250 +50
+#res1: 0
+#disp1: roll0=6300 +50
+#res4: 685
+#disp4: roll0=6350 +50
+#res5: 74
+#disp5: roll0=6400 +50
+#res7: 76
+#disp7: roll0=6450 +50
+#res6: 458
+#disp6: roll0=6500 +50
+#res2: 69
+#disp2: roll0=6550 +50
+#res0: 8
+#disp0: roll0=6600 +50
+#res3: 2
+#disp3: roll0=6650 +50
+#res1: 23
+#disp1: roll0=6700 +50
+#res7: 49
+#disp7: roll0=6750 +50
+#res4: 283
+#disp4: roll0=6800 +50
+#res5: 641
+#disp5: roll0=6850 +50
+#res6: 126
+#disp6: roll0=6900 +50
+#res2: 158
+#disp2: roll0=6950 +50
+#res0: 75
+#disp0: roll0=7000 +50
+#res3: 125
+#disp3: roll0=7050 +50
+#res1: 7
+#disp1: roll0=7100 +50
+#res7: 1
+#disp7: roll0=7150 +50
+#res4: 0
+#disp4: roll0=7200 +50
+#res5: 1
+#disp5: roll0=7250 +50
+#res6: 37
+#disp6: roll0=7300 +50
+#res2: 348
+#disp2: roll0=7350 +50
+#res0: 13
+#disp0: roll0=7400 +50
+#res3: 0
+#disp3: roll0=7450 +50
+#res1: 8
+#disp1: roll0=7500 +50
+#res7: 0
+#disp7: roll0=7550 +50
+#res4: 0
+#disp4: roll0=7600 +50
+#res5: 0
+#disp5: roll0=7650 +50
+#res6: 0
+#disp6: roll0=7700 +50
+#res2: 45
+#disp2: roll0=7750 +50
+#res0: 427
+#disp0: roll0=7800 +50
+#res3: 15
+#disp3: roll0=7850 +50
+#res1: 0
+#disp1: roll0=7900 +50
+#res7: 0
+#disp7: roll0=7950 +50
+#res4: 0
+#disp4: roll0=8000 +50
+#res5: 0
+#disp5: roll0=8050 +50
+#res6: 17
+#disp6: roll0=8100 +50
+#res3: 27
+#disp3: roll0=8150 +50
+#res2: 937
+#disp2: roll0=8200 +50
+#res0: 233
+#disp0: roll0=8250 +50
+#res1: 0
+#disp1: roll0=8300 +50
+#res7: 2
+#disp7: roll0=8350 +50
+#res4: 460
+#disp4: roll0=8400 +50
+#res5: 2067
+#disp5: roll0=8450 +50
+#res6: 220
+#disp6: roll0=8500 +50
+#res3: 0
+#disp3: roll0=8550 +50
+#res2: 124
+#disp2: roll0=8600 +50
+#res0: 3060
+#disp0: roll0=8650 +50
+#res1: 1947
+#disp1: roll0=8700 +50
+#res7: 270
+#disp7: roll0=8750 +50
+#res4: 1954
+#disp4: roll0=8800 +50
+#res5: 5003
+#disp5: roll0=8850 +50
+#res6: 1491
+#disp6: roll0=8900 +50
+#res3: 2284
+#disp3: roll0=8950 +50
+#res5: 19225
+#disp5: roll0=9000 +50
+#res2: 328
+#disp2: roll0=9050 +50
+#res0: 159
+#disp0: roll0=9100 +50
+#res1: 8
+#disp1: roll0=9150 +50
+#res6: 2649
+#disp6: roll0=9200 +50
+#res2: 5786
+#disp2: roll0=9250 +50
+#res5: 6370
+#disp5: roll0=9300 +50
+#res3: 4
+#disp3: roll0=9350 +50
+#res4: 1
+#disp4: roll0=9400 +50
+#res0: 10
+#disp0: roll0=9450 +50
+#res7: 0
+#disp7: roll0=9500 +50
+#res6: 2464
+#disp6: roll0=9550 +50
+#res1: 0
+#disp1: roll0=9600 +50
+#res3: 160
+#disp3: roll0=9650 +50
+#res2: 10
+#disp2: roll0=9700 +50
+#res5: 0
+#disp5: roll0=9750 +50
+#res4: 0
+#disp4: roll0=9800 +50
+#res7: 1
+#disp7: roll0=9850 +50
+#res0: 0
+#disp0: roll0=9900 +50
+#res1: 0
+#disp1: roll0=9950 +50
+#res6: 0
+#disp6: roll0=10000 +50
+#res3: 9
+#disp3: roll0=10050 +50
+#res2: 67
+#disp2: roll0=10100 +50
+#res5: 26
+#disp5: roll0=10150 +50
+#res4: 33
+#disp4: roll0=10200 +50
+#res7: 1
+#disp7: roll0=10250 +50
+#res0: 0
+#disp0: roll0=10300 +50
+#res1: 0
+#disp1: roll0=10350 +50
+#res6: 0
+#disp6: roll0=10400 +50
+#res4: 2472
+#disp4: roll0=10450 +50
+#res5: 3681
+#disp5: roll0=10500 +50
+#res3: 15
+#disp3: roll0=10550 +50
+#res7: 1
+#disp7: roll0=10600 +50
+#res2: 202
+#disp2: roll0=10650 +50
+#res1: 1067
+#disp1: roll0=10700 +50
+#res0: 0
+#disp0: roll0=10750 +50
+#res6: 0
+#disp6: roll0=10800 +50
+#res4: 0
+#disp4: roll0=10850 +50
+#res5: 44
+#disp5: roll0=10900 +50
+#res2: 0
+#disp2: roll0=10950 +50
+#res3: 0
+#disp3: roll0=11000 +50
+#res7: 0
+#disp7: roll0=11050 +50
+#res0: 1
+#disp0: roll0=11100 +50
+#res1: 0
+#disp1: roll0=11150 +50
+#res6: 0
+#disp6: roll0=11200 +50
+#res4: 32
+#disp4: roll0=11250 +50
+#res5: 0
+#disp5: roll0=11300 +50
+#res2: 8
+#disp2: roll0=11350 +50
+#res3: 0
+#disp3: roll0=11400 +50
+#res7: 0
+#disp7: roll0=11450 +50
+#res0: 0
+#disp0: roll0=11500 +50
+#res1: 0
+#disp1: roll0=11550 +50
+#res5: 418
+#disp5: roll0=11600 +50
+#res6: 28
+#disp6: roll0=11650 +50
+#res2: 1
+#disp2: roll0=11700 +50
+#res4: 37
+#disp4: roll0=11750 +50
+#res7: 9
+#disp7: roll0=11800 +50
+#res3: 0
+#disp3: roll0=11850 +50
+#res0: 0
+#disp0: roll0=11900 +50
+#res1: 0
+#disp1: roll0=11950 +50
+#res5: 0
+#disp5: roll0=12000 +50
+#res6: 0
+#disp6: roll0=12050 +50
+#res2: 0
+#disp2: roll0=12100 +50
+#res4: 9
+#disp4: roll0=12150 +50
+#res7: 0
+#disp7: roll0=12200 +50
+#res3: 93
+#disp3: roll0=12250 +50
+#res0: 33
+#disp0: roll0=12300 +50
+#res1: 0
+#disp1: roll0=12350 +50
+#res5: 1
+#disp5: roll0=12400 +50
+#res6: 0
+#disp6: roll0=12450 +50
+#res2: 0
+#disp2: roll0=12500 +50
+#res4: 14
+#disp4: roll0=12550 +50
+#res0: 1
+#disp0: roll0=12600 +50
+#res7: 160
+#disp7: roll0=12650 +50
+#res3: 37
+#disp3: roll0=12700 +50
+#res5: 0
+#disp5: roll0=12750 +50
+#res1: 0
+#disp1: roll0=12800 +50
+#res6: 1
+#disp6: roll0=12850 +50
+#res2: 0
+#disp2: roll0=12900 +50
+#res4: 40
+#disp4: roll0=12950 +50
+#res0: 0
+#disp0: roll0=13000 +50
+#res7: 217
+#disp7: roll0=13050 +50
+#res3: 72
+#disp3: roll0=13100 +50
+#res5: 28
+#disp5: roll0=13150 +50
+#res1: 7
+#disp1: roll0=13200 +50
+#res6: 0
+#disp6: roll0=13250 +50
+#res2: 0
+#disp2: roll0=13300 +50
+#res4: 1
+#disp4: roll0=13350 +50
+#res3: 4
+#disp3: roll0=13400 +50
+#res0: 143
+#disp0: roll0=13450 +50
+#res7: 62
+#disp7: roll0=13500 +50
+#res5: 0
+#disp5: roll0=13550 +50
+#res1: 7
+#disp1: roll0=13600 +50
+#res6: 87
+#disp6: roll0=13650 +50
+#res2: 102
+#disp2: roll0=13700 +50
+#res4: 295
+#disp4: roll0=13750 +50
+#res3: 217
+#disp3: roll0=13800 +50
+#res0: 1
+#disp0: roll0=13850 +50
+#res7: 26
+#disp7: roll0=13900 +50
+#res5: 0
+#disp5: roll0=13950 +50
+#res1: 0
+#disp1: roll0=14000 +50
+#res6: 70
+#disp6: roll0=14050 +50
+#res3: 41
+#disp3: roll0=14100 +50
+#res4: 32
+#disp4: roll0=14150 +50
+#res2: 338
+#disp2: roll0=14200 +50
+#res0: 0
+#disp0: roll0=14250 +50
+#res7: 94
+#disp7: roll0=14300 +50
+#res5: 40
+#disp5: roll0=14350 +50
+#res1: 0
+#disp1: roll0=14400 +50
+#res6: 1
+#disp6: roll0=14450 +50
+#res3: 0
+#disp3: roll0=14500 +50
+#res4: 0
+#disp4: roll0=14550 +50
+#res2: 7
+#disp2: roll0=14600 +50
+#res0: 118
+#disp0: roll0=14650 +50
+#res7: 8
+#disp7: roll0=14700 +50
+#res5: 0
+#disp5: roll0=14750 +50
+#res1: 1
+#disp1: roll0=14800 +50
+#res6: 0
+#disp6: roll0=14850 +50
+#res3: 0
+#disp3: roll0=14900 +50
+#res4: 0
+#disp4: roll0=14950 +50
+#res2: 0
+#disp2: roll0=15000 +50
+#res0: 0
+#disp0: roll0=15050 +50
+#res7: 123
+#disp7: roll0=15100 +50
+#res5: 37
+#disp5: roll0=15150 +50
+#res1: 1
+#disp1: roll0=15200 +50
+#res6: 0
+#disp6: roll0=15250 +50
+#res3: 0
+#disp3: roll0=15300 +50
+#res4: 0
+#disp4: roll0=15350 +50
+#res2: 1
+#disp2: roll0=15400 +50
+#res0: 305
+#disp0: roll0=15450 +50
+#res7: 152
+#disp7: roll0=15500 +50
+#res5: 7
+#disp5: roll0=15550 +50
+#res1: 0
+#disp1: roll0=15600 +50
+#res6: 0
+#disp6: roll0=15650 +50
+#res3: 17
+#disp3: roll0=15700 +50
+#res4: 790
+#disp4: roll0=15750 +50
+#res2: 348
+#disp2: roll0=15800 +50
+#res0: 28
+#disp0: roll0=15850 +50
+#res7: 35
+#disp7: roll0=15900 +50
+#res5: 686
+#disp5: roll0=15950 +50
+#res1: 1758
+#disp1: roll0=16000 +50
+#res6: 96
+#disp6: roll0=16050 +50
+#res3: 637
+#disp3: roll0=16100 +50
+#res4: 2903
+#disp4: roll0=16150 +50
+#res2: 529
+#disp2: roll0=16200 +50
+#res0: 1054
+#disp0: roll0=16250 +50
+#res7: 447
+#disp7: roll0=16300 +50
+#res5: 79
+#disp5: roll0=16350 +50
+#res4: 2761
+#disp4: roll0=16400 +50
+#res1: 2
+#disp1: roll0=16450 +50
+#res2: 160
+#disp2: roll0=16500 +50
+#res6: 0
+#disp6: roll0=16550 +50
+#res3: 0
+#disp3: roll0=16600 +50
+#res0: 0
+#disp0: roll0=16650 +50
+#res5: 45
+#disp5: roll0=16700 +50
+#res7: 375
+#disp7: roll0=16750 +50
+#res4: 0
+#disp4: roll0=16800 +50
+#res1: 9
+#disp1: roll0=16850 +50
+#res2: 0
+#disp2: roll0=16900 +50
+#res3: 0
+#disp3: roll0=16950 +50
+#res6: 0
+#disp6: roll0=17000 +50
+#res0: 0
+#disp0: roll0=17050 +50
+#res7: 9
+#disp7: roll0=17100 +50
+#res5: 0
+#disp5: roll0=17150 +50
+#res1: 93
+#disp1: roll0=17200 +50
+#res4: 0
+#disp4: roll0=17250 +50
+#res2: 26
+#disp2: roll0=17300 +50
+#res3: 7
+#disp3: roll0=17350 +50
+#res6: 1
+#disp6: roll0=17400 +50
+#res0: 0
+#disp0: roll0=17450 +50
+#res2: 147
+#disp2: roll0=17500 +50
+#res7: 0
+#disp7: roll0=17550 +50
+#res5: 0
+#disp5: roll0=17600 +50
+#res1: 155
+#disp1: roll0=17650 +50
+#res4: 55
+#disp4: roll0=17700 +50
+#res3: 0
+#disp3: roll0=17750 +50
+#res0: 1
+#disp0: roll0=17800 +50
+#res6: 0
+#disp6: roll0=17850 +50
+#res2: 0
+#disp2: roll0=17900 +50
+#res5: 1
+#disp5: roll0=17950 +50
+#res7: 0
+#disp7: roll0=18000 +50
+#res4: 33
+#disp4: roll0=18050 +50
+#res1: 0
+#disp1: roll0=18100 +50
+#res3: 8
+#disp3: roll0=18150 +50
+#res0: 191
+#disp0: roll0=18200 +50
+#res6: 33
+#disp6: roll0=18250 +50
+#res2: 101
+#disp2: roll0=18300 +50
+#res5: 7
+#disp5: roll0=18350 +50
+#res7: 0
+#disp7: roll0=18400 +50
+#res4: 0
+#disp4: roll0=18450 +50
+#res1: 2
+#disp1: roll0=18500 +50
+#res3: 56
+#disp3: roll0=18550 +50
+#res6: 18
+#disp6: roll0=18600 +50
+#res0: 410
+#disp0: roll0=18650 +50
+#res2: 0
+#disp2: roll0=18700 +50
+#res7: 0
+#disp7: roll0=18750 +50
+#res5: 0
+#disp5: roll0=18800 +50
+#res4: 8
+#disp4: roll0=18850 +50
+#res1: 0
+#disp1: roll0=18900 +50
+#res3: 125
+#disp3: roll0=18950 +50
+#res6: 1
+#disp6: roll0=19000 +50
+#res0: 451
+#disp0: roll0=19050 +50
+#res2: 242
+#disp2: roll0=19100 +50
+#res7: 7
+#disp7: roll0=19150 +50
+#res5: 27
+#disp5: roll0=19200 +50
+#res4: 0
+#disp4: roll0=19250 +50
+#res1: 0
+#disp1: roll0=19300 +50
+#res2: 1
+#disp2: roll0=19350 +50
+#res3: 75
+#disp3: roll0=19400 +50
+#res6: 413
+#disp6: roll0=19450 +50
+#res0: 39
+#disp0: roll0=19500 +50
+#res5: 159
+#disp5: roll0=19550 +50
+#res7: 0
+#disp7: roll0=19600 +50
+#res1: 685
+#disp1: roll0=19650 +50
+#res4: 74
+#disp4: roll0=19700 +50
+#res2: 76
+#disp2: roll0=19750 +50
+#res3: 458
+#disp3: roll0=19800 +50
+#res6: 69
+#disp6: roll0=19850 +50
+#res0: 8
+#disp0: roll0=19900 +50
+#res5: 2
+#disp5: roll0=19950 +50
+#res7: 23
+#disp7: roll0=20000 +50
+#res1: 269
+#disp1: roll0=20050 +50
+#res4: 621
+#disp4: roll0=20100 +50
+#res2: 49
+#disp2: roll0=20150 +50
+#res3: 126
+#disp3: roll0=20200 +50
+#res6: 157
+#disp6: roll0=20250 +50
+#res0: 75
+#disp0: roll0=20300 +50
+#res5: 125
+#disp5: roll0=20350 +50
+#res7: 7
+#disp7: roll0=20400 +50
+#res1: 1
+#disp1: roll0=20450 +50
+#res4: 0
+#disp4: roll0=20500 +50
+#res2: 1
+#disp2: roll0=20550 +50
+#res3: 37
+#disp3: roll0=20600 +50
+#res0: 13
+#disp0: roll0=20650 +50
+#res6: 332
+#disp6: roll0=20700 +50
+#res5: 0
+#disp5: roll0=20750 +50
+#res7: 8
+#disp7: roll0=20800 +50
+#res1: 0
+#disp1: roll0=20850 +50
+#res4: 0
+#disp4: roll0=20900 +50
+#res2: 0
+#disp2: roll0=20950 +50
+#res3: 0
+#disp3: roll0=21000 +50
+#res0: 44
+#disp0: roll0=21050 +50
+#res6: 386
+#disp6: roll0=21100 +50
+#res5: 15
+#disp5: roll0=21150 +50
+#res7: 0
+#disp7: roll0=21200 +50
+#res1: 0
+#disp1: roll0=21250 +50
+#res4: 0
+#disp4: roll0=21300 +50
+#res2: 0
+#disp2: roll0=21350 +50
+#res3: 17
+#disp3: roll0=21400 +50
+#res0: 810
+#disp0: roll0=21450 +50
+#res6: 217
+#disp6: roll0=21500 +50
+#res5: 26
+#disp5: roll0=21550 +50
+#res7: 0
+#disp7: roll0=21600 +50
+#res1: 2
+#disp1: roll0=21650 +50
+#res4: 417
+#disp4: roll0=21700 +50
+#res2: 1719
+#disp2: roll0=21750 +50
+#res3: 205
+#disp3: roll0=21800 +50
+#res0: 0
+#disp0: roll0=21850 +50
+#res6: 116
+#disp6: roll0=21900 +50
+#res5: 2470
+#disp5: roll0=21950 +50
+#res7: 1625
+#disp7: roll0=22000 +50
+#res1: 242
+#disp1: roll0=22050 +50
+#res4: 1585
+#disp4: roll0=22100 +50
+#res2: 3890
+#disp2: roll0=22150 +50
+#res3: 1274
+#disp3: roll0=22200 +50
+#res0: 1908
+#disp0: roll0=22250 +50
+#res5: 150
+#disp5: roll0=22300 +50
+#res6: 310
+#disp6: roll0=22350 +50
+#res7: 8
+#disp7: roll0=22400 +50
+#res2: 407
+#disp2: roll0=22450 +50
+#res4: 1
+#disp4: roll0=22500 +50
+#res1: 0
+#disp1: roll0=22550 +50
+#res3: 0
+#disp3: roll0=22600 +50
+#res5: 9
+#disp5: roll0=22650 +50
+#res0: 0
+#disp0: roll0=22700 +50
+#res6: 0
+#disp6: roll0=22750 +50
+#res7: 0
+#disp7: roll0=22800 +50
+#res2: 9
+#disp2: roll0=22850 +50
+#res1: 99
+#disp1: roll0=22900 +50
+#res4: 0
+#disp4: roll0=22950 +50
+#res3: 34
+#disp3: roll0=23000 +50
+#res5: 448
+#disp5: roll0=23050 +50
+#res0: 27
+#disp0: roll0=23100 +50
+#res6: 257
+#disp6: roll0=23150 +50
+#res7: 27
+#disp7: roll0=23200 +50
+#res2: 0
+#disp2: roll0=23250 +50
+#res1: 0
+#disp1: roll0=23300 +50
+#res4: 14
+#disp4: roll0=23350 +50
+#res0: 70
+#disp0: roll0=23400 +50
+#res3: 375
+#disp3: roll0=23450 +50
+#res5: 681
+#disp5: roll0=23500 +50
+#res6: 0
+#disp6: roll0=23550 +50
+#res2: 1
+#disp2: roll0=23600 +50
+#res7: 0
+#disp7: roll0=23650 +50
+#res4: 32
+#disp4: roll0=23700 +50
+#res1: 32
+#disp1: roll0=23750 +50
+#res0: 286
+#disp0: roll0=23800 +50
+#res3: 195
+#disp3: roll0=23850 +50
+#res5: 680
+#disp5: roll0=23900 +50
+#res6: 535
+#disp6: roll0=23950 +50
+#res2: 9
+#disp2: roll0=24000 +50
+#res7: 82
+#disp7: roll0=24050 +50
+#res4: 2
+#disp4: roll0=24100 +50
+#res1: 2
+#disp1: roll0=24150 +50
+#res6: 9
+#disp6: roll0=24200 +50
+#res0: 204
+#disp0: roll0=24250 +50
+#res5: 102
+#disp5: roll0=24300 +50
+#res3: 803
+#disp3: roll0=24350 +50
+#res7: 414
+#disp7: roll0=24400 +50
+#res2: 0
+#disp2: roll0=24450 +50
+#res1: 1201
+#disp1: roll0=24500 +50
+#res4: 100
+#disp4: roll0=24550 +50
+#res6: 179
+#disp6: roll0=24600 +50
+#res0: 894
+#disp0: roll0=24650 +50
+#res5: 190
+#disp5: roll0=24700 +50
+#res3: 7
+#disp3: roll0=24750 +50
+#res7: 13
+#disp7: roll0=24800 +50
+#res2: 70
+#disp2: roll0=24850 +50
+#res6: 300
+#disp6: roll0=24900 +50
+#res1: 804
+#disp1: roll0=24950 +50
+#res4: 817
+#disp4: roll0=25000 +50
+#res0: 139
+#disp0: roll0=25050 +50
+#res5: 305
+#disp5: roll0=25100 +50
+#res3: 179
+#disp3: roll0=25150 +50
+#res7: 309
+#disp7: roll0=25200 +50
+#res2: 33
+#disp2: roll0=25250 +50
+#res6: 1
+#disp6: roll0=25300 +50
+#res1: 0
+#disp1: roll0=25350 +50
+#res4: 8
+#disp4: roll0=25400 +50
+#res0: 120
+#disp0: roll0=25450 +50
+#res5: 690
+#disp5: roll0=25500 +50
+#res3: 33
+#disp3: roll0=25550 +50
+#res7: 1
+#disp7: roll0=25600 +50
+#res2: 33
+#disp2: roll0=25650 +50
+#res6: 1
+#disp6: roll0=25700 +50
+#res1: 0
+#disp1: roll0=25750 +50
+#res4: 0
+#disp4: roll0=25800 +50
+#res0: 7
+#disp0: roll0=25850 +50
+#res5: 115
+#disp5: roll0=25900 +50
+#res3: 677
+#disp3: roll0=25950 +50
+#res7: 46
+#disp7: roll0=26000 +50
+#res2: 0
+#disp2: roll0=26050 +50
+#res6: 0
+#disp6: roll0=26100 +50
+#res1: 0
+#disp1: roll0=26150 +50
+#res4: 1
+#disp4: roll0=26200 +50
+#res0: 233
+#disp0: roll0=26250 +50
+#res7: 0
+#disp7: roll0=26300 +50
+#res5: 1288
+#disp5: roll0=26350 +50
+#res3: 250
+#disp3: roll0=26400 +50
+#res2: 0
+#disp2: roll0=26450 +50
+#res6: 86
+#disp6: roll0=26500 +50
+#res1: 649
+#disp1: roll0=26550 +50
+#res4: 2392
+#disp4: roll0=26600 +50
+#res0: 349
+#disp0: roll0=26650 +50
+#res7: 1
+#disp7: roll0=26700 +50
+#res5: 381
+#disp5: roll0=26750 +50
+#res3: 3262
+#disp3: roll0=26800 +50
+#res2: 2030
+#disp2: roll0=26850 +50
+#res6: 396
+#disp6: roll0=26900 +50
+#res1: 3171
+#disp1: roll0=26950 +50
+#res4: 3710
+#disp4: roll0=27000 +50
+#res0: 1809
+#disp0: roll0=27050 +50
+#res7: 2544
+#disp7: roll0=27100 +50
+#res5: 596
+#disp5: roll0=27150 +50
+#res3: 268
+#disp3: roll0=27200 +50
+#res2: 30
+#disp2: roll0=27250 +50
+#res4: 108
+#disp4: roll0=27300 +50
+#res1: 30
+#disp1: roll0=27350 +50
+#res6: 1
+#disp6: roll0=27400 +50
+#res0: 0
+#disp0: roll0=27450 +50
+#res7: 1
+#disp7: roll0=27500 +50
+#res5: 100
+#disp5: roll0=27550 +50
+#res2: 665
+#disp2: roll0=27600 +50
+#res3: 1
+#disp3: roll0=27650 +50
+#res1: 1545
+#disp1: roll0=27700 +50
+#res4: 34
+#disp4: roll0=27750 +50
+#res6: 40
+#disp6: roll0=27800 +50
+#res0: 1071
+#disp0: roll0=27850 +50
+#res7: 216
+#disp7: roll0=27900 +50
+#res5: 14
+#disp5: roll0=27950 +50
+#res2: 6
+#disp2: roll0=28000 +50
+#res3: 69
+#disp3: roll0=28050 +50
+#res6: 83
+#disp6: roll0=28100 +50
+#res1: 892
+#disp1: roll0=28150 +50
+#res4: 672
+#disp4: roll0=28200 +50
+#res0: 32
+#disp0: roll0=28250 +50
+#res7: 0
+#disp7: roll0=28300 +50
+#res5: 1014
+#disp5: roll0=28350 +50
+#res2: 69
+#disp2: roll0=28400 +50
+#res3: 2257
+#disp3: roll0=28450 +50
+#res6: 1411
+#disp6: roll0=28500 +50
+#res1: 242
+#disp1: roll0=28550 +50
+#res4: 408
+#disp4: roll0=28600 +50
+#res0: 50
+#disp0: roll0=28650 +50
+#res7: 24
+#disp7: roll0=28700 +50
+#res5: 572
+#disp5: roll0=28750 +50
+#res3: 485
+#disp3: roll0=28800 +50
+#res2: 1480
+#disp2: roll0=28850 +50
+#res6: 706
+#disp6: roll0=28900 +50
+#res1: 1
+#disp1: roll0=28950 +50
+#res4: 853
+#disp4: roll0=29000 +50
+#res0: 363
+#disp0: roll0=29050 +50
+#res7: 230
+#disp7: roll0=29100 +50
+#res5: 101
+#disp5: roll0=29150 +50
+#res3: 2
+#disp3: roll0=29200 +50
+#res2: 1
+#disp2: roll0=29250 +50
+#res6: 48
+#disp6: roll0=29300 +50
+#res1: 704
+#disp1: roll0=29350 +50
+#res4: 368
+#disp4: roll0=29400 +50
+#res0: 84
+#disp0: roll0=29450 +50
+#res7: 59
+#disp7: roll0=29500 +50
+#res5: 33
+#disp5: roll0=29550 +50
+#res3: 8
+#disp3: roll0=29600 +50
+#res2: 0
+#disp2: roll0=29650 +50
+#res6: 0
+#disp6: roll0=29700 +50
+#res1: 2
+#disp1: roll0=29750 +50
+#res4: 484
+#disp4: roll0=29800 +50
+#res0: 207
+#disp0: roll0=29850 +50
+#res7: 12
+#disp7: roll0=29900 +50
+#res5: 0
+#disp5: roll0=29950 +50
+#res3: 0
+#disp3: roll0=30000 +50
+#res2: 0
+#disp2: roll0=30050 +50
+#res6: 10
+#disp6: roll0=30100 +50
+#res1: 414
+#disp1: roll0=30150 +50
+#res4: 1011
+#disp4: roll0=30200 +50
+#res7: 0
+#disp7: roll0=30250 +50
+#res0: 35
+#disp0: roll0=30300 +50
+#res5: 1
+#disp5: roll0=30350 +50
+#res3: 45
+#disp3: roll0=30400 +50
+#res2: 1877
+#disp2: roll0=30450 +50
+#res6: 1046
+#disp6: roll0=30500 +50
+#res1: 98
+#disp1: roll0=30550 +50
+#res4: 120
+#disp4: roll0=30600 +50
+#res7: 1034
+#disp7: roll0=30650 +50
+#res0: 4253
+#disp0: roll0=30700 +50
+#res5: 342
+#disp5: roll0=30750 +50
+#res3: 1235
+#disp3: roll0=30800 +50
+#res2: 5106
+#disp2: roll0=30850 +50
+#res6: 1592
+#disp6: roll0=30900 +50
+#res1: 2352
+#disp1: roll0=30950 +50
+#res4: 1262
+#disp4: roll0=31000 +50
+#res2: 9
+#disp2: roll0=31050 +50
+#res7: 254
+#disp7: roll0=31100 +50
+#res5: 0
+#disp5: roll0=31150 +50
+#res0: 47
+#disp0: roll0=31200 +50
+#res3: 0
+#disp3: roll0=31250 +50
+#res6: 9
+#disp6: roll0=31300 +50
+#res1: 0
+#disp1: roll0=31350 +50
+#res4: 41
+#disp4: roll0=31400 +50
+#res7: 94
+#disp7: roll0=31450 +50
+#res2: 0
+#disp2: roll0=31500 +50
+#res5: 33
+#disp5: roll0=31550 +50
+#res0: 8
+#disp0: roll0=31600 +50
+#res3: 1
+#disp3: roll0=31650 +50
+#res6: 0
+#disp6: roll0=31700 +50
+#res1: 0
+#disp1: roll0=31750 +50
+#res4: 15
+#disp4: roll0=31800 +50
+#res5: 156
+#disp5: roll0=31850 +50
+#res7: 615
+#disp7: roll0=31900 +50
+#res2: 274
+#disp2: roll0=31950 +50
+#res0: 1
+#disp0: roll0=32000 +50
+#res3: 233
+#disp3: roll0=32050 +50
+#res6: 0
+#disp6: roll0=32100 +50
+#res1: 125
+#disp1: roll0=32150 +50
+#res4: 8
+#disp4: roll0=32200 +50
+#res5: 0
+#disp5: roll0=32250 +50
+#res7: 0
+#disp7: roll0=32300 +50
+#res2: 2
+#disp2: roll0=32350 +50
+#res0: 479
+#disp0: roll0=32400 +50
+#res3: 223
+#disp3: roll0=32450 +50
+#res6: 13
+#disp6: roll0=32500 +50
+#res1: 0
+#disp1: roll0=32550 +50
+#res4: 9
+#disp4: roll0=32600 +50
+#res5: 0
+#disp5: roll0=32650 +50
+#res7: 0
+#disp7: roll0=32700 +50
+#res2: 0
+#disp2: roll0=32750 +50
+#res0: 9
+#disp0: roll0=32800 +50
+#res3: 571
+#disp3: roll0=32850 +50
+#res6: 608
+#disp6: roll0=32900 +50
+#res1: 29
+#disp1: roll0=32950 +50
+#res4: 0
+#disp4: roll0=33000 +50
+#res5: 0
+#disp5: roll0=33050 +50
+#res7: 0
+#disp7: roll0=33100 +50
+#res2: 37
+#disp2: roll0=33150 +50
+#res0: 434
+#disp0: roll0=33200 +50
+#res3: 2123
+#disp3: roll0=33250 +50
+#res6: 192
+#disp6: roll0=33300 +50
+#res1: 0
+#disp1: roll0=33350 +50
+#res4: 8
+#disp4: roll0=33400 +50
+#res5: 150
+#disp5: roll0=33450 +50
+#res7: 2354
+#disp7: roll0=33500 +50
+#res2: 2996
+#disp2: roll0=33550 +50
+#res0: 267
+#disp0: roll0=33600 +50
+#res3: 36
+#disp3: roll0=33650 +50
+#res6: 2127
+#disp6: roll0=33700 +50
+#res1: 6652
+#disp1: roll0=33750 +50
+#res4: 1463
+#disp4: roll0=33800 +50
+#res5: 521
+#disp5: roll0=33850 +50
+#res7: 7165
+#disp7: roll0=33900 +50
+#res0: 3106
+#disp0: roll0=33950 +50
+#res2: 4813
+#disp2: roll0=34000 +50
+#res3: 4645
+#disp3: roll0=34050 +50
+#res6: 517
+#disp6: roll0=34100 +50
+#res7: 38
+#disp7: roll0=34150 +50
+#res1: 349
+#disp1: roll0=34200 +50
+#res5: 1
+#disp5: roll0=34250 +50
+#res4: 37
+#disp4: roll0=34300 +50
+#res0: 0
+#disp0: roll0=34350 +50
+#res2: 0
+#disp2: roll0=34400 +50
+#res3: 0
+#disp3: roll0=34450 +50
+#res6: 0
+#disp6: roll0=34500 +50
+#res7: 0
+#disp7: roll0=34550 +50
+#res1: 0
+#disp1: roll0=34600 +50
+#res5: 0
+#disp5: roll0=34650 +50
+#res4: 0
+#disp4: roll0=34700 +50
+#res0: 157
+#disp0: roll0=34750 +50
+#res2: 951
+#disp2: roll0=34800 +50
+#res3: 79
+#disp3: roll0=34850 +50
+#res6: 0
+#disp6: roll0=34900 +50
+#res7: 0
+#disp7: roll0=34950 +50
+#res1: 0
+#disp1: roll0=35000 +50
+#res5: 0
+#disp5: roll0=35050 +50
+#res4: 0
+#disp4: roll0=35100 +50
+#res0: 1
+#disp0: roll0=35150 +50
+#res2: 316
+#disp2: roll0=35200 +50
+#res3: 1943
+#disp3: roll0=35250 +50
+#res6: 470
+#disp6: roll0=35300 +50
+#res7: 54
+#disp7: roll0=35350 +50
+#res1: 0
+#disp1: roll0=35400 +50
+#res5: 0
+#disp5: roll0=35450 +50
+#res4: 9
+#disp4: roll0=35500 +50
+#res0: 159
+#disp0: roll0=35550 +50
+#res2: 3281
+#disp2: roll0=35600 +50
+#res3: 2217
+#disp3: roll0=35650 +50
+#res6: 240
+#disp6: roll0=35700 +50
+#res7: 0
+#disp7: roll0=35750 +50
+#res1: 36
+#disp1: roll0=35800 +50
+#res5: 1581
+#disp5: roll0=35850 +50
+#res4: 6812
+#disp4: roll0=35900 +50
+#res0: 2652
+#disp0: roll0=35950 +50
+#res2: 261
+#disp2: roll0=36000 +50
+#res3: 775
+#disp3: roll0=36050 +50
+#res6: 7028
+#disp6: roll0=36100 +50
+#res7: 9429
+#disp7: roll0=36150 +50
+#res1: 1687
+#disp1: roll0=36200 +50
+#res5: 4598
+#disp5: roll0=36250 +50
+#res4: 13295
+#disp4: roll0=36300 +50
+#res2: 8424
+#disp2: roll0=36350 +50
+#res0: 4688
+#disp0: roll0=36400 +50
+#res3: 4398
+#disp3: roll0=36450 +50
+#res6: 1867
+#disp6: roll0=36500 +50
+#res5: 11
+#disp5: roll0=36550 +50
+#res4: 130
+#disp4: roll0=36600 +50
+#res1: 15
+#disp1: roll0=36650 +50
+#res7: 284
+#disp7: roll0=36700 +50
+#res0: 0
+#disp0: roll0=36750 +50
+#res2: 0
+#disp2: roll0=36800 +50
+#res3: 0
+#disp3: roll0=36850 +50
+#res6: 0
+#disp6: roll0=36900 +50
+#res5: 9
+#disp5: roll0=36950 +50
+#res4: 159
+#disp4: roll0=37000 +50
+#res1: 2430
+#disp1: roll0=37050 +50
+#res7: 3045
+#disp7: roll0=37100 +50
+#res0: 268
+#disp0: roll0=37150 +50
+#res2: 0
+#disp2: roll0=37200 +50
+#res3: 1
+#disp3: roll0=37250 +50
+#res6: 1
+#disp6: roll0=37300 +50
+#res5: 373
+#disp5: roll0=37350 +50
+#res4: 2388
+#disp4: roll0=37400 +50
+#res1: 7670
+#disp1: roll0=37450 +50
+#res7: 1305
+#disp7: roll0=37500 +50
+#res0: 0
+#disp0: roll0=37550 +50
+#res2: 117
+#disp2: roll0=37600 +50
+#res3: 1053
+#disp3: roll0=37650 +50
+#res6: 7976
+#disp6: roll0=37700 +50
+#res5: 10415
+#disp5: roll0=37750 +50
+#res4: 1468
+#disp4: roll0=37800 +50
+#res1: 350
+#disp1: roll0=37850 +50
+#res7: 7605
+#disp7: roll0=37900 +50
+#res0: 18083
+#disp0: roll0=37950 +50
+#res2: 6113
+#disp2: roll0=38000 +50
+#res3: 2477
+#disp3: roll0=38050 +50
+#res6: 18341
+#disp6: roll0=38100 +50
+#res5: 13157
+#disp5: roll0=38150 +50
+#res4: 10855
+#disp4: roll0=38200 +50
+#res1: 14384
+#disp1: roll0=38250 +50
+#res7: 3223
+#disp7: roll0=38300 +50
+#res2: 386
+#disp2: roll0=38350 +50
+#res0: 1963
+#disp0: roll0=38400 +50
+#res3: 47
+#disp3: roll0=38450 +50
+#res6: 429
+#disp6: roll0=38500 +50
+#res5: 0
+#disp5: roll0=38550 +50
+#res4: 0
+#disp4: roll0=38600 +50
+#res1: 8
+#disp1: roll0=38650 +50
+#res7: 160
+#disp7: roll0=38700 +50
+#res2: 3590
+#disp2: roll0=38750 +50
+#res0: 12523
+#disp0: roll0=38800 +50
+#res3: 5626
+#disp3: roll0=38850 +50
+#res6: 1
+#disp6: roll0=38900 +50
+#res5: 38
+#disp5: roll0=38950 +50
+#res4: 1643
+#disp4: roll0=39000 +50
+#res1: 8586
+#disp1: roll0=39050 +50
+#res7: 20562
+#disp7: roll0=39100 +50
+#res2: 6075
+#disp2: roll0=39150 +50
+#res0: 152
+#disp0: roll0=39200 +50
+#res3: 5475
+#disp3: roll0=39250 +50
+#res6: 25678
+#disp6: roll0=39300 +50
+#res4: 5884
+#disp4: roll0=39350 +50
+#res5: 18210
+#disp5: roll0=39400 +50
+#res1: 20593
+#disp1: roll0=39450 +50
+#res7: 26767
+#disp7: roll0=39500 +50
+#res2: 17326
+#disp2: roll0=39550 +50
+#res0: 21648
+#disp0: roll0=39600 +50
+#res3: 9276
+#disp3: roll0=39650 +50
+#res6: 5107
+#disp6: roll0=39700 +50
+#res1: 1196
+#disp1: roll0=39750 +50
+#res5: 154
+#disp5: roll0=39800 +50
+#res4: 1159
+#disp4: roll0=39850 +50
+#res7: 1
+#disp7: roll0=39900 +50
+#res2: 128
+#disp2: roll0=39950 +50
+#res0: 3054
+#disp0: roll0=40000 +50
+#res3: 14366
+#disp3: roll0=40050 +50
+#res6: 29550
+#disp6: roll0=40100 +50
+#res1: 11337
+#disp1: roll0=40150 +50
+#res5: 335
+#disp5: roll0=40200 +50
+#res4: 9265
+#disp4: roll0=40250 +50
+#res7: 35860
+#disp7: roll0=40300 +50
+#res0: 10103
+#disp0: roll0=40350 +50
+#res2: 27897
+#disp2: roll0=40400 +50
+#res3: 27618
+#disp3: roll0=40450 +50
+#res6: 36854
+#disp6: roll0=40500 +50
+#res1: 25434
+#disp1: roll0=40550 +50
+#res5: 30235
+#disp5: roll0=40600 +50
+#res4: 15298
+#disp4: roll0=40650 +50
+#res7: 9469
+#disp7: roll0=40700 +50
+#res3: 2231
+#disp3: roll0=40750 +50
+#res2: 481
+#disp2: roll0=40800 +50
+#res0: 2641
+#disp0: roll0=40850 +50
+#res6: 822
+#disp6: roll0=40900 +50
+#res1: 6756
+#disp1: roll0=40950 +50
+#res5: 25047
+#disp5: roll0=41000 +50
+#res4: 30774
+#disp4: roll0=41050 +50
+#res7: 12765
+#disp7: roll0=41100 +50
+#res3: 19315
+#disp3: roll0=41150 +50
+#res2: 35448
+#disp2: roll0=41200 +50
+#res0: 21912
+#disp0: roll0=41250 +50
+#res6: 32833
+#disp6: roll0=41300 +50
+#res1: 21854
+#disp1: roll0=41350 +50
+#res5: 15246
+#disp5: roll0=41400 +50
+#res4: 6143
+#disp4: roll0=41450 +50
+#res7: 1340
+#disp7: roll0=41500 +50
+#res3: 1254
+#disp3: roll0=41550 +50
+#res2: 6845
+#disp2: roll0=41600 +50
+#res0: 7922
+#disp0: roll0=41650 +50
+#res6: 13674
+#disp6: roll0=41700 +50
+#res1: 7023
+#disp1: roll0=41750 +50
+#res5: 19329
+#disp5: roll0=41800 +50
+#res7: 7075
+#disp7: roll0=41850 +50
+#res4: 10006
+#disp4: roll0=41900 +50
+#res2: 282
+#disp2: roll0=41950 +50
+#res3: 2194
+#disp3: roll0=42000 +50
+#res0: 455
+#disp0: roll0=42050 +50
+#res6: 1259
+#disp6: roll0=42100 +50
+#res1: 467
+#disp1: roll0=42150 +50
+#res5: 456
+#disp5: roll0=42200 +50
+#res3: 882
+#disp3: roll0=42250 +50
+#res7: 785
+#disp7: roll0=42300 +50
+#res4: 126
+#disp4: roll0=42350 +50
+#res0: 1
+#disp0: roll0=42400 +50
+#res2: 10
+#disp2: roll0=42450 +50
+#res6: 10
+#disp6: roll0=42500 +50
+#res6: 10637
+#disp6: roll0=42550 +50
+#res2: 49782
+#disp2: roll0=42600 +50
+#res4: 4946
+#disp4: roll0=42650 +50
+#res0: 11554
+#disp0: roll0=42700 +50
+#res5: 1329
+#disp5: roll0=42750 +50
+#res3: 827
+#disp3: roll0=42800 +50
+#res1: 17
+#disp1: roll0=42850 +50
+#res6: 1133
+#disp6: roll0=42900 +50
+#res7: 237
+#disp7: roll0=42950 +50
+#res2: 0
+#disp2: roll0=43000 +50
+#res0: 3372
+#disp0: roll0=43050 +50
+#res4: 3603
+#disp4: roll0=43100 +50
+#res1: 1429
+#disp1: roll0=43150 +50
+#res5: 2
+#disp5: roll0=43200 +50
+#res3: 0
+#disp3: roll0=43250 +50
+#res6: 0
+#disp6: roll0=43300 +50
+#res2: 79
+#disp2: roll0=43350 +50
+#res7: 0
+#disp7: roll0=43400 +50
+#res0: 0
+#disp0: roll0=43450 +50
+#res4: 0
+#disp4: roll0=43500 +50
+#res1: 1
+#disp1: roll0=43550 +50
+#res5: 0
+#disp5: roll0=43600 +50
+#res3: 1
+#disp3: roll0=43650 +50
+#res6: 40
+#disp6: roll0=43700 +50
+#res2: 151
+#disp2: roll0=43750 +50
+#res7: 74
+#disp7: roll0=43800 +50
+#res0: 101
+#disp0: roll0=43850 +50
+#res4: 7
+#disp4: roll0=43900 +50
+#res1: 0
+#disp1: roll0=43950 +50
+#res0: 1421
+#disp0: roll0=44000 +50
+#res5: 0
+#disp5: roll0=44050 +50
+#res3: 2
+#disp3: roll0=44100 +50
+#res7: 1866
+#disp7: roll0=44150 +50
+#res6: 65
+#disp6: roll0=44200 +50
+#res2: 552
+#disp2: roll0=44250 +50
+#res4: 0
+#disp4: roll0=44300 +50
+#res1: 0
+#disp1: roll0=44350 +50
+#res0: 553
+#disp0: roll0=44400 +50
+#res5: 0
+#disp5: roll0=44450 +50
+#res7: 17
+#disp7: roll0=44500 +50
+#res3: 0
+#disp3: roll0=44550 +50
+#res6: 0
+#disp6: roll0=44600 +50
+#res4: 0
+#disp4: roll0=44650 +50
+#res2: 0
+#disp2: roll0=44700 +50
+#res0: 8
+#disp0: roll0=44750 +50
+#res1: 0
+#disp1: roll0=44800 +50
+#res7: 92
+#disp7: roll0=44850 +50
+#res5: 1
+#disp5: roll0=44900 +50
+#res3: 1
+#disp3: roll0=44950 +50
+#res6: 33
+#disp6: roll0=45000 +50
+#res4: 1
+#disp4: roll0=45050 +50
+#res2: 0
+#disp2: roll0=45100 +50
+#res0: 0
+#disp0: roll0=45150 +50
+#res1: 0
+#disp1: roll0=45200 +50
+#res3: 188
+#disp3: roll0=45250 +50
+#res6: 0
+#disp6: roll0=45300 +50
+#res7: 102
+#disp7: roll0=45350 +50
+#res5: 117
+#disp5: roll0=45400 +50
+#res2: 2
+#disp2: roll0=45450 +50
+#res4: 0
+#disp4: roll0=45500 +50
+#res0: 0
+#disp0: roll0=45550 +50
+#res1: 0
+#disp1: roll0=45600 +50
+#res3: 0
+#disp3: roll0=45650 +50
+#res7: 1
+#disp7: roll0=45700 +50
+#res6: 1
+#disp6: roll0=45750 +50
+#res5: 40
+#disp5: roll0=45800 +50
+#res2: 0
+#disp2: roll0=45850 +50
+#res4: 224
+#disp4: roll0=45900 +50
+#res0: 100
+#disp0: roll0=45950 +50
+#res1: 1
+#disp1: roll0=46000 +50
+#res3: 7
+#disp3: roll0=46050 +50
+#res7: 0
+#disp7: roll0=46100 +50
+#res6: 0
+#disp6: roll0=46150 +50
+#res5: 58
+#disp5: roll0=46200 +50
+#res0: 0
+#disp0: roll0=46250 +50
+#res4: 30
+#disp4: roll0=46300 +50
+#res2: 399
+#disp2: roll0=46350 +50
+#res3: 0
+#disp3: roll0=46400 +50
+#res1: 0
+#disp1: roll0=46450 +50
+#res7: 8
+#disp7: roll0=46500 +50
+#res6: 0
+#disp6: roll0=46550 +50
+#res5: 125
+#disp5: roll0=46600 +50
+#res0: 0
+#disp0: roll0=46650 +50
+#res4: 451
+#disp4: roll0=46700 +50
+#res2: 168
+#disp2: roll0=46750 +50
+#res3: 82
+#disp3: roll0=46800 +50
+#res1: 27
+#disp1: roll0=46850 +50
+#res7: 0
+#disp7: roll0=46900 +50
+#res6: 0
+#disp6: roll0=46950 +50
+#res5: 10
+#disp5: roll0=47000 +50
+#res2: 14
+#disp2: roll0=47050 +50
+#res0: 343
+#disp0: roll0=47100 +50
+#res4: 169
+#disp4: roll0=47150 +50
+#res3: 1
+#disp3: roll0=47200 +50
+#res1: 25
+#disp1: roll0=47250 +50
+#res7: 208
+#disp7: roll0=47300 +50
+#res6: 291
+#disp6: roll0=47350 +50
+#res5: 469
+#disp5: roll0=47400 +50
+#res2: 457
+#disp2: roll0=47450 +50
+#res0: 3
+#disp0: roll0=47500 +50
+#res4: 76
+#disp4: roll0=47550 +50
+#res3: 1
+#disp3: roll0=47600 +50
+#res1: 13
+#disp1: roll0=47650 +50
+#res7: 172
+#disp7: roll0=47700 +50
+#res2: 134
+#disp2: roll0=47750 +50
+#res6: 711
+#disp6: roll0=47800 +50
+#res5: 93
+#disp5: roll0=47850 +50
+#res0: 1
+#disp0: roll0=47900 +50
+#res4: 232
+#disp4: roll0=47950 +50
+#res3: 124
+#disp3: roll0=48000 +50
+#res1: 1
+#disp1: roll0=48050 +50
+#res7: 8
+#disp7: roll0=48100 +50
+#res2: 0
+#disp2: roll0=48150 +50
+#res6: 0
+#disp6: roll0=48200 +50
+#res5: 31
+#disp5: roll0=48250 +50
+#res0: 346
+#disp0: roll0=48300 +50
+#res4: 21
+#disp4: roll0=48350 +50
+#res3: 1
+#disp3: roll0=48400 +50
+#res1: 7
+#disp1: roll0=48450 +50
+#res7: 1
+#disp7: roll0=48500 +50
+#res2: 0
+#disp2: roll0=48550 +50
+#res6: 0
+#disp6: roll0=48600 +50
+#res5: 0
+#disp5: roll0=48650 +50
+#res0: 2
+#disp0: roll0=48700 +50
+#res4: 406
+#disp4: roll0=48750 +50
+#res3: 72
+#disp3: roll0=48800 +50
+#res1: 7
+#disp1: roll0=48850 +50
+#res7: 0
+#disp7: roll0=48900 +50
+#res2: 0
+#disp2: roll0=48950 +50
+#res6: 0
+#disp6: roll0=49000 +50
+#res5: 9
+#disp5: roll0=49050 +50
+#res0: 738
+#disp0: roll0=49100 +50
+#res3: 28
+#disp3: roll0=49150 +50
+#res4: 439
+#disp4: roll0=49200 +50
+#res1: 0
+#disp1: roll0=49250 +50
+#res7: 1
+#disp7: roll0=49300 +50
+#res2: 78
+#disp2: roll0=49350 +50
+#res6: 1955
+#disp6: roll0=49400 +50
+#res5: 634
+#disp5: roll0=49450 +50
+#res0: 81
+#disp0: roll0=49500 +50
+#res3: 116
+#disp3: roll0=49550 +50
+#res4: 1714
+#disp4: roll0=49600 +50
+#res1: 3258
+#disp1: roll0=49650 +50
+#res7: 296
+#disp7: roll0=49700 +50
+#res2: 1305
+#disp2: roll0=49750 +50
+#res6: 5031
+#disp6: roll0=49800 +50
+#res5: 1265
+#disp5: roll0=49850 +50
+#res0: 2260
+#disp0: roll0=49900 +50
+#res4: 272
+#disp4: roll0=49950 +50
+#res3: 1094
+#disp3: roll0=50000 +50
+#res1: 17
+#disp1: roll0=50050 +50
+#res6: 1347
+#disp6: roll0=50100 +50
+#res5: 78
+#disp5: roll0=50150 +50
+#res2: 0
+#disp2: roll0=50200 +50
+#res7: 0
+#disp7: roll0=50250 +50
+#res0: 0
+#disp0: roll0=50300 +50
+#res3: 25
+#disp3: roll0=50350 +50
+#res4: 169
+#disp4: roll0=50400 +50
+#res6: 3
+#disp6: roll0=50450 +50
+#res1: 0
+#disp1: roll0=50500 +50
+#res5: 0
+#disp5: roll0=50550 +50
+#res7: 0
+#disp7: roll0=50600 +50
+#res2: 0
+#disp2: roll0=50650 +50
+#res0: 1
+#disp0: roll0=50700 +50
+#res4: 41
+#disp4: roll0=50750 +50
+#res3: 0
+#disp3: roll0=50800 +50
+#res1: 225
+#disp1: roll0=50850 +50
+#res6: 0
+#disp6: roll0=50900 +50
+#res5: 74
+#disp5: roll0=50950 +50
+#res7: 27
+#disp7: roll0=51000 +50
+#res2: 7
+#disp2: roll0=51050 +50
+#res0: 0
+#disp0: roll0=51100 +50
+#res4: 0
+#disp4: roll0=51150 +50
+#res5: 63
+#disp5: roll0=51200 +50
+#res3: 4
+#disp3: roll0=51250 +50
+#res1: 397
+#disp1: roll0=51300 +50
+#res6: 177
+#disp6: roll0=51350 +50
+#res7: 0
+#disp7: roll0=51400 +50
+#res0: 0
+#disp0: roll0=51450 +50
+#res2: 0
+#disp2: roll0=51500 +50
+#res4: 0
+#disp4: roll0=51550 +50
+#res3: 8
+#disp3: roll0=51600 +50
+#res5: 0
+#disp5: roll0=51650 +50
+#res6: 99
+#disp6: roll0=51700 +50
+#res1: 1
+#disp1: roll0=51750 +50
+#res7: 34
+#disp7: roll0=51800 +50
+#res0: 422
+#disp0: roll0=51850 +50
+#res2: 53
+#disp2: roll0=51900 +50
+#res4: 257
+#disp4: roll0=51950 +50
+#res3: 26
+#disp3: roll0=52000 +50
+#res5: 1
+#disp5: roll0=52050 +50
+#res6: 0
+#disp6: roll0=52100 +50
+#res1: 14
+#disp1: roll0=52150 +50
+#res2: 37
+#disp2: roll0=52200 +50
+#res7: 174
+#disp7: roll0=52250 +50
+#res4: 0
+#disp4: roll0=52300 +50
+#res0: 916
+#disp0: roll0=52350 +50
+#res5: 1
+#disp5: roll0=52400 +50
+#res3: 0
+#disp3: roll0=52450 +50
+#res1: 1
+#disp1: roll0=52500 +50
+#res6: 32
+#disp6: roll0=52550 +50
+#res2: 317
+#disp2: roll0=52600 +50
+#res4: 868
+#disp4: roll0=52650 +50
+#res7: 8
+#disp7: roll0=52700 +50
+#res0: 514
+#disp0: roll0=52750 +50
+#res5: 30
+#disp5: roll0=52800 +50
+#res3: 82
+#disp3: roll0=52850 +50
+#res1: 2
+#disp1: roll0=52900 +50
+#res6: 2
+#disp6: roll0=52950 +50
+#res0: 9
+#disp0: roll0=53000 +50
+#res2: 206
+#disp2: roll0=53050 +50
+#res7: 112
+#disp7: roll0=53100 +50
+#res4: 894
+#disp4: roll0=53150 +50
+#res3: 336
+#disp3: roll0=53200 +50
+#res5: 0
+#disp5: roll0=53250 +50
+#res6: 1201
+#disp6: roll0=53300 +50
+#res1: 179
+#disp1: roll0=53350 +50
+#res0: 186
+#disp0: roll0=53400 +50
+#res2: 895
+#disp2: roll0=53450 +50
+#res7: 183
+#disp7: roll0=53500 +50
+#res4: 14
+#disp4: roll0=53550 +50
+#res3: 13
+#disp3: roll0=53600 +50
+#res5: 70
+#disp5: roll0=53650 +50
+#res6: 661
+#disp6: roll0=53700 +50
+#res0: 141
+#disp0: roll0=53750 +50
+#res1: 1138
+#disp1: roll0=53800 +50
+#res2: 324
+#disp2: roll0=53850 +50
+#res7: 321
+#disp7: roll0=53900 +50
+#res4: 186
+#disp4: roll0=53950 +50
+#res3: 317
+#disp3: roll0=54000 +50
+#res5: 32
+#disp5: roll0=54050 +50
+#res6: 2
+#disp6: roll0=54100 +50
+#res0: 0
+#disp0: roll0=54150 +50
+#res1: 8
+#disp1: roll0=54200 +50
+#res2: 128
+#disp2: roll0=54250 +50
+#res7: 803
+#disp7: roll0=54300 +50
+#res3: 1
+#disp3: roll0=54350 +50
+#res4: 41
+#disp4: roll0=54400 +50
+#res5: 33
+#disp5: roll0=54450 +50
+#res6: 0
+#disp6: roll0=54500 +50
+#res0: 1
+#disp0: roll0=54550 +50
+#res1: 0
+#disp1: roll0=54600 +50
+#res2: 7
+#disp2: roll0=54650 +50
+#res7: 150
+#disp7: roll0=54700 +50
+#res3: 915
+#disp3: roll0=54750 +50
+#res4: 65
+#disp4: roll0=54800 +50
+#res5: 0
+#disp5: roll0=54850 +50
+#res6: 0
+#disp6: roll0=54900 +50
+#res0: 0
+#disp0: roll0=54950 +50
+#res1: 1
+#disp1: roll0=55000 +50
+#res2: 203
+#disp2: roll0=55050 +50
+#res7: 1698
+#disp7: roll0=55100 +50
+#res4: 74
+#disp4: roll0=55150 +50
+#res3: 476
+#disp3: roll0=55200 +50
+#res5: 0
+#disp5: roll0=55250 +50
+#res6: 75
+#disp6: roll0=55300 +50
+#res0: 942
+#disp0: roll0=55350 +50
+#res1: 3304
+#disp1: roll0=55400 +50
+#res2: 557
+#disp2: roll0=55450 +50
+#res7: 1
+#disp7: roll0=55500 +50
+#res4: 418
+#disp4: roll0=55550 +50
+#res3: 4430
+#disp3: roll0=55600 +50
+#res5: 3092
+#disp5: roll0=55650 +50
+#res6: 584
+#disp6: roll0=55700 +50
+#res0: 3260
+#disp0: roll0=55750 +50
+#res1: 6099
+#disp1: roll0=55800 +50
+#res2: 2618
+#disp2: roll0=55850 +50
+#res7: 3687
+#disp7: roll0=55900 +50
+#res4: 812
+#disp4: roll0=55950 +50
+#res5: 37
+#disp5: roll0=56000 +50
+#res3: 429
+#disp3: roll0=56050 +50
+#res1: 170
+#disp1: roll0=56100 +50
+#res0: 11
+#disp0: roll0=56150 +50
+#res6: 1
+#disp6: roll0=56200 +50
+#res2: 0
+#disp2: roll0=56250 +50
+#res4: 2
+#disp4: roll0=56300 +50
+#res7: 0
+#disp7: roll0=56350 +50
+#res5: 1
+#disp5: roll0=56400 +50
+#res3: 0
+#disp3: roll0=56450 +50
+#res1: 41
+#disp1: roll0=56500 +50
+#res0: 0
+#disp0: roll0=56550 +50
+#res6: 243
+#disp6: roll0=56600 +50
+#res2: 106
+#disp2: roll0=56650 +50
+#res4: 849
+#disp4: roll0=56700 +50
+#res7: 82
+#disp7: roll0=56750 +50
+#res5: 573
+#disp5: roll0=56800 +50
+#res3: 84
+#disp3: roll0=56850 +50
+#res1: 1
+#disp1: roll0=56900 +50
+#res0: 3
+#disp0: roll0=56950 +50
+#res6: 58
+#disp6: roll0=57000 +50
+#res7: 115
+#disp7: roll0=57050 +50
+#res2: 857
+#disp2: roll0=57100 +50
+#res4: 1356
+#disp4: roll0=57150 +50
+#res5: 0
+#disp5: roll0=57200 +50
+#res3: 0
+#disp3: roll0=57250 +50
+#res1: 8
+#disp1: roll0=57300 +50
+#res0: 94
+#disp0: roll0=57350 +50
+#res6: 92
+#disp6: roll0=57400 +50
+#res7: 615
+#disp7: roll0=57450 +50
+#res2: 548
+#disp2: roll0=57500 +50
+#res5: 1070
+#disp5: roll0=57550 +50
+#res4: 1055
+#disp4: roll0=57600 +50
+#res3: 20
+#disp3: roll0=57650 +50
+#res1: 215
+#disp1: roll0=57700 +50
+#res0: 9
+#disp0: roll0=57750 +50
+#res6: 41
+#disp6: roll0=57800 +50
+#res4: 41
+#disp4: roll0=57850 +50
+#res5: 265
+#disp5: roll0=57900 +50
+#res7: 459
+#disp7: roll0=57950 +50
+#res2: 1568
+#disp2: roll0=58000 +50
+#res1: 890
+#disp1: roll0=58050 +50
+#res3: 0
+#disp3: roll0=58100 +50
+#res6: 2012
+#disp6: roll0=58150 +50
+#res0: 156
+#disp0: roll0=58200 +50
+#res4: 383
+#disp4: roll0=58250 +50
+#res5: 1648
+#disp5: roll0=58300 +50
+#res7: 423
+#disp7: roll0=58350 +50
+#res2: 49
+#disp2: roll0=58400 +50
+#res1: 31
+#disp1: roll0=58450 +50
+#res3: 181
+#disp3: roll0=58500 +50
+#res4: 685
+#disp4: roll0=58550 +50
+#res6: 1582
+#disp6: roll0=58600 +50
+#res0: 1476
+#disp0: roll0=58650 +50
+#res5: 304
+#disp5: roll0=58700 +50
+#res7: 716
+#disp7: roll0=58750 +50
+#res2: 253
+#disp2: roll0=58800 +50
+#res1: 669
+#disp1: roll0=58850 +50
+#res3: 100
+#disp3: roll0=58900 +50
+#res4: 9
+#disp4: roll0=58950 +50
+#res6: 2
+#disp6: roll0=59000 +50
+#res0: 37
+#disp0: roll0=59050 +50
+#res5: 328
+#disp5: roll0=59100 +50
+#res7: 1441
+#disp7: roll0=59150 +50
+#res2: 111
+#disp2: roll0=59200 +50
+#res1: 8
+#disp1: roll0=59250 +50
+#res3: 100
+#disp3: roll0=59300 +50
+#res4: 8
+#disp4: roll0=59350 +50
+#res6: 0
+#disp6: roll0=59400 +50
+#res0: 1
+#disp0: roll0=59450 +50
+#res5: 35
+#disp5: roll0=59500 +50
+#res7: 316
+#disp7: roll0=59550 +50
+#res1: 106
+#disp1: roll0=59600 +50
+#res2: 1481
+#disp2: roll0=59650 +50
+#res3: 0
+#disp3: roll0=59700 +50
+#res4: 0
+#disp4: roll0=59750 +50
+#res6: 0
+#disp6: roll0=59800 +50
+#res0: 8
+#disp0: roll0=59850 +50
+#res5: 651
+#disp5: roll0=59900 +50
+#res2: 0
+#disp2: roll0=59950 +50
+#res7: 2518
+#disp7: roll0=60000 +50
+#res1: 572
+#disp1: roll0=60050 +50
+#res3: 14
+#disp3: roll0=60100 +50
+#res4: 254
+#disp4: roll0=60150 +50
+#res6: 1384
+#disp6: roll0=60200 +50
+#res0: 4496
+#disp0: roll0=60250 +50
+#res5: 668
+#disp5: roll0=60300 +50
+#res2: 8
+#disp2: roll0=60350 +50
+#res7: 867
+#disp7: roll0=60400 +50
+#res1: 6219
+#disp1: roll0=60450 +50
+#res3: 3284
+#disp3: roll0=60500 +50
+#res4: 800
+#disp4: roll0=60550 +50
+#res6: 5646
+#disp6: roll0=60600 +50
+#res0: 6001
+#disp0: roll0=60650 +50
+#res5: 3376
+#disp5: roll0=60700 +50
+#res2: 4633
+#disp2: roll0=60750 +50
+#res7: 1387
+#disp7: roll0=60800 +50
+#res1: 642
+#disp1: roll0=60850 +50
+#res3: 103
+#disp3: roll0=60900 +50
+#res6: 127
+#disp6: roll0=60950 +50
+#res0: 9
+#disp0: roll0=61000 +50
+#res4: 7
+#disp4: roll0=61050 +50
+#res2: 0
+#disp2: roll0=61100 +50
+#res5: 0
+#disp5: roll0=61150 +50
+#res7: 250
+#disp7: roll0=61200 +50
+#res3: 1295
+#disp3: roll0=61250 +50
+#res1: 7
+#disp1: roll0=61300 +50
+#res6: 109
+#disp6: roll0=61350 +50
+#res0: 2662
+#disp0: roll0=61400 +50
+#res4: 110
+#disp4: roll0=61450 +50
+#res2: 1975
+#disp2: roll0=61500 +50
+#res5: 497
+#disp5: roll0=61550 +50
+#res7: 58
+#disp7: roll0=61600 +50
+#res3: 24
+#disp3: roll0=61650 +50
+#res1: 176
+#disp1: roll0=61700 +50
+#res4: 189
+#disp4: roll0=61750 +50
+#res6: 1725
+#disp6: roll0=61800 +50
+#res0: 1252
+#disp0: roll0=61850 +50
+#res2: 94
+#disp2: roll0=61900 +50
+#res5: 0
+#disp5: roll0=61950 +50
+#res7: 1903
+#disp7: roll0=62000 +50
+#res3: 164
+#disp3: roll0=62050 +50
+#res1: 3689
+#disp1: roll0=62100 +50
+#res4: 2355
+#disp4: roll0=62150 +50
+#res6: 555
+#disp6: roll0=62200 +50
+#res0: 836
+#disp0: roll0=62250 +50
+#res2: 144
+#disp2: roll0=62300 +50
+#res5: 100
+#disp5: roll0=62350 +50
+#res7: 1083
+#disp7: roll0=62400 +50
+#res3: 2621
+#disp3: roll0=62450 +50
+#res1: 897
+#disp1: roll0=62500 +50
+#res4: 1427
+#disp4: roll0=62550 +50
+#res0: 1607
+#disp0: roll0=62600 +50
+#res6: 9
+#disp6: roll0=62650 +50
+#res2: 660
+#disp2: roll0=62700 +50
+#res5: 515
+#disp5: roll0=62750 +50
+#res7: 255
+#disp7: roll0=62800 +50
+#res3: 15
+#disp3: roll0=62850 +50
+#res1: 7
+#disp1: roll0=62900 +50
+#res4: 144
+#disp4: roll0=62950 +50
+#res0: 1400
+#disp0: roll0=63000 +50
+#res6: 788
+#disp6: roll0=63050 +50
+#res2: 230
+#disp2: roll0=63100 +50
+#res5: 137
+#disp5: roll0=63150 +50
+#res7: 82
+#disp7: roll0=63200 +50
+#res3: 33
+#disp3: roll0=63250 +50
+#res1: 0
+#disp1: roll0=63300 +50
+#res4: 0
+#disp4: roll0=63350 +50
+#res0: 16
+#disp0: roll0=63400 +50
+#res6: 1133
+#disp6: roll0=63450 +50
+#res5: 46
+#disp5: roll0=63500 +50
+#res2: 574
+#disp2: roll0=63550 +50
+#res7: 1
+#disp7: roll0=63600 +50
+#res3: 0
+#disp3: roll0=63650 +50
+#res1: 1
+#disp1: roll0=63700 +50
+#res4: 52
+#disp4: roll0=63750 +50
+#res0: 1166
+#disp0: roll0=63800 +50
+#res6: 2085
+#disp6: roll0=63850 +50
+#res2: 0
+#disp2: roll0=63900 +50
+#res5: 119
+#disp5: roll0=63950 +50
+#res7: 8
+#disp7: roll0=64000 +50
+#res3: 171
+#disp3: roll0=64050 +50
+#res1: 3754
+#disp1: roll0=64100 +50
+#res4: 2334
+#disp4: roll0=64150 +50
+#res0: 262
+#disp0: roll0=64200 +50
+#res6: 333
+#disp6: roll0=64250 +50
+#res2: 2266
+#disp2: roll0=64300 +50
+#res5: 7698
+#disp5: roll0=64350 +50
+#res7: 832
+#disp7: roll0=64400 +50
+#res3: 2395
+#disp3: roll0=64450 +50
+#res1: 8555
+#disp1: roll0=64500 +50
+#res4: 3021
+#disp4: roll0=64550 +50
+#res0: 4801
+#disp0: roll0=64600 +50
+#res6: 2684
+#disp6: roll0=64650 +50
+#res2: 775
+#disp2: roll0=64700 +50
+#res5: 124
+#disp5: roll0=64750 +50
+#res1: 38
+#disp1: roll0=64800 +50
+#res7: 1
+#disp7: roll0=64850 +50
+#res3: 2
+#disp3: roll0=64900 +50
+#res4: 42
+#disp4: roll0=64950 +50
+#res0: 0
+#disp0: roll0=65000 +50
+#res6: 134
+#disp6: roll0=65050 +50
+#res5: 233
+#disp5: roll0=65100 +50
+#res2: 0
+#disp2: roll0=65150 +50
+#res1: 99
+#disp1: roll0=65200 +50
+#res7: 34
+#disp7: roll0=65250 +50
+#res3: 8
+#disp3: roll0=65300 +50
+#res4: 0
+#disp4: roll0=65350 +50
+#res0: 1
+#disp0: roll0=65400 +50
+#res6: 66
+#disp6: roll0=65450 +50
+#res1: 418
+#disp1: roll0=65500 +50
+#res5: 1342
+#disp5: roll0=65550 +50
+#res2: 670
+#disp2: roll0=65600 +50
+#res3: 506
+#disp3: roll0=65650 +50
+#res7: 8
+#disp7: roll0=65700 +50
+#res4: 1
+#disp4: roll0=65750 +50
+#res0: 318
+#disp0: roll0=65800 +50
+#res6: 34
+#disp6: roll0=65850 +50
+#res1: 0
+#disp1: roll0=65900 +50
+#res5: 0
+#disp5: roll0=65950 +50
+#res2: 16
+#disp2: roll0=66000 +50
+#res3: 1134
+#disp3: roll0=66050 +50
+#res7: 607
+#disp7: roll0=66100 +50
+#res4: 56
+#disp4: roll0=66150 +50
+#res0: 0
+#disp0: roll0=66200 +50
+#res6: 40
+#disp6: roll0=66250 +50
+#res1: 1
+#disp1: roll0=66300 +50
+#res5: 0
+#disp5: roll0=66350 +50
+#res2: 1
+#disp2: roll0=66400 +50
+#res3: 44
+#disp3: roll0=66450 +50
+#res7: 1467
+#disp7: roll0=66500 +50
+#res4: 1281
+#disp4: roll0=66550 +50
+#res0: 91
+#disp0: roll0=66600 +50
+#res6: 0
+#disp6: roll0=66650 +50
+#res1: 0
+#disp1: roll0=66700 +50
+#res5: 7
+#disp5: roll0=66750 +50
+#res2: 150
+#disp2: roll0=66800 +50
+#res3: 1081
+#disp3: roll0=66850 +50
+#res7: 4372
+#disp7: roll0=66900 +50
+#res4: 411
+#disp4: roll0=66950 +50
+#res0: 0
+#disp0: roll0=67000 +50
+#res6: 35
+#disp6: roll0=67050 +50
+#res1: 434
+#disp1: roll0=67100 +50
+#res5: 5041
+#disp5: roll0=67150 +50
+#res2: 5369
+#disp2: roll0=67200 +50
+#res3: 606
+#disp3: roll0=67250 +50
+#res7: 124
+#disp7: roll0=67300 +50
+#res4: 4247
+#disp4: roll0=67350 +50
+#res0: 11368
+#disp0: roll0=67400 +50
+#res6: 3092
+#disp6: roll0=67450 +50
+#res1: 1280
+#disp1: roll0=67500 +50
+#res5: 11726
+#disp5: roll0=67550 +50
+#res2: 8310
+#disp2: roll0=67600 +50
+#res3: 6779
+#disp3: roll0=67650 +50
+#res7: 7803
+#disp7: roll0=67700 +50
+#res5: 131
+#disp5: roll0=67750 +50
+#res4: 1368
+#disp4: roll0=67800 +50
+#res6: 131
+#disp6: roll0=67850 +50
+#res0: 872
+#disp0: roll0=67900 +50
+#res1: 17
+#disp1: roll0=67950 +50
+#res2: 0
+#disp2: roll0=68000 +50
+#res3: 0
+#disp3: roll0=68050 +50
+#res7: 0
+#disp7: roll0=68100 +50
+#res5: 0
+#disp5: roll0=68150 +50
+#res4: 0
+#disp4: roll0=68200 +50
+#res6: 0
+#disp6: roll0=68250 +50
+#res0: 0
+#disp0: roll0=68300 +50
+#res1: 2
+#disp1: roll0=68350 +50
+#res2: 453
+#disp2: roll0=68400 +50
+#res3: 2076
+#disp3: roll0=68450 +50
+#res7: 254
+#disp7: roll0=68500 +50
+#res5: 0
+#disp5: roll0=68550 +50
+#res4: 1
+#disp4: roll0=68600 +50
+#res6: 0
+#disp6: roll0=68650 +50
+#res0: 0
+#disp0: roll0=68700 +50
+#res1: 0
+#disp1: roll0=68750 +50
+#res2: 9
+#disp2: roll0=68800 +50
+#res3: 798
+#disp3: roll0=68850 +50
+#res7: 4013
+#disp7: roll0=68900 +50
+#res5: 1206
+#disp5: roll0=68950 +50
+#res4: 0
+#disp4: roll0=69000 +50
+#res6: 0
+#disp6: roll0=69050 +50
+#res0: 1
+#disp0: roll0=69100 +50
+#res1: 43
+#disp1: roll0=69150 +50
+#res2: 468
+#disp2: roll0=69200 +50
+#res3: 6332
+#disp3: roll0=69250 +50
+#res7: 4449
+#disp7: roll0=69300 +50
+#res5: 578
+#disp5: roll0=69350 +50
+#res4: 0
+#disp4: roll0=69400 +50
+#res6: 126
+#disp6: roll0=69450 +50
+#res0: 3360
+#disp0: roll0=69500 +50
+#res1: 12230
+#disp1: roll0=69550 +50
+#res2: 5501
+#disp2: roll0=69600 +50
+#res3: 44
+#disp3: roll0=69650 +50
+#res7: 1759
+#disp7: roll0=69700 +50
+#res5: 13125
+#disp5: roll0=69750 +50
+#res4: 15009
+#disp4: roll0=69800 +50
+#res6: 3352
+#disp6: roll0=69850 +50
+#res0: 8245
+#disp0: roll0=69900 +50
+#res1: 20961
+#disp1: roll0=69950 +50
+#res2: 8087
+#disp2: roll0=70000 +50
+#res3: 14567
+#disp3: roll0=70050 +50
+#res7: 8234
+#disp7: roll0=70100 +50
+#res5: 4009
+#disp5: roll0=70150 +50
+#res0: 106
+#disp0: roll0=70200 +50
+#res4: 830
+#disp4: roll0=70250 +50
+#res1: 323
+#disp1: roll0=70300 +50
+#res6: 67
+#disp6: roll0=70350 +50
+#res2: 0
+#disp2: roll0=70400 +50
+#res3: 0
+#disp3: roll0=70450 +50
+#res7: 1
+#disp7: roll0=70500 +50
+#res5: 1
+#disp5: roll0=70550 +50
+#res0: 44
+#disp0: roll0=70600 +50
+#res4: 476
+#disp4: roll0=70650 +50
+#res1: 5252
+#disp1: roll0=70700 +50
+#res6: 5498
+#disp6: roll0=70750 +50
+#res2: 612
+#disp2: roll0=70800 +50
+#res3: 0
+#disp3: roll0=70850 +50
+#res7: 8
+#disp7: roll0=70900 +50
+#res5: 75
+#disp5: roll0=70950 +50
+#res0: 1045
+#disp0: roll0=71000 +50
+#res4: 4870
+#disp4: roll0=71050 +50
+#res1: 13783
+#disp1: roll0=71100 +50
+#res6: 2418
+#disp6: roll0=71150 +50
+#res2: 1
+#disp2: roll0=71200 +50
+#res3: 328
+#disp3: roll0=71250 +50
+#res7: 2407
+#disp7: roll0=71300 +50
+#res5: 15055
+#disp5: roll0=71350 +50
+#res0: 16821
+#disp0: roll0=71400 +50
+#res1: 900
+#disp1: roll0=71450 +50
+#res4: 2775
+#disp4: roll0=71500 +50
+#res6: 13501
+#disp6: roll0=71550 +50
+#res2: 28427
+#disp2: roll0=71600 +50
+#res3: 10896
+#disp3: roll0=71650 +50
+#res7: 5314
+#disp7: roll0=71700 +50
+#res5: 28146
+#disp5: roll0=71750 +50
+#res1: 19877
+#disp1: roll0=71800 +50
+#res0: 20998
+#disp0: roll0=71850 +50
+#res4: 21961
+#disp4: roll0=71900 +50
+#res6: 6761
+#disp6: roll0=71950 +50
+#res3: 990
+#disp3: roll0=72000 +50
+#res2: 4085
+#disp2: roll0=72050 +50
+#res7: 283
+#disp7: roll0=72100 +50
+#res5: 1002
+#disp5: roll0=72150 +50
+#res1: 0
+#disp1: roll0=72200 +50
+#res0: 0
+#disp0: roll0=72250 +50
+#res4: 36
+#disp4: roll0=72300 +50
+#res6: 478
+#disp6: roll0=72350 +50
+#res3: 7429
+#disp3: roll0=72400 +50
+#res2: 21573
+#disp2: roll0=72450 +50
+#res7: 9664
+#disp7: roll0=72500 +50
+#res5: 7
+#disp5: roll0=72550 +50
+#res1: 130
+#disp1: roll0=72600 +50
+#res0: 3604
+#disp0: roll0=72650 +50
+#res4: 15259
+#disp4: roll0=72700 +50
+#res6: 32919
+#disp6: roll0=72750 +50
+#res2: 443
+#disp2: roll0=72800 +50
+#res3: 10586
+#disp3: roll0=72850 +50
+#res7: 10630
+#disp7: roll0=72900 +50
+#res5: 39229
+#disp5: roll0=72950 +50
+#res0: 10594
+#disp0: roll0=73000 +50
+#res1: 29224
+#disp1: roll0=73050 +50
+#res4: 33425
+#disp4: roll0=73100 +50
+#res6: 38325
+#disp6: roll0=73150 +50
+#res3: 33653
+#disp3: roll0=73200 +50
+#res2: 27429
+#disp2: roll0=73250 +50
+#res5: 9377
+#disp5: roll0=73300 +50
+#res7: 16990
+#disp7: roll0=73350 +50
+#res4: 2763
+#disp4: roll0=73400 +50
+#res1: 464
+#disp1: roll0=73450 +50
+#res0: 2765
+#disp0: roll0=73500 +50
+#res6: 1
+#disp6: roll0=73550 +50
+#res3: 357
+#disp3: roll0=73600 +50
+#res2: 5986
+#disp2: roll0=73650 +50
+#res5: 23785
+#disp5: roll0=73700 +50
+#res7: 44591
+#disp7: roll0=73750 +50
+#res4: 18787
+#disp4: roll0=73800 +50
+#res1: 836
+#disp1: roll0=73850 +50
+#res0: 16434
+#disp0: roll0=73900 +50
+#res6: 54004
+#disp6: roll0=73950 +50
+#res2: 17131
+#disp2: roll0=74000 +50
+#res3: 40744
+#disp3: roll0=74050 +50
+#res5: 42489
+#disp5: roll0=74100 +50
+#res7: 51146
+#disp7: roll0=74150 +50
+#res4: 38403
+#disp4: roll0=74200 +50
+#res1: 45573
+#disp1: roll0=74250 +50
+#res0: 25964
+#disp0: roll0=74300 +50
+#res6: 15689
+#disp6: roll0=74350 +50
+#res5: 5652
+#disp5: roll0=74400 +50
+#res3: 1275
+#disp3: roll0=74450 +50
+#res2: 5530
+#disp2: roll0=74500 +50
+#res7: 551
+#disp7: roll0=74550 +50
+#res4: 11295
+#disp4: roll0=74600 +50
+#res1: 36871
+#disp1: roll0=74650 +50
+#res0: 41615
+#disp0: roll0=74700 +50
+#res6: 19581
+#disp6: roll0=74750 +50
+#res5: 28906
+#disp5: roll0=74800 +50
+#res3: 48961
+#disp3: roll0=74850 +50
+#res2: 31276
+#disp2: roll0=74900 +50
+#res7: 48492
+#disp7: roll0=74950 +50
+#res4: 31922
+#disp4: roll0=75000 +50
+#res1: 24388
+#disp1: roll0=75050 +50
+#res6: 2854
+#disp6: roll0=75100 +50
+#res0: 10743
+#disp0: roll0=75150 +50
+#res5: 3141
+#disp5: roll0=75200 +50
+#res3: 11559
+#disp3: roll0=75250 +50
+#res2: 14515
+#disp2: roll0=75300 +50
+#res7: 21993
+#disp7: roll0=75350 +50
+#res4: 13184
+#disp4: roll0=75400 +50
+#res1: 29796
+#disp1: roll0=75450 +50
+#res0: 12211
+#disp0: roll0=75500 +50
+#res6: 17391
+#disp6: roll0=75550 +50
+#res5: 4521
+#disp5: roll0=75600 +50
+#res3: 816
+#disp3: roll0=75650 +50
+#res2: 1282
+#disp2: roll0=75700 +50
+#res7: 2507
+#disp7: roll0=75750 +50
+#res4: 1111
+#disp4: roll0=75800 +50
+#res1: 1169
+#disp1: roll0=75850 +50
+#res3: 1161
+#disp3: roll0=75900 +50
+#res6: 372
+#disp6: roll0=75950 +50
+#res0: 1725
+#disp0: roll0=76000 +50
+#res2: 8
+#disp2: roll0=76050 +50
+#res5: 45
+#disp5: roll0=76100 +50
+#res7: 42
+#disp7: roll0=76150 +50
+#res5: 51088
+#disp5: roll0=76200 +50
+#res0: 5135
+#disp0: roll0=76250 +50
+#res4: 43
+#disp4: roll0=76300 +50
+#res2: 11718
+#disp2: roll0=76350 +50
+#res7: 2911
+#disp7: roll0=76400 +50
+#res1: 2390
+#disp1: roll0=76450 +50
+#res3: 0
+#disp3: roll0=76500 +50
+#res6: 218
+#disp6: roll0=76550 +50
+#res5: 9
+#disp5: roll0=76600 +50
+#res4: 445
+#disp4: roll0=76650 +50
+#res0: 0
+#disp0: roll0=76700 +50
+#res2: 8
+#disp2: roll0=76750 +50
+#res1: 17
+#disp1: roll0=76800 +50
+#res7: 0
+#disp7: roll0=76850 +50
+#res3: 0
+#disp3: roll0=76900 +50
+#res6: 0
+#disp6: roll0=76950 +50
+#res5: 0
+#disp5: roll0=77000 +50
+#res4: 9
+#disp4: roll0=77050 +50
+#res0: 7
+#disp0: roll0=77100 +50
+#res2: 127
+#disp2: roll0=77150 +50
+#res1: 1
+#disp1: roll0=77200 +50
+#res7: 481
+#disp7: roll0=77250 +50
+#res3: 251
+#disp3: roll0=77300 +50
+#res6: 7
+#disp6: roll0=77350 +50
+#res5: 27
+#disp5: roll0=77400 +50
+#res3: 17
+#disp3: roll0=77450 +50
+#res4: 0
+#disp4: roll0=77500 +50
+#res0: 0
+#disp0: roll0=77550 +50
+#res2: 219
+#disp2: roll0=77600 +50
+#res1: 1130
+#disp1: roll0=77650 +50
+#res7: 233
+#disp7: roll0=77700 +50
+#res6: 0
+#disp6: roll0=77750 +50
+#res5: 2
+#disp5: roll0=77800 +50
+#res3: 1
+#disp3: roll0=77850 +50
+#res4: 1
+#disp4: roll0=77900 +50
+#res0: 0
+#disp0: roll0=77950 +50
+#res2: 41
+#disp2: roll0=78000 +50
+#res7: 341
+#disp7: roll0=78050 +50
+#res1: 0
+#disp1: roll0=78100 +50
+#res6: 8
+#disp6: roll0=78150 +50
+#res5: 924
+#disp5: roll0=78200 +50
+#res3: 179
+#disp3: roll0=78250 +50
+#res4: 402
+#disp4: roll0=78300 +50
+#res0: 84
+#disp0: roll0=78350 +50
+#res2: 2
+#disp2: roll0=78400 +50
+#res7: 2
+#disp7: roll0=78450 +50
+#res1: 58
+#disp1: roll0=78500 +50
+#res3: 104
+#disp3: roll0=78550 +50
+#res6: 1448
+#disp6: roll0=78600 +50
+#res5: 886
+#disp5: roll0=78650 +50
+#res4: 0
+#disp4: roll0=78700 +50
+#res0: 0
+#disp0: roll0=78750 +50
+#res2: 75
+#disp2: roll0=78800 +50
+#res1: 454
+#disp1: roll0=78850 +50
+#res7: 27
+#disp7: roll0=78900 +50
+#res3: 254
+#disp3: roll0=78950 +50
+#res6: 1247
+#disp6: roll0=79000 +50
+#res5: 368
+#disp5: roll0=79050 +50
+#res4: 1080
+#disp4: roll0=79100 +50
+#res0: 188
+#disp0: roll0=79150 +50
+#res2: 35
+#disp2: roll0=79200 +50
+#res1: 13
+#disp1: roll0=79250 +50
+#res7: 77
+#disp7: roll0=79300 +50
+#res3: 487
+#disp3: roll0=79350 +50
+#res6: 1901
+#disp6: roll0=79400 +50
+#res5: 132
+#disp5: roll0=79450 +50
+#res4: 42
+#disp4: roll0=79500 +50
+#res0: 0
+#disp0: roll0=79550 +50
+#res2: 1039
+#disp2: roll0=79600 +50
+#res7: 2370
+#disp7: roll0=79650 +50
+#res1: 15
+#disp1: roll0=79700 +50
+#res3: 860
+#disp3: roll0=79750 +50
+#res6: 845
+#disp6: roll0=79800 +50
+#res5: 429
+#disp5: roll0=79850 +50
+#res4: 50
+#disp4: roll0=79900 +50
+#res0: 23
+#disp0: roll0=79950 +50
+#res2: 272
+#disp2: roll0=80000 +50
+#res7: 2060
+#disp7: roll0=80050 +50
+#res3: 967
+#disp3: roll0=80100 +50
+#res1: 1360
+#disp1: roll0=80150 +50
+#res6: 43
+#disp6: roll0=80200 +50
+#res5: 989
+#disp5: roll0=80250 +50
+#res4: 34
+#disp4: roll0=80300 +50
+#res0: 699
+#disp0: roll0=80350 +50
+#res2: 109
+#disp2: roll0=80400 +50
+#res7: 2
+#disp7: roll0=80450 +50
+#res3: 1
+#disp3: roll0=80500 +50
+#res1: 38
+#disp1: roll0=80550 +50
+#res6: 1214
+#disp6: roll0=80600 +50
+#res5: 902
+#disp5: roll0=80650 +50
+#res4: 117
+#disp4: roll0=80700 +50
+#res0: 0
+#disp0: roll0=80750 +50
+#res2: 101
+#disp2: roll0=80800 +50
+#res7: 8
+#disp7: roll0=80850 +50
+#res3: 0
+#disp3: roll0=80900 +50
+#res1: 1
+#disp1: roll0=80950 +50
+#res6: 44
+#disp6: roll0=81000 +50
+#res5: 993
+#disp5: roll0=81050 +50
+#res4: 1494
+#disp4: roll0=81100 +50
+#res0: 95
+#disp0: roll0=81150 +50
+#res2: 0
+#disp2: roll0=81200 +50
+#res7: 0
+#disp7: roll0=81250 +50
+#res3: 0
+#disp3: roll0=81300 +50
+#res1: 115
+#disp1: roll0=81350 +50
+#res6: 967
+#disp6: roll0=81400 +50
+#res5: 3554
+#disp5: roll0=81450 +50
+#res4: 556
+#disp4: roll0=81500 +50
+#res0: 0
+#disp0: roll0=81550 +50
+#res2: 34
+#disp2: roll0=81600 +50
+#res7: 386
+#disp7: roll0=81650 +50
+#res3: 3315
+#disp3: roll0=81700 +50
+#res1: 5183
+#disp1: roll0=81750 +50
+#res6: 604
+#disp6: roll0=81800 +50
+#res5: 107
+#disp5: roll0=81850 +50
+#res4: 3338
+#disp4: roll0=81900 +50
+#res0: 8891
+#disp0: roll0=81950 +50
+#res2: 2778
+#disp2: roll0=82000 +50
+#res7: 876
+#disp7: roll0=82050 +50
+#res3: 8935
+#disp3: roll0=82100 +50
+#res1: 6795
+#disp1: roll0=82150 +50
+#res6: 4980
+#disp6: roll0=82200 +50
+#res5: 6873
+#disp5: roll0=82250 +50
+#res4: 1254
+#disp4: roll0=82300 +50
+#res0: 761
+#disp0: roll0=82350 +50
+#res3: 490
+#disp3: roll0=82400 +50
+#res2: 124
+#disp2: roll0=82450 +50
+#res1: 43
+#disp1: roll0=82500 +50
+#res7: 8
+#disp7: roll0=82550 +50
+#res6: 0
+#disp6: roll0=82600 +50
+#res5: 9
+#disp5: roll0=82650 +50
+#res4: 7
+#disp4: roll0=82700 +50
+#res3: 1
+#disp3: roll0=82750 +50
+#res0: 8
+#disp0: roll0=82800 +50
+#res2: 134
+#disp2: roll0=82850 +50
+#res1: 0
+#disp1: roll0=82900 +50
+#res7: 791
+#disp7: roll0=82950 +50
+#res5: 1717
+#disp5: roll0=83000 +50
+#res6: 1
+#disp6: roll0=83050 +50
+#res4: 680
+#disp4: roll0=83100 +50
+#res3: 491
+#disp3: roll0=83150 +50
+#res0: 224
+#disp0: roll0=83200 +50
+#res2: 13
+#disp2: roll0=83250 +50
+#res1: 14
+#disp1: roll0=83300 +50
+#res7: 296
+#disp7: roll0=83350 +50
+#res4: 253
+#disp4: roll0=83400 +50
+#res5: 2593
+#disp5: roll0=83450 +50
+#res6: 1655
+#disp6: roll0=83500 +50
+#res3: 1
+#disp3: roll0=83550 +50
+#res2: 257
+#disp2: roll0=83600 +50
+#res0: 0
+#disp0: roll0=83650 +50
+#res1: 8
+#disp1: roll0=83700 +50
+#res7: 897
+#disp7: roll0=83750 +50
+#res4: 538
+#disp4: roll0=83800 +50
+#res5: 2369
+#disp5: roll0=83850 +50
+#res6: 458
+#disp6: roll0=83900 +50
+#res3: 2005
+#disp3: roll0=83950 +50
+#res2: 492
+#disp2: roll0=84000 +50
+#res0: 37
+#disp0: roll0=84050 +50
+#res1: 53
+#disp1: roll0=84100 +50
+#res7: 205
+#disp7: roll0=84150 +50
+#res4: 1638
+#disp4: roll0=84200 +50
+#res6: 287
+#disp6: roll0=84250 +50
+#res5: 2472
+#disp5: roll0=84300 +50
+#res3: 134
+#disp3: roll0=84350 +50
+#res2: 0
+#disp2: roll0=84400 +50
+#res0: 1962
+#disp0: roll0=84450 +50
+#res1: 50
+#disp1: roll0=84500 +50
+#res7: 3916
+#disp7: roll0=84550 +50
+#res4: 1446
+#disp4: roll0=84600 +50
+#res6: 1554
+#disp6: roll0=84650 +50
+#res5: 860
+#disp5: roll0=84700 +50
+#res3: 149
+#disp3: roll0=84750 +50
+#res2: 72
+#disp2: roll0=84800 +50
+#res0: 871
+#disp0: roll0=84850 +50
+#res1: 3535
+#disp1: roll0=84900 +50
+#res7: 1685
+#disp7: roll0=84950 +50
+#res4: 1770
+#disp4: roll0=85000 +50
+#res6: 115
+#disp6: roll0=85050 +50
+#res5: 1793
+#disp5: roll0=85100 +50
+#res3: 33
+#disp3: roll0=85150 +50
+#res2: 1326
+#disp2: roll0=85200 +50
+#res0: 285
+#disp0: roll0=85250 +50
+#res1: 15
+#disp1: roll0=85300 +50
+#res7: 8
+#disp7: roll0=85350 +50
+#res4: 127
+#disp4: roll0=85400 +50
+#res6: 2155
+#disp6: roll0=85450 +50
+#res5: 1449
+#disp5: roll0=85500 +50
+#res3: 316
+#disp3: roll0=85550 +50
+#res2: 0
+#disp2: roll0=85600 +50
+#res0: 250
+#disp0: roll0=85650 +50
+#res1: 34
+#disp1: roll0=85700 +50
+#res7: 0
+#disp7: roll0=85750 +50
+#res4: 8
+#disp4: roll0=85800 +50
+#res6: 123
+#disp6: roll0=85850 +50
+#res5: 2119
+#disp5: roll0=85900 +50
+#res3: 1709
+#disp3: roll0=85950 +50
+#res2: 174
+#disp2: roll0=86000 +50
+#res0: 1
+#disp0: roll0=86050 +50
+#res1: 1
+#disp1: roll0=86100 +50
+#res7: 26
+#disp7: roll0=86150 +50
+#res4: 306
+#disp4: roll0=86200 +50
+#res6: 1496
+#disp6: roll0=86250 +50
+#res5: 5063
+#disp5: roll0=86300 +50
+#res3: 583
+#disp3: roll0=86350 +50
+#res0: 82
+#disp0: roll0=86400 +50
+#res2: 0
+#disp2: roll0=86450 +50
+#res1: 680
+#disp1: roll0=86500 +50
+#res7: 5867
+#disp7: roll0=86550 +50
+#res4: 5318
+#disp4: roll0=86600 +50
+#res6: 782
+#disp6: roll0=86650 +50
+#res5: 543
+#disp5: roll0=86700 +50
+#res3: 4262
+#disp3: roll0=86750 +50
+#res2: 3377
+#disp2: roll0=86800 +50
+#res0: 10845
+#disp0: roll0=86850 +50
+#res1: 2309
+#disp1: roll0=86900 +50
+#res7: 11739
+#disp7: roll0=86950 +50
+#res4: 6707
+#disp4: roll0=87000 +50
+#res6: 7420
+#disp6: roll0=87050 +50
+#res5: 7026
+#disp5: roll0=87100 +50
+#res3: 1945
+#disp3: roll0=87150 +50
+#res0: 257
+#disp0: roll0=87200 +50
+#res2: 1190
+#disp2: roll0=87250 +50
+#res7: 367
+#disp7: roll0=87300 +50
+#res4: 1
+#disp4: roll0=87350 +50
+#res1: 63
+#disp1: roll0=87400 +50
+#res6: 0
+#disp6: roll0=87450 +50
+#res5: 15
+#disp5: roll0=87500 +50
+#res3: 562
+#disp3: roll0=87550 +50
+#res0: 1
+#disp0: roll0=87600 +50
+#res2: 2622
+#disp2: roll0=87650 +50
+#res7: 256
+#disp7: roll0=87700 +50
+#res4: 4375
+#disp4: roll0=87750 +50
+#res1: 2723
+#disp1: roll0=87800 +50
+#res5: 1011
+#disp5: roll0=87850 +50
+#res6: 846
+#disp6: roll0=87900 +50
+#res3: 162
+#disp3: roll0=87950 +50
+#res0: 76
+#disp0: roll0=88000 +50
+#res2: 1155
+#disp2: roll0=88050 +50
+#res1: 185
+#disp1: roll0=88100 +50
+#res7: 3674
+#disp7: roll0=88150 +50
+#res4: 1400
+#disp4: roll0=88200 +50
+#res6: 1621
+#disp6: roll0=88250 +50
+#res5: 81
+#disp5: roll0=88300 +50
+#res3: 1774
+#disp3: roll0=88350 +50
+#res0: 3319
+#disp0: roll0=88400 +50
+#res2: 2931
+#disp2: roll0=88450 +50
+#res1: 4673
+#disp1: roll0=88500 +50
+#res7: 1255
+#disp7: roll0=88550 +50
+#res4: 672
+#disp4: roll0=88600 +50
+#res6: 358
+#disp6: roll0=88650 +50
+#res5: 649
+#disp5: roll0=88700 +50
+#res3: 2026
+#disp3: roll0=88750 +50
+#res2: 1298
+#disp2: roll0=88800 +50
+#res0: 4744
+#disp0: roll0=88850 +50
+#res1: 2264
+#disp1: roll0=88900 +50
+#res7: 982
+#disp7: roll0=88950 +50
+#res4: 1893
+#disp4: roll0=89000 +50
+#res6: 2102
+#disp6: roll0=89050 +50
+#res5: 94
+#disp5: roll0=89100 +50
+#res3: 584
+#disp3: roll0=89150 +50
+#res2: 49
+#disp2: roll0=89200 +50
+#res0: 119
+#disp0: roll0=89250 +50
+#res1: 1044
+#disp1: roll0=89300 +50
+#res7: 3042
+#disp7: roll0=89350 +50
+#res4: 749
+#disp4: roll0=89400 +50
+#res6: 252
+#disp6: roll0=89450 +50
+#res5: 438
+#disp5: roll0=89500 +50
+#res3: 29
+#disp3: roll0=89550 +50
+#res2: 100
+#disp2: roll0=89600 +50
+#res0: 2
+#disp0: roll0=89650 +50
+#res1: 4
+#disp1: roll0=89700 +50
+#res7: 706
+#disp7: roll0=89750 +50
+#res4: 2945
+#disp4: roll0=89800 +50
+#res6: 372
+#disp6: roll0=89850 +50
+#res5: 1
+#disp5: roll0=89900 +50
+#res3: 7
+#disp3: roll0=89950 +50
+#res2: 0
+#disp2: roll0=90000 +50
+#res0: 10
+#disp0: roll0=90050 +50
+#res1: 318
+#disp1: roll0=90100 +50
+#res7: 4139
+#disp7: roll0=90150 +50
+#res6: 290
+#disp6: roll0=90200 +50
+#res4: 2555
+#disp4: roll0=90250 +50
+#res5: 0
+#disp5: roll0=90300 +50
+#res3: 80
+#disp3: roll0=90350 +50
+#res2: 2712
+#disp2: roll0=90400 +50
+#res0: 8266
+#disp0: roll0=90450 +50
+#res1: 1869
+#disp1: roll0=90500 +50
+#res7: 9
+#disp7: roll0=90550 +50
+#res6: 860
+#disp6: roll0=90600 +50
+#res4: 10200
+#disp4: roll0=90650 +50
+#res5: 7978
+#disp5: roll0=90700 +50
+#res3: 1750
+#disp3: roll0=90750 +50
+#res2: 5441
+#disp2: roll0=90800 +50
+#res0: 15080
+#disp0: roll0=90850 +50
+#res1: 5426
+#disp1: roll0=90900 +50
+#res7: 9362
+#disp7: roll0=90950 +50
+#res4: 1372
+#disp4: roll0=91000 +50
+#res6: 3036
+#disp6: roll0=91050 +50
+#res5: 163
+#disp5: roll0=91100 +50
+#res0: 130
+#disp0: roll0=91150 +50
+#res2: 25
+#disp2: roll0=91200 +50
+#res3: 15
+#disp3: roll0=91250 +50
+#res7: 33
+#disp7: roll0=91300 +50
+#res1: 133
+#disp1: roll0=91350 +50
+#res4: 317
+#disp4: roll0=91400 +50
+#res6: 240
+#disp6: roll0=91450 +50
+#res5: 253
+#disp5: roll0=91500 +50
+#res0: 341
+#disp0: roll0=91550 +50
+#res2: 0
+#disp2: roll0=91600 +50
+#res3: 35
+#disp3: roll0=91650 +50
+#res7: 0
+#disp7: roll0=91700 +50
+#res1: 72
+#disp1: roll0=91750 +50
+#res4: 872
+#disp4: roll0=91800 +50
+#res6: 3171
+#disp6: roll0=91850 +50
+#res5: 488
+#disp5: roll0=91900 +50
+#res0: 792
+#disp0: roll0=91950 +50
+#res2: 33
+#disp2: roll0=92000 +50
+#res3: 936
+#disp3: roll0=92050 +50
+#res7: 634
+#disp7: roll0=92100 +50
+#res1: 44
+#disp1: roll0=92150 +50
+#res4: 107
+#disp4: roll0=92200 +50
+#res6: 2
+#disp6: roll0=92250 +50
+#res5: 2
+#disp5: roll0=92300 +50
+#res0: 539
+#disp0: roll0=92350 +50
+#res2: 3010
+#disp2: roll0=92400 +50
+#res3: 563
+#disp3: roll0=92450 +50
+#res7: 50
+#disp7: roll0=92500 +50
+#res1: 91
+#disp1: roll0=92550 +50
+#res4: 33
+#disp4: roll0=92600 +50
+#res6: 9
+#disp6: roll0=92650 +50
+#res5: 0
+#disp5: roll0=92700 +50
+#res0: 9
+#disp0: roll0=92750 +50
+#res2: 277
+#disp2: roll0=92800 +50
+#res3: 4230
+#disp3: roll0=92850 +50
+#res7: 1573
+#disp7: roll0=92900 +50
+#res1: 210
+#disp1: roll0=92950 +50
+#res4: 0
+#disp4: roll0=93000 +50
+#res6: 1
+#disp6: roll0=93050 +50
+#res5: 43
+#disp5: roll0=93100 +50
+#res0: 469
+#disp0: roll0=93150 +50
+#res2: 5960
+#disp2: roll0=93200 +50
+#res3: 5116
+#disp3: roll0=93250 +50
+#res7: 592
+#disp7: roll0=93300 +50
+#res1: 0
+#disp1: roll0=93350 +50
+#res4: 118
+#disp4: roll0=93400 +50
+#res6: 1782
+#disp6: roll0=93450 +50
+#res5: 12439
+#disp5: roll0=93500 +50
+#res0: 6338
+#disp0: roll0=93550 +50
+#res2: 964
+#disp2: roll0=93600 +50
+#res3: 1679
+#disp3: roll0=93650 +50
+#res7: 10445
+#disp7: roll0=93700 +50
+#res1: 17781
+#disp1: roll0=93750 +50
+#res4: 3484
+#disp4: roll0=93800 +50
+#res6: 8230
+#disp6: roll0=93850 +50
+#res5: 20772
+#disp5: roll0=93900 +50
+#res0: 8427
+#disp0: roll0=93950 +50
+#res2: 14881
+#disp2: roll0=94000 +50
+#res3: 8836
+#disp3: roll0=94050 +50
+#res7: 4120
+#disp7: roll0=94100 +50
+#res1: 862
+#disp1: roll0=94150 +50
+#res5: 384
+#disp5: roll0=94200 +50
+#res6: 45
+#disp6: roll0=94250 +50
+#res4: 68
+#disp4: roll0=94300 +50
+#res0: 0
+#disp0: roll0=94350 +50
+#res2: 0
+#disp2: roll0=94400 +50
+#res3: 0
+#disp3: roll0=94450 +50
+#res7: 1
+#disp7: roll0=94500 +50
+#res1: 0
+#disp1: roll0=94550 +50
+#res5: 0
+#disp5: roll0=94600 +50
+#res6: 9
+#disp6: roll0=94650 +50
+#res4: 159
+#disp4: roll0=94700 +50
+#res0: 1113
+#disp0: roll0=94750 +50
+#res2: 4463
+#disp2: roll0=94800 +50
+#res3: 292
+#disp3: roll0=94850 +50
+#res7: 0
+#disp7: roll0=94900 +50
+#res1: 8
+#disp1: roll0=94950 +50
+#res5: 1
+#disp5: roll0=95000 +50
+#res6: 1
+#disp6: roll0=95050 +50
+#res4: 27
+#disp4: roll0=95100 +50
+#res0: 435
+#disp0: roll0=95150 +50
+#res2: 2448
+#disp2: roll0=95200 +50
+#res3: 8250
+#disp3: roll0=95250 +50
+#res7: 1062
+#disp7: roll0=95300 +50
+#res1: 0
+#disp1: roll0=95350 +50
+#res5: 0
+#disp5: roll0=95400 +50
+#res6: 8
+#disp6: roll0=95450 +50
+#res4: 160
+#disp4: roll0=95500 +50
+#res0: 4487
+#disp0: roll0=95550 +50
+#res2: 13414
+#disp2: roll0=95600 +50
+#res3: 4526
+#disp3: roll0=95650 +50
+#res7: 1
+#disp7: roll0=95700 +50
+#res1: 141
+#disp1: roll0=95750 +50
+#res5: 2011
+#disp5: roll0=95800 +50
+#res6: 8741
+#disp6: roll0=95850 +50
+#res4: 22092
+#disp4: roll0=95900 +50
+#res0: 4925
+#disp0: roll0=95950 +50
+#res2: 167
+#disp2: roll0=96000 +50
+#res3: 6002
+#disp3: roll0=96050 +50
+#res7: 28280
+#disp7: roll0=96100 +50
+#res1: 17422
+#disp1: roll0=96150 +50
+#res5: 5482
+#disp5: roll0=96200 +50
+#res6: 24443
+#disp6: roll0=96250 +50
+#res4: 26183
+#disp4: roll0=96300 +50
+#res0: 17996
+#disp0: roll0=96350 +50
+#res2: 23144
+#disp2: roll0=96400 +50
+#res3: 9727
+#disp3: roll0=96450 +50
+#res7: 4921
+#disp7: roll0=96500 +50
+#res1: 1172
+#disp1: roll0=96550 +50
+#res6: 1153
+#disp6: roll0=96600 +50
+#res5: 142
+#disp5: roll0=96650 +50
+#res4: 0
+#disp4: roll0=96700 +50
+#res0: 0
+#disp0: roll0=96750 +50
+#res2: 6
+#disp2: roll0=96800 +50
+#res3: 1
+#disp3: roll0=96850 +50
+#res7: 9
+#disp7: roll0=96900 +50
+#res1: 160
+#disp1: roll0=96950 +50
+#res6: 1953
+#disp6: roll0=97000 +50
+#res5: 13023
+#disp5: roll0=97050 +50
+#res4: 6524
+#disp4: roll0=97100 +50
+#res0: 944
+#disp0: roll0=97150 +50
+#res2: 1
+#disp2: roll0=97200 +50
+#res3: 35
+#disp3: roll0=97250 +50
+#res7: 436
+#disp7: roll0=97300 +50
+#res1: 2692
+#disp1: roll0=97350 +50
+#res6: 17635
+#disp6: roll0=97400 +50
+#res5: 16571
+#disp5: roll0=97450 +50
+#res4: 2680
+#disp4: roll0=97500 +50
+#res0: 15
+#disp0: roll0=97550 +50
+#res2: 838
+#disp2: roll0=97600 +50
+#res3: 7698
+#disp3: roll0=97650 +50
+#res7: 32465
+#disp7: roll0=97700 +50
+#res6: 3538
+#disp6: roll0=97750 +50
+#res1: 19745
+#disp1: roll0=97800 +50
+#res5: 6387
+#disp5: roll0=97850 +50
+#res4: 27739
+#disp4: roll0=97900 +50
+#res0: 42310
+#disp0: roll0=97950 +50
+#res2: 12058
+#disp2: roll0=98000 +50
+#res3: 22549
+#disp3: roll0=98050 +50
+#res7: 45001
+#disp7: roll0=98100 +50
+#res1: 37765
+#disp1: roll0=98150 +50
+#res6: 22409
+#disp6: roll0=98200 +50
+#res5: 24597
+#disp5: roll0=98250 +50
+#res4: 15260
+#disp4: roll0=98300 +50
+#res0: 4926
+#disp0: roll0=98350 +50
+#res2: 722
+#disp2: roll0=98400 +50
+#res3: 528
+#disp3: roll0=98450 +50
+#res7: 2275
+#disp7: roll0=98500 +50
+#res6: 113
+#disp6: roll0=98550 +50
+#res1: 0
+#disp1: roll0=98600 +50
+#res5: 588
+#disp5: roll0=98650 +50
+#res4: 4867
+#disp4: roll0=98700 +50
+#res0: 16124
+#disp0: roll0=98750 +50
+#res2: 36547
+#disp2: roll0=98800 +50
+#res3: 8939
+#disp3: roll0=98850 +50
+#res7: 36
+#disp7: roll0=98900 +50
+#res6: 1775
+#disp6: roll0=98950 +50
+#res1: 9332
+#disp1: roll0=99000 +50
+#res5: 40167
+#disp5: roll0=99050 +50
+#res4: 41603
+#disp4: roll0=99100 +50
+#res0: 9309
+#disp0: roll0=99150 +50
+#res2: 5537
+#disp2: roll0=99200 +50
+#res3: 34243
+#disp3: roll0=99250 +50
+#res7: 61769
+#disp7: roll0=99300 +50
+#res1: 17680
+#disp1: roll0=99350 +50
+#res6: 29873
+#disp6: roll0=99400 +50
+#res5: 61999
+#disp5: roll0=99450 +50
+#res4: 44367
+#disp4: roll0=99500 +50
+#res0: 48110
+#disp0: roll0=99550 +50
+#res2: 47611
+#disp2: roll0=99600 +50
+#res3: 22796
+#disp3: roll0=99650 +50
+#res7: 13856
+#disp7: roll0=99700 +50
+#res6: 2135
+#disp6: roll0=99750 +50
+#res5: 4984
+#disp5: roll0=99800 +50
+#res1: 4706
+#disp1: roll0=99850 +50
+#res4: 9
+#disp4: roll0=99900 +50
+#res0: 3316
+#disp0: roll0=99950 +50
+#res2: 15633
+#disp2: roll0=100000 +50
+#res3: 52208
+#disp3: roll0=100050 +50
+#res7: 57906
+#disp7: roll0=100100 +50
+#res6: 15954
+#disp6: roll0=100150 +50
+#res5: 7244
+#disp5: roll0=100200 +50
+#res1: 48624
+#disp1: roll0=100250 +50
+#res4: 78512
+#disp4: roll0=100300 +50
+#res0: 44049
+#disp0: roll0=100350 +50
+#res2: 25411
+#disp2: roll0=100400 +50
+#res3: 75239
+#disp3: roll0=100450 +50
+#res7: 59572
+#disp7: roll0=100500 +50
+#res6: 62414
+#disp6: roll0=100550 +50
+#res5: 63630
+#disp5: roll0=100600 +50
+#res1: 34580
+#disp1: roll0=100650 +50
+#res4: 21201
+#disp4: roll0=100700 +50
+#res3: 9046
+#disp3: roll0=100750 +50
+#res2: 4658
+#disp2: roll0=100800 +50
+#res0: 8432
+#disp0: roll0=100850 +50
+#res7: 1274
+#disp7: roll0=100900 +50
+#res6: 27037
+#disp6: roll0=100950 +50
+#res5: 61298
+#disp5: roll0=101000 +50
+#res1: 49123
+#disp1: roll0=101050 +50
+#res4: 26109
+#disp4: roll0=101100 +50
+#res3: 57305
+#disp3: roll0=101150 +50
+#res2: 60461
+#disp2: roll0=101200 +50
+#res0: 54240
+#disp0: roll0=101250 +50
+#res7: 64359
+#disp7: roll0=101300 +50
+#res6: 42993
+#disp6: roll0=101350 +50
+#res5: 26733
+#disp5: roll0=101400 +50
+#res1: 12937
+#disp1: roll0=101450 +50
+#res3: 13472
+#disp3: roll0=101500 +50
+#res4: 4474
+#disp4: roll0=101550 +50
+#res2: 15944
+#disp2: roll0=101600 +50
+#res0: 33924
+#disp0: roll0=101650 +50
+#res7: 25315
+#disp7: roll0=101700 +50
+#res6: 31823
+#disp6: roll0=101750 +50
+#res5: 42994
+#disp5: roll0=101800 +50
+#res1: 26103
+#disp1: roll0=101850 +50
+#res3: 15239
+#disp3: roll0=101900 +50
+#res0: 7575
+#disp0: roll0=101950 +50
+#res4: 5652
+#disp4: roll0=102000 +50
+#res2: 1434
+#disp2: roll0=102050 +50
+#res7: 1463
+#disp7: roll0=102100 +50
+#res6: 1761
+#disp6: roll0=102150 +50
+#res5: 4348
+#disp5: roll0=102200 +50
+#res1: 2554
+#disp1: roll0=102250 +50
+#res4: 2689
+#disp4: roll0=102300 +50
+#res3: 170
+#disp3: roll0=102350 +50
+#res0: 376
+#disp0: roll0=102400 +50
+#res2: 37
+#disp2: roll0=102450 +50
+#res5: 4926
+#disp5: roll0=102500 +50
+#res7: 172
+#disp7: roll0=102550 +50
+#res2: 74337
+#disp2: roll0=102600 +50
+#res0: 22993
+#disp0: roll0=102650 +50
+#res1: 144
+#disp1: roll0=102700 +50
+#res3: 9493
+#disp3: roll0=102750 +50
+#res6: 441
+#disp6: roll0=102800 +50
+#res4: 1922
+#disp4: roll0=102850 +50
+#res5: 143
+#disp5: roll0=102900 +50
+#res2: 41
+#disp2: roll0=102950 +50
+#res0: 47
+#disp0: roll0=103000 +50
+#res7: 0
+#disp7: roll0=103050 +50
+#res3: 8
+#disp3: roll0=103100 +50
+#res1: 14
+#disp1: roll0=103150 +50
+#res6: 357
+#disp6: roll0=103200 +50
+#res4: 0
+#disp4: roll0=103250 +50
+#res5: 1619
+#disp5: roll0=103300 +50
+#res0: 3030
+#disp0: roll0=103350 +50
+#res2: 9
+#disp2: roll0=103400 +50
+#res7: 1183
+#disp7: roll0=103450 +50
+#res3: 1041
+#disp3: roll0=103500 +50
+#res1: 531
+#disp1: roll0=103550 +50
+#res6: 53
+#disp6: roll0=103600 +50
+#res4: 58
+#disp4: roll0=103650 +50
+#res7: 569
+#disp7: roll0=103700 +50
+#res5: 751
+#disp5: roll0=103750 +50
+#res0: 4784
+#disp0: roll0=103800 +50
+#res3: 8
+#disp3: roll0=103850 +50
+#res2: 3018
+#disp2: roll0=103900 +50
+#res6: 579
+#disp6: roll0=103950 +50
+#res1: 2
+#disp1: roll0=104000 +50
+#res4: 29
+#disp4: roll0=104050 +50
+#res7: 1630
+#disp7: roll0=104100 +50
+#res5: 1091
+#disp5: roll0=104150 +50
+#res0: 3859
+#disp0: roll0=104200 +50
+#res3: 920
+#disp3: roll0=104250 +50
+#res2: 3534
+#disp2: roll0=104300 +50
+#res6: 1047
+#disp6: roll0=104350 +50
+#res1: 105
+#disp1: roll0=104400 +50
+#res4: 171
+#disp4: roll0=104450 +50
+#res7: 496
+#disp7: roll0=104500 +50
+#res5: 3162
+#disp5: roll0=104550 +50
+#res3: 624
+#disp3: roll0=104600 +50
+#res2: 357
+#disp2: roll0=104650 +50
+#res0: 4389
+#disp0: roll0=104700 +50
+#res6: 0
+#disp6: roll0=104750 +50
+#res1: 3496
+#disp1: roll0=104800 +50
+#res4: 267
+#disp4: roll0=104850 +50
+#res7: 6119
+#disp7: roll0=104900 +50
+#res5: 2363
+#disp5: roll0=104950 +50
+#res3: 2781
+#disp3: roll0=105000 +50
+#res2: 1669
+#disp2: roll0=105050 +50
+#res0: 373
+#disp0: roll0=105100 +50
+#res6: 208
+#disp6: roll0=105150 +50
+#res1: 1923
+#disp1: roll0=105200 +50
+#res4: 5984
+#disp4: roll0=105250 +50
+#res5: 3170
+#disp5: roll0=105300 +50
+#res7: 2987
+#disp7: roll0=105350 +50
+#res2: 3131
+#disp2: roll0=105400 +50
+#res3: 311
+#disp3: roll0=105450 +50
+#res0: 512
+#disp0: roll0=105500 +50
+#res6: 2025
+#disp6: roll0=105550 +50
+#res1: 662
+#disp1: roll0=105600 +50
+#res4: 64
+#disp4: roll0=105650 +50
+#res5: 38
+#disp5: roll0=105700 +50
+#res7: 359
+#disp7: roll0=105750 +50
+#res2: 4085
+#disp2: roll0=105800 +50
+#res3: 2787
+#disp3: roll0=105850 +50
+#res0: 790
+#disp0: roll0=105900 +50
+#res6: 0
+#disp6: roll0=105950 +50
+#res1: 549
+#disp1: roll0=106000 +50
+#res4: 110
+#disp4: roll0=106050 +50
+#res5: 3
+#disp5: roll0=106100 +50
+#res7: 36
+#disp7: roll0=106150 +50
+#res2: 350
+#disp2: roll0=106200 +50
+#res3: 4098
+#disp3: roll0=106250 +50
+#res0: 3390
+#disp0: roll0=106300 +50
+#res6: 416
+#disp6: roll0=106350 +50
+#res1: 7
+#disp1: roll0=106400 +50
+#res4: 7
+#disp4: roll0=106450 +50
+#res5: 75
+#disp5: roll0=106500 +50
+#res7: 729
+#disp7: roll0=106550 +50
+#res2: 3130
+#disp2: roll0=106600 +50
+#res3: 8948
+#disp3: roll0=106650 +50
+#res6: 1
+#disp6: roll0=106700 +50
+#res0: 1282
+#disp0: roll0=106750 +50
+#res1: 216
+#disp1: roll0=106800 +50
+#res4: 1472
+#disp4: roll0=106850 +50
+#res5: 10295
+#disp5: roll0=106900 +50
+#res7: 9251
+#disp7: roll0=106950 +50
+#res2: 1566
+#disp2: roll0=107000 +50
+#res3: 1225
+#disp3: roll0=107050 +50
+#res6: 7520
+#disp6: roll0=107100 +50
+#res0: 17487
+#disp0: roll0=107150 +50
+#res1: 6021
+#disp1: roll0=107200 +50
+#res4: 4900
+#disp4: roll0=107250 +50
+#res5: 18347
+#disp5: roll0=107300 +50
+#res7: 10800
+#disp7: roll0=107350 +50
+#res2: 12564
+#disp2: roll0=107400 +50
+#res3: 11726
+#disp3: roll0=107450 +50
+#res6: 3986
+#disp6: roll0=107500 +50
+#res1: 617
+#disp1: roll0=107550 +50
+#res0: 2384
+#disp0: roll0=107600 +50
+#res5: 932
+#disp5: roll0=107650 +50
+#res4: 203
+#disp4: roll0=107700 +50
+#res7: 3
+#disp7: roll0=107750 +50
+#res3: 155
+#disp3: roll0=107800 +50
+#res2: 0
+#disp2: roll0=107850 +50
+#res6: 1039
+#disp6: roll0=107900 +50
+#res1: 9
+#disp1: roll0=107950 +50
+#res0: 4651
+#disp0: roll0=108000 +50
+#res5: 549
+#disp5: roll0=108050 +50
+#res4: 6951
+#disp4: roll0=108100 +50
+#res7: 4496
+#disp7: roll0=108150 +50
+#res3: 1570
+#disp3: roll0=108200 +50
+#res2: 1976
+#disp2: roll0=108250 +50
+#res6: 423
+#disp6: roll0=108300 +50
+#res1: 208
+#disp1: roll0=108350 +50
+#res0: 2472
+#disp0: roll0=108400 +50
+#res5: 6272
+#disp5: roll0=108450 +50
+#res7: 404
+#disp7: roll0=108500 +50
+#res4: 2490
+#disp4: roll0=108550 +50
+#res2: 2819
+#disp2: roll0=108600 +50
+#res3: 204
+#disp3: roll0=108650 +50
+#res1: 5608
+#disp1: roll0=108700 +50
+#res6: 2949
+#disp6: roll0=108750 +50
+#res0: 4171
+#disp0: roll0=108800 +50
+#res5: 7487
+#disp5: roll0=108850 +50
+#res7: 2234
+#disp7: roll0=108900 +50
+#res4: 1392
+#disp4: roll0=108950 +50
+#res2: 830
+#disp2: roll0=109000 +50
+#res3: 1263
+#disp3: roll0=109050 +50
+#res0: 2395
+#disp0: roll0=109100 +50
+#res1: 3603
+#disp1: roll0=109150 +50
+#res6: 7924
+#disp6: roll0=109200 +50
+#res5: 3932
+#disp5: roll0=109250 +50
+#res7: 1887
+#disp7: roll0=109300 +50
+#res4: 2957
+#disp4: roll0=109350 +50
+#res2: 3615
+#disp2: roll0=109400 +50
+#res3: 220
+#disp3: roll0=109450 +50
+#res0: 1219
+#disp0: roll0=109500 +50
+#res1: 156
+#disp1: roll0=109550 +50
+#res6: 358
+#disp6: roll0=109600 +50
+#res5: 2052
+#disp5: roll0=109650 +50
+#res7: 5521
+#disp7: roll0=109700 +50
+#res4: 1591
+#disp4: roll0=109750 +50
+#res2: 565
+#disp2: roll0=109800 +50
+#res3: 834
+#disp3: roll0=109850 +50
+#res0: 92
+#disp0: roll0=109900 +50
+#res1: 253
+#disp1: roll0=109950 +50
+#res6: 15
+#disp6: roll0=110000 +50
+#res5: 32
+#disp5: roll0=110050 +50
+#res7: 1745
+#disp7: roll0=110100 +50
+#res4: 5716
+#disp4: roll0=110150 +50
+#res2: 998
+#disp2: roll0=110200 +50
+#res3: 7
+#disp3: roll0=110250 +50
+#res0: 26
+#disp0: roll0=110300 +50
+#res1: 1
+#disp1: roll0=110350 +50
+#res6: 51
+#disp6: roll0=110400 +50
+#res5: 921
+#disp5: roll0=110450 +50
+#res7: 7881
+#disp7: roll0=110500 +50
+#res4: 5052
+#disp4: roll0=110550 +50
+#res2: 671
+#disp2: roll0=110600 +50
+#res3: 0
+#disp3: roll0=110650 +50
+#res0: 281
+#disp0: roll0=110700 +50
+#res1: 5574
+#disp1: roll0=110750 +50
+#res6: 14269
+#disp6: roll0=110800 +50
+#res5: 4020
+#disp5: roll0=110850 +50
+#res7: 46
+#disp7: roll0=110900 +50
+#res4: 1923
+#disp4: roll0=110950 +50
+#res2: 17332
+#disp2: roll0=111000 +50
+#res3: 13599
+#disp3: roll0=111050 +50
+#res0: 3723
+#disp0: roll0=111100 +50
+#res1: 9587
+#disp1: roll0=111150 +50
+#res6: 23510
+#disp6: roll0=111200 +50
+#res5: 10408
+#disp5: roll0=111250 +50
+#res7: 15832
+#disp7: roll0=111300 +50
+#res4: 5912
+#disp4: roll0=111350 +50
+#res2: 3162
+#disp2: roll0=111400 +50
+#res3: 504
+#disp3: roll0=111450 +50
+#res6: 382
+#disp6: roll0=111500 +50
+#res1: 118
+#disp1: roll0=111550 +50
+#res0: 69
+#disp0: roll0=111600 +50
+#res5: 318
+#disp5: roll0=111650 +50
+#res7: 93
+#disp7: roll0=111700 +50
+#res4: 623
+#disp4: roll0=111750 +50
+#res2: 465
+#disp2: roll0=111800 +50
+#res3: 428
+#disp3: roll0=111850 +50
+#res6: 676
+#disp6: roll0=111900 +50
+#res1: 3
+#disp1: roll0=111950 +50
+#res0: 110
+#disp0: roll0=112000 +50
+#res5: 2
+#disp5: roll0=112050 +50
+#res7: 255
+#disp7: roll0=112100 +50
+#res4: 1905
+#disp4: roll0=112150 +50
+#res2: 5930
+#disp2: roll0=112200 +50
+#res6: 1436
+#disp6: roll0=112250 +50
+#res3: 1169
+#disp3: roll0=112300 +50
+#res1: 94
+#disp1: roll0=112350 +50
+#res0: 1523
+#disp0: roll0=112400 +50
+#res5: 1080
+#disp5: roll0=112450 +50
+#res7: 122
+#disp7: roll0=112500 +50
+#res4: 254
+#disp4: roll0=112550 +50
+#res2: 15
+#disp2: roll0=112600 +50
+#res6: 16
+#disp6: roll0=112650 +50
+#res3: 1544
+#disp3: roll0=112700 +50
+#res1: 5799
+#disp1: roll0=112750 +50
+#res0: 1321
+#disp0: roll0=112800 +50
+#res5: 164
+#disp5: roll0=112850 +50
+#res7: 186
+#disp7: roll0=112900 +50
+#res4: 95
+#disp4: roll0=112950 +50
+#res2: 40
+#disp2: roll0=113000 +50
+#res6: 1
+#disp6: roll0=113050 +50
+#res3: 44
+#disp3: roll0=113100 +50
+#res1: 1358
+#disp1: roll0=113150 +50
+#res0: 7989
+#disp0: roll0=113200 +50
+#res5: 3025
+#disp5: roll0=113250 +50
+#res7: 460
+#disp7: roll0=113300 +50
+#res4: 1
+#disp4: roll0=113350 +50
+#res2: 8
+#disp2: roll0=113400 +50
+#res6: 151
+#disp6: roll0=113450 +50
+#res3: 1196
+#disp3: roll0=113500 +50
+#res1: 11052
+#disp1: roll0=113550 +50
+#res0: 9590
+#disp0: roll0=113600 +50
+#res5: 1322
+#disp5: roll0=113650 +50
+#res7: 2
+#disp7: roll0=113700 +50
+#res4: 336
+#disp4: roll0=113750 +50
+#res2: 5110
+#disp2: roll0=113800 +50
+#res6: 20918
+#disp6: roll0=113850 +50
+#res3: 10754
+#disp3: roll0=113900 +50
+#res1: 1790
+#disp1: roll0=113950 +50
+#res0: 3426
+#disp0: roll0=114000 +50
+#res5: 18711
+#disp5: roll0=114050 +50
+#res7: 27627
+#disp7: roll0=114100 +50
+#res4: 6958
+#disp4: roll0=114150 +50
+#res2: 13904
+#disp2: roll0=114200 +50
+#res6: 31886
+#disp6: roll0=114250 +50
+#res3: 14468
+#disp3: roll0=114300 +50
+#res1: 24620
+#disp1: roll0=114350 +50
+#res0: 15338
+#disp0: roll0=114400 +50
+#res5: 8313
+#disp5: roll0=114450 +50
+#res7: 2176
+#disp7: roll0=114500 +50
+#res4: 237
+#disp4: roll0=114550 +50
+#res6: 985
+#disp6: roll0=114600 +50
+#res2: 171
+#disp2: roll0=114650 +50
+#res3: 0
+#disp3: roll0=114700 +50
+#res1: 1
+#disp1: roll0=114750 +50
+#res0: 0
+#disp0: roll0=114800 +50
+#res5: 8
+#disp5: roll0=114850 +50
+#res7: 1
+#disp7: roll0=114900 +50
+#res4: 1
+#disp4: roll0=114950 +50
+#res6: 44
+#disp6: roll0=115000 +50
+#res2: 469
+#disp2: roll0=115050 +50
+#res3: 2521
+#disp3: roll0=115100 +50
+#res1: 8494
+#disp1: roll0=115150 +50
+#res0: 744
+#disp0: roll0=115200 +50
+#res5: 1
+#disp5: roll0=115250 +50
+#res7: 32
+#disp7: roll0=115300 +50
+#res4: 8
+#disp4: roll0=115350 +50
+#res6: 9
+#disp6: roll0=115400 +50
+#res2: 107
+#disp2: roll0=115450 +50
+#res3: 1140
+#disp3: roll0=115500 +50
+#res1: 5005
+#disp1: roll0=115550 +50
+#res0: 15035
+#disp0: roll0=115600 +50
+#res5: 2200
+#disp5: roll0=115650 +50
+#res7: 1
+#disp7: roll0=115700 +50
+#res4: 0
+#disp4: roll0=115750 +50
+#res6: 37
+#disp6: roll0=115800 +50
+#res2: 479
+#disp2: roll0=115850 +50
+#res3: 9162
+#disp3: roll0=115900 +50
+#res1: 22746
+#disp1: roll0=115950 +50
+#res0: 8645
+#disp0: roll0=116000 +50
+#res5: 9
+#disp5: roll0=116050 +50
+#res7: 437
+#disp7: roll0=116100 +50
+#res4: 4258
+#disp4: roll0=116150 +50
+#res6: 15382
+#disp6: roll0=116200 +50
+#res2: 36374
+#disp2: roll0=116250 +50
+#res3: 8684
+#disp3: roll0=116300 +50
+#res1: 532
+#disp1: roll0=116350 +50
+#res0: 13358
+#disp0: roll0=116400 +50
+#res5: 43756
+#disp5: roll0=116450 +50
+#res7: 26975
+#disp7: roll0=116500 +50
+#res4: 9941
+#disp4: roll0=116550 +50
+#res6: 38743
+#disp6: roll0=116600 +50
+#res2: 38953
+#disp2: roll0=116650 +50
+#res3: 29076
+#disp3: roll0=116700 +50
+#res1: 36886
+#disp1: roll0=116750 +50
+#res0: 17784
+#disp0: roll0=116800 +50
+#res5: 9540
+#disp5: roll0=116850 +50
+#res6: 2801
+#disp6: roll0=116900 +50
+#res7: 2784
+#disp7: roll0=116950 +50
+#res4: 439
+#disp4: roll0=117000 +50
+#res2: 0
+#disp2: roll0=117050 +50
+#res3: 0
+#disp3: roll0=117100 +50
+#res1: 21
+#disp1: roll0=117150 +50
+#res0: 7
+#disp0: roll0=117200 +50
+#res5: 44
+#disp5: roll0=117250 +50
+#res6: 479
+#disp6: roll0=117300 +50
+#res7: 5679
+#disp7: roll0=117350 +50
+#res4: 22019
+#disp4: roll0=117400 +50
+#res2: 11153
+#disp2: roll0=117450 +50
+#res3: 1700
+#disp3: roll0=117500 +50
+#res1: 7
+#disp1: roll0=117550 +50
+#res0: 118
+#disp0: roll0=117600 +50
+#res5: 1094
+#disp5: roll0=117650 +50
+#res6: 5591
+#disp6: roll0=117700 +50
+#res7: 29949
+#disp7: roll0=117750 +50
+#res4: 27520
+#disp4: roll0=117800 +50
+#res2: 5146
+#disp2: roll0=117850 +50
+#res3: 67
+#disp3: roll0=117900 +50
+#res1: 1939
+#disp1: roll0=117950 +50
+#res0: 16922
+#disp0: roll0=118000 +50
+#res5: 50635
+#disp5: roll0=118050 +50
+#res7: 5967
+#disp7: roll0=118100 +50
+#res6: 30939
+#disp6: roll0=118150 +50
+#res4: 11629
+#disp4: roll0=118200 +50
+#res2: 45541
+#disp2: roll0=118250 +50
+#res3: 61602
+#disp3: roll0=118300 +50
+#res1: 21495
+#disp1: roll0=118350 +50
+#res0: 35326
+#disp0: roll0=118400 +50
+#res5: 65613
+#disp5: roll0=118450 +50
+#res7: 35896
+#disp7: roll0=118500 +50
+#res6: 57090
+#disp6: roll0=118550 +50
+#res4: 38548
+#disp4: roll0=118600 +50
+#res2: 26798
+#disp2: roll0=118650 +50
+#res3: 10024
+#disp3: roll0=118700 +50
+#res1: 1823
+#disp1: roll0=118750 +50
+#res0: 1484
+#disp0: roll0=118800 +50
+#res5: 4801
+#disp5: roll0=118850 +50
+#res6: 305
+#disp6: roll0=118900 +50
+#res7: 1
+#disp7: roll0=118950 +50
+#res4: 1415
+#disp4: roll0=119000 +50
+#res2: 9425
+#disp2: roll0=119050 +50
+#res3: 27552
+#disp3: roll0=119100 +50
+#res1: 56747
+#disp1: roll0=119150 +50
+#res0: 15563
+#disp0: roll0=119200 +50
+#res5: 127
+#disp5: roll0=119250 +50
+#res6: 3666
+#disp6: roll0=119300 +50
+#res7: 16816
+#disp7: roll0=119350 +50
+#res4: 63322
+#disp4: roll0=119400 +50
+#res2: 62173
+#disp2: roll0=119450 +50
+#res3: 15808
+#disp3: roll0=119500 +50
+#res1: 11549
+#disp1: roll0=119550 +50
+#res0: 52023
+#disp0: roll0=119600 +50
+#res5: 89248
+#disp5: roll0=119650 +50
+#res7: 33700
+#disp7: roll0=119700 +50
+#res6: 46035
+#disp6: roll0=119750 +50
+#res4: 87928
+#disp4: roll0=119800 +50
+#res2: 63044
+#disp2: roll0=119850 +50
+#res3: 72312
+#disp3: roll0=119900 +50
+#res1: 68524
+#disp1: roll0=119950 +50
+#res0: 38448
+#disp0: roll0=120000 +50
+#res5: 23679
+#disp5: roll0=120050 +50
+#res6: 4931
+#disp6: roll0=120100 +50
+#res7: 8977
+#disp7: roll0=120150 +50
+#res4: 9996
+#disp4: roll0=120200 +50
+#res2: 73
+#disp2: roll0=120250 +50
+#res3: 6245
+#disp3: roll0=120300 +50
+#res1: 26310
+#disp1: roll0=120350 +50
+#res0: 79290
+#disp0: roll0=120400 +50
+#res5: 81537
+#disp5: roll0=120450 +50
+#res6: 25021
+#disp6: roll0=120500 +50
+#res7: 15308
+#disp7: roll0=120550 +50
+#res4: 70227
+#disp4: roll0=120600 +50
+#res2: 108175
+#disp2: roll0=120650 +50
+#res3: 64710
+#disp3: roll0=120700 +50
+#res1: 42417
+#disp1: roll0=120750 +50
+#res0: 107696
+#disp0: roll0=120800 +50
+#res5: 81734
+#disp5: roll0=120850 +50
+#res6: 90022
+#disp6: roll0=120900 +50
+#res7: 87314
+#disp7: roll0=120950 +50
+#res4: 54790
+#disp4: roll0=121000 +50
+#res2: 34359
+#disp2: roll0=121050 +50
+#res0: 16667
+#disp0: roll0=121100 +50
+#res3: 15040
+#disp3: roll0=121150 +50
+#res1: 9666
+#disp1: roll0=121200 +50
+#res5: 3424
+#disp5: roll0=121250 +50
+#res6: 41442
+#disp6: roll0=121300 +50
+#res7: 85353
+#disp7: roll0=121350 +50
+#res4: 66401
+#disp4: roll0=121400 +50
+#res2: 38338
+#disp2: roll0=121450 +50
+#res0: 81898
+#disp0: roll0=121500 +50
+#res3: 80867
+#disp3: roll0=121550 +50
+#res1: 75436
+#disp1: roll0=121600 +50
+#res5: 89030
+#disp5: roll0=121650 +50
+#res6: 64107
+#disp6: roll0=121700 +50
+#res7: 40878
+#disp7: roll0=121750 +50
+#res4: 21551
+#disp4: roll0=121800 +50
+#res0: 23368
+#disp0: roll0=121850 +50
+#res2: 8229
+#disp2: roll0=121900 +50
+#res3: 26918
+#disp3: roll0=121950 +50
+#res1: 52596
+#disp1: roll0=122000 +50
+#res5: 39010
+#disp5: roll0=122050 +50
+#res6: 50319
+#disp6: roll0=122100 +50
+#res7: 62355
+#disp7: roll0=122150 +50
+#res4: 40688
+#disp4: roll0=122200 +50
+#res0: 25370
+#disp0: roll0=122250 +50
+#res2: 10829
+#disp2: roll0=122300 +50
+#res1: 15050
+#disp1: roll0=122350 +50
+#res3: 3505
+#disp3: roll0=122400 +50
+#res5: 3334
+#disp5: roll0=122450 +50
+#res6: 3643
+#disp6: roll0=122500 +50
+#res7: 8750
+#disp7: roll0=122550 +50
+#res4: 5127
+#disp4: roll0=122600 +50
+#res1: 6273
+#disp1: roll0=122650 +50
+#res2: 1148
+#disp2: roll0=122700 +50
+#res0: 542
+#disp0: roll0=122750 +50
+#res3: 134
+#disp3: roll0=122800 +50
+#res5: 547
+#disp5: roll0=122850 +50
+#res7: 10677
+#disp7: roll0=122900 +50
+#res0: 48246
+#disp0: roll0=122950 +50
+#res3: 115130
+#disp3: roll0=123000 +50
+#res4: 491
+#disp4: roll0=123050 +50
+#res2: 18504
+#disp2: roll0=123100 +50
+#res6: 1399
+#disp6: roll0=123150 +50
+#res1: 5217
+#disp1: roll0=123200 +50
+#res5: 109
+#disp5: roll0=123250 +50
+#res0: 34
+#disp0: roll0=123300 +50
+#res7: 0
+#disp7: roll0=123350 +50
+#res3: 1
+#disp3: roll0=123400 +50
+#res4: 7
+#disp4: roll0=123450 +50
+#res2: 9
+#disp2: roll0=123500 +50
+#res6: 0
+#disp6: roll0=123550 +50
+#res1: 32
+#disp1: roll0=123600 +50
+#res5: 8
+#disp5: roll0=123650 +50
+#res0: 1
+#disp0: roll0=123700 +50
+#res7: 0
+#disp7: roll0=123750 +50
+#res3: 0
+#disp3: roll0=123800 +50
+#res4: 9
+#disp4: roll0=123850 +50
+#res2: 700
+#disp2: roll0=123900 +50
+#res6: 3788
+#disp6: roll0=123950 +50
+#res1: 1189
+#disp1: roll0=124000 +50
+#res5: 194
+#disp5: roll0=124050 +50
+#res7: 2
+#disp7: roll0=124100 +50
+#res0: 1
+#disp0: roll0=124150 +50
+#res3: 40
+#disp3: roll0=124200 +50
+#res4: 68
+#disp4: roll0=124250 +50
+#res2: 26
+#disp2: roll0=124300 +50
+#res6: 42
+#disp6: roll0=124350 +50
+#res1: 2
+#disp1: roll0=124400 +50
+#res5: 1
+#disp5: roll0=124450 +50
+#res7: 28
+#disp7: roll0=124500 +50
+#res0: 342
+#disp0: roll0=124550 +50
+#res3: 1705
+#disp3: roll0=124600 +50
+#res2: 657
+#disp2: roll0=124650 +50
+#res4: 5690
+#disp4: roll0=124700 +50
+#res6: 126
+#disp6: roll0=124750 +50
+#res1: 1
+#disp1: roll0=124800 +50
+#res5: 231
+#disp5: roll0=124850 +50
+#res7: 132
+#disp7: roll0=124900 +50
+#res0: 3
+#disp0: roll0=124950 +50
+#res3: 9
+#disp3: roll0=125000 +50
+#res2: 1
+#disp2: roll0=125050 +50
+#res4: 20
+#disp4: roll0=125100 +50
+#res6: 1475
+#disp6: roll0=125150 +50
+#res1: 5103
+#disp1: roll0=125200 +50
+#res5: 802
+#disp5: roll0=125250 +50
+#res7: 1
+#disp7: roll0=125300 +50
+#res0: 9
+#disp0: roll0=125350 +50
+#res3: 1
+#disp3: roll0=125400 +50
+#res2: 0
+#disp2: roll0=125450 +50
+#res4: 1
+#disp4: roll0=125500 +50
+#res6: 45
+#disp6: roll0=125550 +50
+#res1: 2453
+#disp1: roll0=125600 +50
+#res5: 7854
+#disp5: roll0=125650 +50
+#res7: 1973
+#disp7: roll0=125700 +50
+#res0: 0
+#disp0: roll0=125750 +50
+#res3: 0
+#disp3: roll0=125800 +50
+#res2: 8
+#disp2: roll0=125850 +50
+#res4: 152
+#disp4: roll0=125900 +50
+#res6: 1188
+#disp6: roll0=125950 +50
+#res1: 11895
+#disp1: roll0=126000 +50
+#res5: 8142
+#disp5: roll0=126050 +50
+#res7: 1241
+#disp7: roll0=126100 +50
+#res0: 4
+#disp0: roll0=126150 +50
+#res3: 369
+#disp3: roll0=126200 +50
+#res2: 8309
+#disp2: roll0=126250 +50
+#res4: 20884
+#disp4: roll0=126300 +50
+#res6: 8319
+#disp6: roll0=126350 +50
+#res1: 160
+#disp1: roll0=126400 +50
+#res5: 3601
+#disp5: roll0=126450 +50
+#res7: 23790
+#disp7: roll0=126500 +50
+#res0: 22523
+#disp0: roll0=126550 +50
+#res3: 6816
+#disp3: roll0=126600 +50
+#res2: 14212
+#disp2: roll0=126650 +50
+#res4: 33324
+#disp4: roll0=126700 +50
+#res6: 14551
+#disp6: roll0=126750 +50
+#res1: 24876
+#disp1: roll0=126800 +50
+#res5: 11975
+#disp5: roll0=126850 +50
+#res7: 7296
+#disp7: roll0=126900 +50
+#res4: 838
+#disp4: roll0=126950 +50
+#res0: 2005
+#disp0: roll0=127000 +50
+#res2: 359
+#disp2: roll0=127050 +50
+#res3: 234
+#disp3: roll0=127100 +50
+#res6: 41
+#disp6: roll0=127150 +50
+#res1: 8
+#disp1: roll0=127200 +50
+#res5: 126
+#disp5: roll0=127250 +50
+#res7: 1
+#disp7: roll0=127300 +50
+#res4: 232
+#disp4: roll0=127350 +50
+#res0: 140
+#disp0: roll0=127400 +50
+#res2: 10
+#disp2: roll0=127450 +50
+#res3: 9
+#disp3: roll0=127500 +50
+#res6: 9
+#disp6: roll0=127550 +50
+#res1: 239
+#disp1: roll0=127600 +50
+#res5: 3830
+#disp5: roll0=127650 +50
+#res0: 357
+#disp0: roll0=127700 +50
+#res7: 9399
+#disp7: roll0=127750 +50
+#res4: 2518
+#disp4: roll0=127800 +50
+#res2: 7
+#disp2: roll0=127850 +50
+#res3: 501
+#disp3: roll0=127900 +50
+#res6: 217
+#disp6: roll0=127950 +50
+#res1: 147
+#disp1: roll0=128000 +50
+#res5: 44
+#disp5: roll0=128050 +50
+#res0: 9
+#disp0: roll0=128100 +50
+#res7: 53
+#disp7: roll0=128150 +50
+#res4: 1967
+#disp4: roll0=128200 +50
+#res2: 8987
+#disp2: roll0=128250 +50
+#res3: 3385
+#disp3: roll0=128300 +50
+#res6: 491
+#disp6: roll0=128350 +50
+#res1: 32
+#disp1: roll0=128400 +50
+#res5: 9
+#disp5: roll0=128450 +50
+#res0: 8
+#disp0: roll0=128500 +50
+#res7: 9
+#disp7: roll0=128550 +50
+#res4: 160
+#disp4: roll0=128600 +50
+#res2: 1843
+#disp2: roll0=128650 +50
+#res3: 12392
+#disp3: roll0=128700 +50
+#res6: 8161
+#disp6: roll0=128750 +50
+#res1: 1170
+#disp1: roll0=128800 +50
+#res5: 1
+#disp5: roll0=128850 +50
+#res0: 35
+#disp0: roll0=128900 +50
+#res7: 436
+#disp7: roll0=128950 +50
+#res4: 2622
+#disp4: roll0=129000 +50
+#res2: 15445
+#disp2: roll0=129050 +50
+#res3: 19483
+#disp3: roll0=129100 +50
+#res6: 3135
+#disp6: roll0=129150 +50
+#res1: 9
+#disp1: roll0=129200 +50
+#res5: 838
+#disp5: roll0=129250 +50
+#res0: 7032
+#disp0: roll0=129300 +50
+#res7: 30880
+#disp7: roll0=129350 +50
+#res4: 22394
+#disp4: roll0=129400 +50
+#res2: 4417
+#disp2: roll0=129450 +50
+#res3: 6260
+#disp3: roll0=129500 +50
+#res6: 23294
+#disp6: roll0=129550 +50
+#res1: 47800
+#disp1: roll0=129600 +50
+#res5: 11766
+#disp5: roll0=129650 +50
+#res0: 23097
+#disp0: roll0=129700 +50
+#res7: 46442
+#disp7: roll0=129750 +50
+#res4: 22115
+#disp4: roll0=129800 +50
+#res2: 40518
+#disp2: roll0=129850 +50
+#res3: 25718
+#disp3: roll0=129900 +50
+#res6: 15625
+#disp6: roll0=129950 +50
+#res1: 5486
+#disp1: roll0=130000 +50
+#res5: 473
+#disp5: roll0=130050 +50
+#res7: 2351
+#disp7: roll0=130100 +50
+#res0: 770
+#disp0: roll0=130150 +50
+#res4: 0
+#disp4: roll0=130200 +50
+#res2: 0
+#disp2: roll0=130250 +50
+#res3: 0
+#disp3: roll0=130300 +50
+#res6: 0
+#disp6: roll0=130350 +50
+#res1: 8
+#disp1: roll0=130400 +50
+#res5: 9
+#disp5: roll0=130450 +50
+#res7: 115
+#disp7: roll0=130500 +50
+#res0: 1162
+#disp0: roll0=130550 +50
+#res4: 4964
+#disp4: roll0=130600 +50
+#res2: 14846
+#disp2: roll0=130650 +50
+#res3: 2059
+#disp3: roll0=130700 +50
+#res6: 0
+#disp6: roll0=130750 +50
+#res1: 1
+#disp1: roll0=130800 +50
+#res5: 28
+#disp5: roll0=130850 +50
+#res7: 34
+#disp7: roll0=130900 +50
+#res0: 54
+#disp0: roll0=130950 +50
+#res4: 1968
+#disp4: roll0=131000 +50
+#res2: 9729
+#disp2: roll0=131050 +50
+#res3: 23670
+#disp3: roll0=131100 +50
+#res6: 6640
+#disp6: roll0=131150 +50
+#res1: 7
+#disp1: roll0=131200 +50
+#res5: 1
+#disp5: roll0=131250 +50
+#res7: 125
+#disp7: roll0=131300 +50
+#res0: 1235
+#disp0: roll0=131350 +50
+#res4: 12595
+#disp4: roll0=131400 +50
+#res2: 35438
+#disp2: roll0=131450 +50
+#res6: 1646
+#disp6: roll0=131500 +50
+#res3: 19293
+#disp3: roll0=131550 +50
+#res1: 348
+#disp1: roll0=131600 +50
+#res5: 6321
+#disp5: roll0=131650 +50
+#res7: 26296
+#disp7: roll0=131700 +50
+#res0: 52728
+#disp0: roll0=131750 +50
+#res4: 20575
+#disp4: roll0=131800 +50
+#res2: 1272
+#disp2: roll0=131850 +50
+#res6: 17616
+#disp6: roll0=131900 +50
+#res3: 62035
+#disp3: roll0=131950 +50
+#res1: 47551
+#disp1: roll0=132000 +50
+#res5: 20341
+#disp5: roll0=132050 +50
+#res7: 49180
+#disp7: roll0=132100 +50
+#res0: 62967
+#disp0: roll0=132150 +50
+#res4: 45581
+#disp4: roll0=132200 +50
+#res2: 56385
+#disp2: roll0=132250 +50
+#res6: 29914
+#disp6: roll0=132300 +50
+#res3: 19864
+#disp3: roll0=132350 +50
+#res1: 6125
+#disp1: roll0=132400 +50
+#res7: 5216
+#disp7: roll0=132450 +50
+#res5: 1338
+#disp5: roll0=132500 +50
+#res0: 1049
+#disp0: roll0=132550 +50
+#res4: 0
+#disp4: roll0=132600 +50
+#res2: 7
+#disp2: roll0=132650 +50
+#res6: 81
+#disp6: roll0=132700 +50
+#res3: 152
+#disp3: roll0=132750 +50
+#res1: 1237
+#disp1: roll0=132800 +50
+#res7: 8135
+#disp7: roll0=132850 +50
+#res5: 33228
+#disp5: roll0=132900 +50
+#res0: 23990
+#disp0: roll0=132950 +50
+#res4: 4211
+#disp4: roll0=133000 +50
+#res2: 28
+#disp2: roll0=133050 +50
+#res6: 329
+#disp6: roll0=133100 +50
+#res3: 2457
+#disp3: roll0=133150 +50
+#res1: 10386
+#disp1: roll0=133200 +50
+#res7: 40858
+#disp7: roll0=133250 +50
+#res5: 49602
+#disp5: roll0=133300 +50
+#res0: 11059
+#disp0: roll0=133350 +50
+#res4: 177
+#disp4: roll0=133400 +50
+#res2: 3983
+#disp2: roll0=133450 +50
+#res6: 22942
+#disp6: roll0=133500 +50
+#res3: 72548
+#disp3: roll0=133550 +50
+#res1: 55347
+#disp1: roll0=133600 +50
+#res7: 13864
+#disp7: roll0=133650 +50
+#res5: 19086
+#disp5: roll0=133700 +50
+#res0: 57672
+#disp0: roll0=133750 +50
+#res4: 97942
+#disp4: roll0=133800 +50
+#res2: 33604
+#disp2: roll0=133850 +50
+#res6: 55180
+#disp6: roll0=133900 +50
+#res3: 92216
+#disp3: roll0=133950 +50
+#res1: 52194
+#disp1: roll0=134000 +50
+#res7: 86812
+#disp7: roll0=134050 +50
+#res5: 59073
+#disp5: roll0=134100 +50
+#res0: 45007
+#disp0: roll0=134150 +50
+#res3: 10099
+#disp3: roll0=134200 +50
+#res2: 3199
+#disp2: roll0=134250 +50
+#res6: 4479
+#disp6: roll0=134300 +50
+#res4: 20715
+#disp4: roll0=134350 +50
+#res1: 8
+#disp1: roll0=134400 +50
+#res7: 479
+#disp7: roll0=134450 +50
+#res5: 1552
+#disp5: roll0=134500 +50
+#res0: 14006
+#disp0: roll0=134550 +50
+#res3: 45319
+#disp3: roll0=134600 +50
+#res2: 79872
+#res6: 35003
+#disp6: roll0=134650 +50
+#res4: 329
+#disp4: roll0=134700 +50
+#disp2: roll0=134750 +50
+#res1: 6856
+#disp1: roll0=134800 +50
+#res7: 26986
+#disp7: roll0=134850 +50
+#res5: 81713
+#disp5: roll0=134900 +50
+#res0: 99619
+#disp0: roll0=134950 +50
+#res3: 30801
+#disp3: roll0=135000 +50
+#res6: 13773
+#disp6: roll0=135050 +50
+#res4: 79091
+#disp4: roll0=135100 +50
+#res2: 124105
+#disp2: roll0=135150 +50
+#res7: 43795
+#disp7: roll0=135200 +50
+#res1: 74530
+#disp1: roll0=135250 +50
+#res5: 119566
+#disp5: roll0=135300 +50
+#res0: 95361
+#disp0: roll0=135350 +50
+#res3: 98773
+#disp3: roll0=135400 +50
+#res6: 106386
+#disp6: roll0=135450 +50
+#res4: 63330
+#disp4: roll0=135500 +50
+#res2: 38869
+#disp2: roll0=135550 +50
+#res1: 7613
+#disp1: roll0=135600 +50
+#res7: 18027
+#disp7: roll0=135650 +50
+#res5: 21810
+#disp5: roll0=135700 +50
+#res0: 162
+#disp0: roll0=135750 +50
+#res3: 10707
+#disp3: roll0=135800 +50
+#res6: 39061
+#disp6: roll0=135850 +50
+#res4: 101440
+#disp4: roll0=135900 +50
+#res2: 120468
+#disp2: roll0=135950 +50
+#res1: 45607
+#disp1: roll0=136000 +50
+#res7: 19205
+#disp7: roll0=136050 +50
+#res5: 98814
+#disp5: roll0=136100 +50
+#res0: 146847
+#disp0: roll0=136150 +50
+#res3: 99513
+#disp3: roll0=136200 +50
+#res6: 56980
+#disp6: roll0=136250 +50
+#res4: 142239
+#disp4: roll0=136300 +50
+#res2: 116222
+#disp2: roll0=136350 +50
+#res1: 120845
+#disp1: roll0=136400 +50
+#res7: 128352
+#disp7: roll0=136450 +50
+#res5: 85341
+#disp5: roll0=136500 +50
+#res0: 53063
+#disp0: roll0=136550 +50
+#res4: 34557
+#disp4: roll0=136600 +50
+#res6: 13542
+#disp6: roll0=136650 +50
+#res3: 28338
+#disp3: roll0=136700 +50
+#res2: 6548
+#disp2: roll0=136750 +50
+#res1: 53617
+#disp1: roll0=136800 +50
+#res7: 110924
+#disp7: roll0=136850 +50
+#res5: 92087
+#disp5: roll0=136900 +50
+#res0: 62865
+#disp0: roll0=136950 +50
+#res4: 101721
+#disp4: roll0=137000 +50
+#res6: 114964
+#disp6: roll0=137050 +50
+#res3: 101822
+#disp3: roll0=137100 +50
+#res2: 122736
+#disp2: roll0=137150 +50
+#res1: 89833
+#disp1: roll0=137200 +50
+#res7: 67096
+#disp7: roll0=137250 +50
+#res5: 35592
+#disp5: roll0=137300 +50
+#res4: 34007
+#disp4: roll0=137350 +50
+#res0: 15592
+#disp0: roll0=137400 +50
+#res6: 47545
+#disp6: roll0=137450 +50
+#res3: 72117
+#disp3: roll0=137500 +50
+#res2: 62540
+#disp2: roll0=137550 +50
+#res1: 67575
+#disp1: roll0=137600 +50
+#res7: 86079
+#disp7: roll0=137650 +50
+#res5: 64545
+#disp5: roll0=137700 +50
+#res4: 43549
+#disp4: roll0=137750 +50
+#res0: 21991
+#disp0: roll0=137800 +50
+#res3: 28302
+#disp3: roll0=137850 +50
+#res6: 7446
+#disp6: roll0=137900 +50
+#res2: 6770
+#disp2: roll0=137950 +50
+#res1: 7500
+#disp1: roll0=138000 +50
+#res7: 13661
+#disp7: roll0=138050 +50
+#res5: 10374
+#disp5: roll0=138100 +50
+#res3: 13754
+#disp3: roll0=138150 +50
+#res0: 3162
+#disp0: roll0=138200 +50
+#res4: 3455
+#disp4: roll0=138250 +50
+#res6: 397
+#disp6: roll0=138300 +50
+#res2: 1506
+#disp2: roll0=138350 +50
+#res7: 24307
+#disp7: roll0=138400 +50
+#res6: 204579
+#disp6: roll0=138450 +50
+#res4: 74017
+#disp4: roll0=138500 +50
+#res0: 36950
+#disp0: roll0=138550 +50
+#res5: 1431
+#disp5: roll0=138600 +50
+#res1: 1837
+#disp1: roll0=138650 +50
+#res3: 11352
+#disp3: roll0=138700 +50
+#res2: 0
+#disp2: roll0=138750 +50
+#res6: 1
+#disp6: roll0=138800 +50
+#res7: 0
+#disp7: roll0=138850 +50
+#res0: 0
+#disp0: roll0=138900 +50
+#res4: 1
+#disp4: roll0=138950 +50
+#res5: 1
+#disp5: roll0=139000 +50
+#res1: 0
+#disp1: roll0=139050 +50
+#res3: 29
+#disp3: roll0=139100 +50
+#res2: 36
+#disp2: roll0=139150 +50
+#res6: 350
+#disp6: roll0=139200 +50
+#res7: 1911
+#disp7: roll0=139250 +50
+#res5: 1878
+#disp5: roll0=139300 +50
+#res0: 10191
+#disp0: roll0=139350 +50
+#res1: 0
+#disp1: roll0=139400 +50
+#res4: 11004
+#disp4: roll0=139450 +50
+#res3: 0
+#disp3: roll0=139500 +50
+#res2: 0
+#disp2: roll0=139550 +50
+#res6: 0
+#disp6: roll0=139600 +50
+#res5: 9
+#disp5: roll0=139650 +50
+#res7: 8
+#disp7: roll0=139700 +50
+#res0: 123
+#disp0: roll0=139750 +50
+#res1: 1188
+#disp1: roll0=139800 +50
+#res4: 5150
+#disp4: roll0=139850 +50
+#res3: 14456
+#disp3: roll0=139900 +50
+#res2: 1876
+#disp2: roll0=139950 +50
+#res6: 0
+#disp6: roll0=140000 +50
+#res5: 0
+#disp5: roll0=140050 +50
+#res7: 28
+#disp7: roll0=140100 +50
+#res0: 35
+#disp0: roll0=140150 +50
+#res1: 54
+#disp1: roll0=140200 +50
+#res4: 2195
+#disp4: roll0=140250 +50
+#res3: 9610
+#disp3: roll0=140300 +50
+#res2: 23306
+#disp2: roll0=140350 +50
+#res6: 5925
+#disp6: roll0=140400 +50
+#res5: 8
+#disp5: roll0=140450 +50
+#res7: 0
+#disp7: roll0=140500 +50
+#res0: 125
+#disp0: roll0=140550 +50
+#res1: 1243
+#disp1: roll0=140600 +50
+#res4: 13748
+#disp4: roll0=140650 +50
+#res3: 35939
+#disp3: roll0=140700 +50
+#res2: 17797
+#disp2: roll0=140750 +50
+#res6: 36
+#disp6: roll0=140800 +50
+#res5: 380
+#disp5: roll0=140850 +50
+#res7: 7013
+#disp7: roll0=140900 +50
+#res0: 26186
+#disp0: roll0=140950 +50
+#res1: 52041
+#disp1: roll0=141000 +50
+#res4: 18675
+#disp4: roll0=141050 +50
+#res3: 1274
+#disp3: roll0=141100 +50
+#res2: 19029
+#disp2: roll0=141150 +50
+#res6: 61148
+#disp6: roll0=141200 +50
+#res7: 19772
+#disp7: roll0=141250 +50
+#res5: 45866
+#disp5: roll0=141300 +50
+#res0: 52950
+#disp0: roll0=141350 +50
+#res1: 58615
+#disp1: roll0=141400 +50
+#res4: 45018
+#disp4: roll0=141450 +50
+#res3: 55926
+#disp3: roll0=141500 +50
+#res0: 6264
+#disp0: roll0=141550 +50
+#res2: 30757
+#disp2: roll0=141600 +50
+#res6: 18047
+#disp6: roll0=141650 +50
+#res5: 1272
+#disp5: roll0=141700 +50
+#res7: 6106
+#disp7: roll0=141750 +50
+#res1: 39
+#disp1: roll0=141800 +50
+#res3: 0
+#disp3: roll0=141850 +50
+#res4: 1
+#disp4: roll0=141900 +50
+#res0: 3
+#disp0: roll0=141950 +50
+#res2: 2
+#disp2: roll0=142000 +50
+#res6: 34
+#disp6: roll0=142050 +50
+#res5: 45
+#disp5: roll0=142100 +50
+#res7: 486
+#disp7: roll0=142150 +50
+#res1: 3024
+#disp1: roll0=142200 +50
+#res3: 20811
+#disp3: roll0=142250 +50
+#res4: 14777
+#disp4: roll0=142300 +50
+#res0: 2396
+#disp0: roll0=142350 +50
+#res2: 0
+#disp2: roll0=142400 +50
+#res6: 1
+#disp6: roll0=142450 +50
+#res5: 89
+#disp5: roll0=142500 +50
+#res7: 152
+#disp7: roll0=142550 +50
+#res1: 1237
+#disp1: roll0=142600 +50
+#res3: 5882
+#disp3: roll0=142650 +50
+#res4: 32863
+#disp4: roll0=142700 +50
+#res0: 26665
+#disp0: roll0=142750 +50
+#res2: 5054
+#disp2: roll0=142800 +50
+#res6: 35
+#disp6: roll0=142850 +50
+#res5: 327
+#disp5: roll0=142900 +50
+#res7: 1993
+#disp7: roll0=142950 +50
+#res1: 9983
+#disp1: roll0=143000 +50
+#res3: 29623
+#disp3: roll0=143050 +50
+#res4: 59588
+#disp4: roll0=143100 +50
+#res0: 13590
+#disp0: roll0=143150 +50
+#res2: 168
+#disp2: roll0=143200 +50
+#res6: 4010
+#disp6: roll0=143250 +50
+#res5: 17250
+#disp5: roll0=143300 +50
+#res7: 70782
+#disp7: roll0=143350 +50
+#res1: 59918
+#disp1: roll0=143400 +50
+#res3: 15060
+#disp3: roll0=143450 +50
+#res4: 14908
+#disp4: roll0=143500 +50
+#res0: 54642
+#disp0: roll0=143550 +50
+#res2: 94989
+#disp2: roll0=143600 +50
+#res6: 42809
+#disp6: roll0=143650 +50
+#res5: 43065
+#disp5: roll0=143700 +50
+#res7: 93911
+#disp7: roll0=143750 +50
+#res1: 68466
+#disp1: roll0=143800 +50
+#res3: 75794
+#disp3: roll0=143850 +50
+#res4: 69758
+#disp4: roll0=143900 +50
+#res7: 10490
+#disp7: roll0=143950 +50
+#res0: 41295
+#disp0: roll0=144000 +50
+#res6: 8057
+#disp6: roll0=144050 +50
+#res2: 23755
+#disp2: roll0=144100 +50
+#res5: 4911
+#disp5: roll0=144150 +50
+#res1: 0
+#disp1: roll0=144200 +50
+#res3: 3
+#disp3: roll0=144250 +50
+#res4: 234
+#disp4: roll0=144300 +50
+#res7: 313
+#disp7: roll0=144350 +50
+#res0: 659
+#disp0: roll0=144400 +50
+#res6: 8960
+#disp6: roll0=144450 +50
+#res2: 29734
+#disp2: roll0=144500 +50
+#res5: 57849
+#disp5: roll0=144550 +50
+#res1: 20278
+#disp1: roll0=144600 +50
+#res3: 92
+#disp3: roll0=144650 +50
+#res4: 20
+#disp4: roll0=144700 +50
+#res7: 940
+#disp7: roll0=144750 +50
+#res0: 6116
+#disp0: roll0=144800 +50
+#res6: 39968
+#disp6: roll0=144850 +50
+#res2: 84113
+#disp2: roll0=144900 +50
+#res5: 51254
+#disp5: roll0=144950 +50
+#res1: 323
+#disp1: roll0=145000 +50
+#res3: 2297
+#disp3: roll0=145050 +50
+#res4: 22190
+#disp4: roll0=145100 +50
+#res7: 66380
+#disp7: roll0=145150 +50
+#res0: 112151
+#disp0: roll0=145200 +50
+#res6: 50433
+#disp6: roll0=145250 +50
+#res2: 6070
+#disp2: roll0=145300 +50
+#res5: 51427
+#disp5: roll0=145350 +50
+#res1: 126555
+#disp1: roll0=145400 +50
+#res3: 98992
+#disp3: roll0=145450 +50
+#res4: 53918
+#disp4: roll0=145500 +50
+#res7: 107788
+#disp7: roll0=145550 +50
+#res0: 114987
+#disp0: roll0=145600 +50
+#res2: 112442
+#disp2: roll0=145650 +50
+#res6: 94760
+#disp6: roll0=145700 +50
+#res5: 76300
+#disp5: roll0=145750 +50
+#res1: 49579
+#disp1: roll0=145800 +50
+#res3: 22474
+#disp3: roll0=145850 +50
+#res4: 6862
+#disp4: roll0=145900 +50
+#res7: 25262
+#disp7: roll0=145950 +50
+#res0: 96
+#disp0: roll0=146000 +50
+#res2: 46
+#disp2: roll0=146050 +50
+#res6: 1826
+#disp6: roll0=146100 +50
+#res5: 10275
+#disp5: roll0=146150 +50
+#res1: 33250
+#disp1: roll0=146200 +50
+#res3: 109338
+#disp3: roll0=146250 +50
+#res4: 90649
+#disp4: roll0=146300 +50
+#res7: 25085
+#disp7: roll0=146350 +50
+#res0: 1453
+#disp0: roll0=146400 +50
+#res2: 16377
+#disp2: roll0=146450 +50
+#res6: 80917
+#disp6: roll0=146500 +50
+#res5: 148492
+#disp5: roll0=146550 +50
+#res1: 115351
+#disp1: roll0=146600 +50
+#res3: 10247
+#disp3: roll0=146650 +50
+#res4: 54767
+#disp4: roll0=146700 +50
+#res7: 144133
+#disp7: roll0=146750 +50
+#res0: 153429
+#disp0: roll0=146800 +50
+#res2: 82429
+#disp2: roll0=146850 +50
+#res6: 111375
+#disp6: roll0=146900 +50
+#res5: 163545
+#disp5: roll0=146950 +50
+#res3: 152128
+#res1: 109393
+#disp3: roll0=147000 +50
+#disp1: roll0=147050 +50
+#res4: 111172
+#disp4: roll0=147100 +50
+#res7: 97795
+#disp7: roll0=147150 +50
+#res6: 23144
+#disp6: roll0=147200 +50
+#res5: 22254
+#disp5: roll0=147250 +50
+#res2: 16823
+#disp2: roll0=147300 +50
+#res0: 51330
+#disp0: roll0=147350 +50
+#res3: 1743
+#disp3: roll0=147400 +50
+#res1: 24456
+#disp1: roll0=147450 +50
+#res4: 101875
+#disp4: roll0=147500 +50
+#res7: 170177
+#disp7: roll0=147550 +50
+#res6: 139172
+#disp6: roll0=147600 +50
+#res5: 23525
+#disp5: roll0=147650 +50
+#res2: 69661
+#disp2: roll0=147700 +50
+#res0: 166697
+#disp0: roll0=147750 +50
+#res3: 178413
+#res1: 108709
+#disp1: roll0=147800 +50
+#disp3: roll0=147850 +50
+#res4: 134133
+#disp4: roll0=147900 +50
+#res7: 186511
+#disp7: roll0=147950 +50
+#res6: 134337
+#disp6: roll0=148000 +50
+#res5: 179965
+#disp5: roll0=148050 +50
+#res2: 132665
+#res0: 125302
+#disp2: roll0=148100 +50
+#disp0: roll0=148150 +50
+#res3: 27753
+#disp3: roll0=148200 +50
+#res4: 32217
+#disp4: roll0=148250 +50
+#res1: 70426
+#disp1: roll0=148300 +50
+#res7: 39212
+#disp7: roll0=148350 +50
+#res6: 42413
+#disp6: roll0=148400 +50
+#res5: 108693
+#disp5: roll0=148450 +50
+#res2: 144531
+#res0: 94115
+#disp0: roll0=148500 +50
+#disp2: roll0=148550 +50
+#res3: 103327
+#disp3: roll0=148600 +50
+#res4: 163156
+#disp4: roll0=148650 +50
+#res1: 131730
+#disp1: roll0=148700 +50
+#res7: 149275
+#disp7: roll0=148750 +50
+#res6: 142898
+#disp6: roll0=148800 +50
+#res5: 116415
+#disp5: roll0=148850 +50
+#res2: 39716
+#disp2: roll0=148900 +50
+#res0: 77766
+#disp0: roll0=148950 +50
+#res4: 55859
+#disp4: roll0=149000 +50
+#res3: 35448
+#disp3: roll0=149050 +50
+#res1: 96326
+#disp1: roll0=149100 +50
+#res7: 103804
+#disp7: roll0=149150 +50
+#res6: 76210
+#disp6: roll0=149200 +50
+#res5: 116395
+#disp5: roll0=149250 +50
+#res2: 97119
+#disp2: roll0=149300 +50
+#res0: 88590
+#disp0: roll0=149350 +50
+#res4: 60463
+#disp4: roll0=149400 +50
+#res7: 42822
+#disp7: roll0=149450 +50
+#res3: 14194
+#disp3: roll0=149500 +50
+#res1: 22612
+#disp1: roll0=149550 +50
+#res6: 15474
+#disp6: roll0=149600 +50
+#res5: 14304
+#disp5: roll0=149650 +50
+#res2: 27723
+#disp2: roll0=149700 +50
+#res0: 11605
+#disp0: roll0=149750 +50
+#res3: 16786
+#disp3: roll0=149800 +50
+#res7: 16744
+#disp7: roll0=149850 +50
+#res1: 2733
+#disp1: roll0=149900 +50
+#res4: 5292
+#disp4: roll0=149950 +50
+#res1: 284636
+#disp1: roll0=150000 +50
+#res7: 45052
+#disp7: roll0=150050 +50
+#res2: 39125
+#disp2: roll0=150100 +50
+#res3: 80209
+#disp3: roll0=150150 +50
+#res0: 4862
+#disp0: roll0=150200 +50
+#res6: 5086
+#disp6: roll0=150250 +50
+#res5: 11842
+#disp5: roll0=150300 +50
+#res4: 150969
+#disp4: roll0=150350 +50
+#res1: 8
+#disp1: roll0=150400 +50
+#res7: 3
+#disp7: roll0=150450 +50
+#res3: 20
+#disp3: roll0=150500 +50
+#res2: 9
+#disp2: roll0=150550 +50
+#res0: 116
+#disp0: roll0=150600 +50
+#res6: 160
+#disp6: roll0=150650 +50
+#res5: 1139
+#disp5: roll0=150700 +50
+#res4: 5606
+#disp4: roll0=150750 +50
+#res1: 17917
+#disp1: roll0=150800 +50
+#res7: 38963
+#disp7: roll0=150850 +50
+#res3: 7167
+#disp3: roll0=150900 +50
+#res2: 1
+#disp2: roll0=150950 +50
+#res0: 3
+#disp0: roll0=151000 +50
+#res6: 241
+#disp6: roll0=151050 +50
+#res5: 413
+#disp5: roll0=151100 +50
+#res4: 1468
+#disp4: roll0=151150 +50
+#res1: 10020
+#disp1: roll0=151200 +50
+#res7: 28928
+#disp7: roll0=151250 +50
+#res2: 16745
+#disp2: roll0=151300 +50
+#res3: 59283
+#disp3: roll0=151350 +50
+#res0: 120
+#disp0: roll0=151400 +50
+#res6: 19
+#disp6: roll0=151450 +50
+#res5: 1047
+#disp5: roll0=151500 +50
+#res4: 6159
+#disp4: roll0=151550 +50
+#res1: 45184
+#disp1: roll0=151600 +50
+#res7: 81063
+#disp7: roll0=151650 +50
+#res3: 455
+#disp3: roll0=151700 +50
+#res2: 46741
+#disp2: roll0=151750 +50
+#res0: 3923
+#disp0: roll0=151800 +50
+#res6: 24599
+#disp6: roll0=151850 +50
+#res5: 64766
+#disp5: roll0=151900 +50
+#res4: 113369
+#disp4: roll0=151950 +50
+#res1: 43654
+#disp1: roll0=152000 +50
+#res7: 6996
+#disp7: roll0=152050 +50
+#res3: 57897
+#disp3: roll0=152100 +50
+#res2: 127607
+#disp2: roll0=152150 +50
+#res0: 92538
+#disp0: roll0=152200 +50
+#res6: 49986
+#disp6: roll0=152250 +50
+#res5: 113962
+#disp5: roll0=152300 +50
+#res4: 110024
+#disp4: roll0=152350 +50
+#res5: 25658
+#disp5: roll0=152400 +50
+#res1: 94625
+#disp1: roll0=152450 +50
+#res7: 112250
+#disp7: roll0=152500 +50
+#res6: 6562
+#disp6: roll0=152550 +50
+#res3: 78019
+#disp3: roll0=152600 +50
+#res2: 49397
+#disp2: roll0=152650 +50
+#res0: 22522
+#disp0: roll0=152700 +50
+#res4: 3
+#disp4: roll0=152750 +50
+#res5: 15
+#disp5: roll0=152800 +50
+#res1: 317
+#disp1: roll0=152850 +50
+#res7: 253
+#disp7: roll0=152900 +50
+#res6: 1228
+#disp6: roll0=152950 +50
+#res3: 6204
+#disp3: roll0=153000 +50
+#res2: 34017
+#disp2: roll0=153050 +50
+#res0: 83613
+#disp0: roll0=153100 +50
+#res4: 54432
+#disp4: roll0=153150 +50
+#res5: 8758
+#disp5: roll0=153200 +50
+#res1: 249
+#disp1: roll0=153250 +50
+#res7: 1936
+#disp7: roll0=153300 +50
+#res6: 10032
+#disp6: roll0=153350 +50
+#res3: 34048
+#disp3: roll0=153400 +50
+#res2: 106235
+#disp2: roll0=153450 +50
+#res0: 99825
+#disp0: roll0=153500 +50
+#res4: 27181
+#disp4: roll0=153550 +50
+#res5: 1676
+#disp5: roll0=153600 +50
+#res1: 15331
+#disp1: roll0=153650 +50
+#res7: 73938
+#disp7: roll0=153700 +50
+#res6: 152788
+#disp6: roll0=153750 +50
+#res3: 111212
+#disp3: roll0=153800 +50
+#res2: 28890
+#disp2: roll0=153850 +50
+#res0: 52373
+#disp0: roll0=153900 +50
+#res4: 138842
+#disp4: roll0=153950 +50
+#res5: 164354
+#disp5: roll0=154000 +50
+#res1: 86467
+#disp1: roll0=154050 +50
+#res7: 115389
+#disp7: roll0=154100 +50
+#res6: 168096
+#disp6: roll0=154150 +50
+#res2: 158654
+#disp2: roll0=154200 +50
+#res3: 113552
+#disp3: roll0=154250 +50
+#res0: 118594
+#disp0: roll0=154300 +50
+#res4: 107473
+#disp4: roll0=154350 +50
+#res1: 18022
+#disp1: roll0=154400 +50
+#res7: 16709
+#disp7: roll0=154450 +50
+#res5: 56227
+#disp5: roll0=154500 +50
+#res6: 31799
+#disp6: roll0=154550 +50
+#res2: 133
+#disp2: roll0=154600 +50
+#res3: 3088
+#disp3: roll0=154650 +50
+#res0: 10722
+#disp0: roll0=154700 +50
+#res4: 46920
+#disp4: roll0=154750 +50
+#res1: 104636
+#disp1: roll0=154800 +50
+#res6: 2166
+#disp6: roll0=154850 +50
+#res7: 165576
+#disp7: roll0=154900 +50
+#res5: 70324
+#disp5: roll0=154950 +50
+#res2: 22713
+#disp2: roll0=155000 +50
+#res3: 74046
+#disp3: roll0=155050 +50
+#res0: 181849
+#disp0: roll0=155100 +50
+#res4: 176063
+#disp4: roll0=155150 +50
+#res1: 65720
+#disp1: roll0=155200 +50
+#res6: 51950
+#disp6: roll0=155250 +50
+#res7: 155160
+#disp7: roll0=155300 +50
+#res5: 219088
+#disp5: roll0=155350 +50
+#res3: 121895
+#disp3: roll0=155400 +50
+#res2: 142217
+#disp2: roll0=155450 +50
+#res0: 217288
+#disp0: roll0=155500 +50
+#res4: 169039
+#disp4: roll0=155550 +50
+#res1: 186873
+#disp1: roll0=155600 +50
+#res6: 175472
+#disp6: roll0=155650 +50
+#res7: 139237
+#disp7: roll0=155700 +50
+#res5: 91590
+#disp5: roll0=155750 +50
+#res0: 58256
+#disp0: roll0=155800 +50
+#res2: 38144
+#disp2: roll0=155850 +50
+#res3: 46900
+#disp3: roll0=155900 +50
+#res4: 1585
+#disp4: roll0=155950 +50
+#res1: 31647
+#disp1: roll0=156000 +50
+#res6: 96899
+#disp6: roll0=156050 +50
+#res7: 202377
+#disp7: roll0=156100 +50
+#res5: 199086
+#disp5: roll0=156150 +50
+#res0: 87638
+#disp0: roll0=156200 +50
+#res2: 61869
+#disp2: roll0=156250 +50
+#res3: 183984
+#disp3: roll0=156300 +50
+#res4: 242664
+#disp4: roll0=156350 +50
+#res1: 171830
+#disp1: roll0=156400 +50
+#res6: 143125
+#disp6: roll0=156450 +50
+#res7: 246340
+#res0: 212563
+#disp7: roll0=156500 +50
+#res5: 197816
+#disp0: roll0=156550 +50
+#disp5: roll0=156600 +50
+#res2: 202655
+#disp2: roll0=156650 +50
+#res3: 169467
+#disp3: roll0=156700 +50
+#res4: 114987
+#disp4: roll0=156750 +50
+#res7: 80261
+#disp7: roll0=156800 +50
+#res6: 57892
+#disp6: roll0=156850 +50
+#res1: 65603
+#disp1: roll0=156900 +50
+#res0: 25049
+#disp0: roll0=156950 +50
+#res5: 119171
+#disp5: roll0=157000 +50
+#res2: 189482
+#disp2: roll0=157050 +50
+#res3: 154876
+#disp3: roll0=157100 +50
+#res4: 122118
+#disp4: roll0=157150 +50
+#res7: 190008
+#disp7: roll0=157200 +50
+#res6: 183790
+#res1: 175162
+#disp6: roll0=157250 +50
+#disp1: roll0=157300 +50
+#res0: 198762
+#disp0: roll0=157350 +50
+#res5: 169862
+#disp5: roll0=157400 +50
+#res2: 122982
+#disp2: roll0=157450 +50
+#res3: 80535
+#disp3: roll0=157500 +50
+#res4: 41402
+#disp4: roll0=157550 +50
+#res7: 101578
+#disp7: roll0=157600 +50
+#res6: 92720
+#disp6: roll0=157650 +50
+#res1: 140721
+#disp1: roll0=157700 +50
+#res0: 111917
+#disp0: roll0=157750 +50
+#res5: 134945
+#disp5: roll0=157800 +50
+#res2: 146709
+#disp2: roll0=157850 +50
+#res3: 126296
+#disp3: roll0=157900 +50
+#res4: 88414
+#disp4: roll0=157950 +50
+#res7: 53039
+#disp7: roll0=158000 +50
+#res1: 82856
+#disp1: roll0=158050 +50
+#res6: 28782
+#disp6: roll0=158100 +50
+#res0: 23659
+#disp0: roll0=158150 +50
+#res5: 22151
+#disp5: roll0=158200 +50
+#res2: 44048
+#disp2: roll0=158250 +50
+#res3: 32061
+#disp3: roll0=158300 +50
+#res4: 8228
+#disp4: roll0=158350 +50
+#res1: 53627
+#disp1: roll0=158400 +50
+#res7: 17012
+#disp7: roll0=158450 +50
+#res6: 2645
+#disp6: roll0=158500 +50
+#res2: 83501
+#disp2: roll0=158550 +50
+#res0: 8435
+#disp0: roll0=158600 +50
+#res3: 9324
+#disp3: roll0=158650 +50
+#res7: 282705
+#disp7: roll0=158700 +50
+#res5: 21385
+#disp5: roll0=158750 +50
+#res1: 121210
+#disp1: roll0=158800 +50
+#res4: 58857
+#disp4: roll0=158850 +50
+#res6: 454445
+#disp6: roll0=158900 +50
+#res2: 17
+#disp2: roll0=158950 +50
+#res0: 70
+#disp0: roll0=159000 +50
+#res3: 1157
+#disp3: roll0=159050 +50
+#res7: 572
+#disp7: roll0=159100 +50
+#res5: 3216
+#disp5: roll0=159150 +50
+#res1: 20352
+#disp1: roll0=159200 +50
+#res4: 76384
+#disp4: roll0=159250 +50
+#res6: 114732
+#disp6: roll0=159300 +50
+#res2: 63989
+#disp2: roll0=159350 +50
+#res0: 330
+#disp0: roll0=159400 +50
+#res3: 492
+#disp3: roll0=159450 +50
+#res7: 4442
+#disp7: roll0=159500 +50
+#res5: 19278
+#disp5: roll0=159550 +50
+#res1: 73994
+#disp1: roll0=159600 +50
+#res4: 150814
+#disp4: roll0=159650 +50
+#res6: 119843
+#disp6: roll0=159700 +50
+#res2: 26022
+#disp2: roll0=159750 +50
+#res0: 6237
+#disp0: roll0=159800 +50
+#res3: 44160
+#disp3: roll0=159850 +50
+#res7: 138046
+#disp7: roll0=159900 +50
+#res5: 190562
+#disp5: roll0=159950 +50
+#res1: 126685
+#disp1: roll0=160000 +50
+#res4: 22393
+#disp4: roll0=160050 +50
+#res6: 87969
+#disp6: roll0=160100 +50
+#res2: 219373
+#disp2: roll0=160150 +50
+#res0: 176611
+#res3: 128632
+#disp0: roll0=160200 +50
+#disp3: roll0=160250 +50
+#res7: 162370
+#disp7: roll0=160300 +50
+#res5: 208053
+#disp5: roll0=160350 +50
+#res1: 161366
+#disp1: roll0=160400 +50
+#res4: 191388
+#disp4: roll0=160450 +50
+#res6: 153865
+#disp6: roll0=160500 +50
+#res7: 58502
+#disp7: roll0=160550 +50
+#res2: 122759
+#res3: 30605
+#disp3: roll0=160600 +50
+#disp2: roll0=160650 +50
+#res0: 66869
+#disp0: roll0=160700 +50
+#res5: 25815
+#disp5: roll0=160750 +50
+#res1: 388
+#disp1: roll0=160800 +50
+#res4: 7215
+#disp4: roll0=160850 +50
+#res6: 29890
+#disp6: roll0=160900 +50
+#res7: 84161
+#disp7: roll0=160950 +50
+#res3: 180706
+#disp3: roll0=161000 +50
+#res2: 187629
+#disp2: roll0=161050 +50
+#res0: 71104
+#disp0: roll0=161100 +50
+#res5: 5531
+#disp5: roll0=161150 +50
+#res1: 40710
+#disp1: roll0=161200 +50
+#res4: 138232
+#disp4: roll0=161250 +50
+#res6: 251809
+#disp6: roll0=161300 +50
+#res7: 203076
+#disp7: roll0=161350 +50
+#res3: 78498
+#disp3: roll0=161400 +50
+#res2: 105488
+#disp2: roll0=161450 +50
+#res0: 215062
+#disp0: roll0=161500 +50
+#res5: 266272
+#disp5: roll0=161550 +50
+#res1: 162197
+#disp1: roll0=161600 +50
+#res4: 202998
+#disp4: roll0=161650 +50
+#res6: 259402
+#disp6: roll0=161700 +50
+#res7: 189119
+#res3: 248653
+#disp7: roll0=161750 +50
+#disp3: roll0=161800 +50
+#res0: 198738
+#res2: 192442
+#disp0: roll0=161850 +50
+#disp2: roll0=161900 +50
+#res5: 126422
+#disp5: roll0=161950 +50
+#res1: 51133
+#disp1: roll0=162000 +50
+#res4: 55506
+#disp4: roll0=162050 +50
+#res6: 85085
+#disp6: roll0=162100 +50
+#res7: 5024
+#disp7: roll0=162150 +50
+#res3: 54772
+#disp3: roll0=162200 +50
+#res0: 164293
+#disp0: roll0=162250 +50
+#res2: 271425
+#disp2: roll0=162300 +50
+#res5: 231068
+#res1: 96675
+#disp1: roll0=162350 +50
+#disp5: roll0=162400 +50
+#res4: 123033
+#disp4: roll0=162450 +50
+#res6: 241470
+#disp6: roll0=162500 +50
+#res7: 287577
+#res3: 192471
+#disp3: roll0=162550 +50
+#res0: 232573
+#disp7: roll0=162600 +50
+#disp0: roll0=162650 +50
+#res2: 285485
+#res5: 271149
+#disp2: roll0=162700 +50
+#res1: 222852
+#disp5: roll0=162750 +50
+#disp1: roll0=162800 +50
+#res4: 218035
+#disp4: roll0=162850 +50
+#res6: 229021
+#disp6: roll0=162900 +50
+#res0: 83175
+#disp0: roll0=162950 +50
+#res2: 112852
+#disp2: roll0=163000 +50
+#res7: 67327
+#disp7: roll0=163050 +50
+#res3: 156076
+#disp3: roll0=163100 +50
+#res5: 70106
+#disp5: roll0=163150 +50
+#res1: 184233
+#disp1: roll0=163200 +50
+#res4: 221711
+#disp4: roll0=163250 +50
+#res6: 168346
+#disp6: roll0=163300 +50
+#res0: 161258
+#disp0: roll0=163350 +50
+#res2: 248486
+#disp2: roll0=163400 +50
+#res7: 209429
+#res3: 228523
+#disp7: roll0=163450 +50
+#disp3: roll0=163500 +50
+#res5: 233299
+#disp5: roll0=163550 +50
+#res1: 201822
+#disp1: roll0=163600 +50
+#res4: 143694
+#res6: 97978
+#disp4: roll0=163650 +50
+#disp6: roll0=163700 +50
+#res2: 134085
+#disp2: roll0=163750 +50
+#res0: 77079
+#disp0: roll0=163800 +50
+#res7: 154720
+#disp7: roll0=163850 +50
+#res3: 173711
+#disp3: roll0=163900 +50
+#res5: 142593
+#disp5: roll0=163950 +50
+#res1: 174050
+#disp1: roll0=164000 +50
+#res6: 158642
+#res4: 163334
+#disp6: roll0=164050 +50
+#disp4: roll0=164100 +50
+#res2: 108791
+#disp2: roll0=164150 +50
+#res3: 110708
+#disp3: roll0=164200 +50
+#res0: 66074
+#disp0: roll0=164250 +50
+#res7: 67481
+#disp7: roll0=164300 +50
+#res5: 38425
+#disp5: roll0=164350 +50
+#res1: 34216
+#disp1: roll0=164400 +50
+#res6: 66246
+#disp6: roll0=164450 +50
+#res4: 43302
+#disp4: roll0=164500 +50
+#res0: 69335
+#disp0: roll0=164550 +50
+#res3: 50010
+#disp3: roll0=164600 +50
+#res2: 22732
+#disp2: roll0=164650 +50
+#res7: 12524
+#disp7: roll0=164700 +50
+#res6: 137149
+#disp6: roll0=164750 +50
+#res5: 15622
+#disp5: roll0=164800 +50
+#res4: 23178
+#disp4: roll0=164850 +50
+#res1: 43508
+#disp1: roll0=164900 +50
+#res2: 635065
+#disp2: roll0=164950 +50
+#res3: 99114
+#disp3: roll0=165000 +50
+#res0: 246809
+#disp0: roll0=165050 +50
+#res7: 433386
+#disp7: roll0=165100 +50
+#res6: 272
+#disp6: roll0=165150 +50
+#res5: 6247
+#disp5: roll0=165200 +50
+#res4: 21282
+#disp4: roll0=165250 +50
+#res1: 74468
+#disp1: roll0=165300 +50
+#res2: 150063
+#disp2: roll0=165350 +50
+#res3: 189595
+#res0: 140229
+#disp0: roll0=165400 +50
+#disp3: roll0=165450 +50
+#res7: 6480
+#disp7: roll0=165500 +50
+#res6: 44385
+#disp6: roll0=165550 +50
+#res5: 108747
+#disp5: roll0=165600 +50
+#res4: 196006
+#disp4: roll0=165650 +50
+#res1: 206534
+#disp1: roll0=165700 +50
+#res2: 120864
+#disp2: roll0=165750 +50
+#res0: 71118
+#disp0: roll0=165800 +50
+#res3: 192799
+#disp3: roll0=165850 +50
+#res7: 239491
+#disp7: roll0=165900 +50
+#res6: 198193
+#disp6: roll0=165950 +50
+#res5: 149369
+#disp5: roll0=166000 +50
+#res4: 242404
+#disp4: roll0=166050 +50
+#res1: 207845
+#disp1: roll0=166100 +50
+#res2: 215947
+#disp2: roll0=166150 +50
+#res0: 216965
+#res3: 195636
+#disp0: roll0=166200 +50
+#disp3: roll0=166250 +50
+#res7: 138493
+#disp7: roll0=166300 +50
+#res4: 148951
+#disp4: roll0=166350 +50
+#res5: 75022
+#disp5: roll0=166400 +50
+#res6: 101994
+#disp6: roll0=166450 +50
+#res1: 5186
+#disp1: roll0=166500 +50
+#res2: 55361
+#disp2: roll0=166550 +50
+#res0: 136812
+#disp0: roll0=166600 +50
+#res3: 230696
+#disp3: roll0=166650 +50
+#res7: 247500
+#disp7: roll0=166700 +50
+#res4: 154131
+#disp4: roll0=166750 +50
+#res5: 81452
+#disp5: roll0=166800 +50
+#res6: 227012
+#disp6: roll0=166850 +50
+#res1: 277714
+#res2: 238617
+#disp1: roll0=166900 +50
+#disp2: roll0=166950 +50
+#res0: 172691
+#disp0: roll0=167000 +50
+#res3: 281286
+#disp3: roll0=167050 +50
+#res7: 242905
+#disp7: roll0=167100 +50
+#res4: 250136
+#res5: 251248
+#disp4: roll0=167150 +50
+#res6: 227474
+#disp5: roll0=167200 +50
+#disp6: roll0=167250 +50
+#res3: 185759
+#disp3: roll0=167300 +50
+#res1: 162538
+#res2: 125884
+#disp2: roll0=167350 +50
+#disp1: roll0=167400 +50
+#res0: 97706
+#disp0: roll0=167450 +50
+#res7: 56290
+#disp7: roll0=167500 +50
+#res4: 142284
+#disp4: roll0=167550 +50
+#res5: 227707
+#res6: 198540
+#disp5: roll0=167600 +50
+#disp6: roll0=167650 +50
+#res3: 181455
+#disp3: roll0=167700 +50
+#res2: 217678
+#res1: 238962
+#res0: 218620
+#disp2: roll0=167750 +50
+#disp0: roll0=167800 +50
+#disp1: roll0=167850 +50
+#res7: 243331
+#disp7: roll0=167900 +50
+#res4: 214045
+#disp4: roll0=167950 +50
+#res5: 180627
+#res6: 131278
+#disp5: roll0=168000 +50
+#disp6: roll0=168050 +50
+#res2: 164293
+#disp2: roll0=168100 +50
+#res3: 87997
+#disp3: roll0=168150 +50
+#res0: 159673
+#disp0: roll0=168200 +50
+#res1: 174740
+#disp1: roll0=168250 +50
+#res7: 163555
+#disp7: roll0=168300 +50
+#res4: 176242
+#disp4: roll0=168350 +50
+#res1: 175160
+#disp1: roll0=168400 +50
+#res5: 189859
+#res6: 175772
+#res2: 136565
+#disp5: roll0=168450 +50
+#disp6: roll0=168500 +50
+#disp2: roll0=168550 +50
+#res0: 64453
+#disp0: roll0=168600 +50
+#res3: 102505
+#disp3: roll0=168650 +50
+#res7: 50038
+#disp7: roll0=168700 +50
+#res0: 145996
+#disp0: roll0=168750 +50
+#res4: 47351
+#disp4: roll0=168800 +50
+#res3: 9620
+#disp3: roll0=168850 +50
+#res1: 72345
+#disp1: roll0=168900 +50
+#res2: 57748
+#disp2: roll0=168950 +50
+#res6: 38296
+#disp6: roll0=169000 +50
+#res5: 56474
+#disp5: roll0=169050 +50
+#res5: 1046050
+#disp5: roll0=169100 +50
+#res6: 557910
+#res7: 28691
+#disp7: roll0=169150 +50
+#disp6: roll0=169200 +50
+#res2: 316212
+#disp2: roll0=169250 +50
+#res4: 246157
+#disp4: roll0=169300 +50
+#res3: 37597
+#disp3: roll0=169350 +50
+#res1: 135370
+#disp1: roll0=169400 +50
+#res0: 45187
+#disp0: roll0=169450 +50
+#res5: 5922
+#disp5: roll0=169500 +50
+#res7: 37009
+#disp7: roll0=169550 +50
+#res6: 71407
+#disp6: roll0=169600 +50
+#res2: 104535
+#disp2: roll0=169650 +50
+#res4: 118350
+#disp4: roll0=169700 +50
+#res3: 84453
+#res1: 48298
+#disp1: roll0=169750 +50
+#disp3: roll0=169800 +50
+#res0: 113860
+#disp0: roll0=169850 +50
+#res5: 135436
+#disp5: roll0=169900 +50
+#res6: 94224
+#res7: 119858
+#disp6: roll0=169950 +50
+#disp7: roll0=170000 +50
+#res2: 152090
+#disp2: roll0=170050 +50
+#res4: 130283
+#res1: 145754
+#disp4: roll0=170100 +50
+#res3: 155789
+#disp1: roll0=170150 +50
+#disp3: roll0=170200 +50
+#res0: 134782
+#disp0: roll0=170250 +50
+#res2: 157395
+#disp2: roll0=170300 +50
+#res5: 101013
+#res6: 77935
+#res7: 66268
+#disp5: roll0=170350 +50
+#disp7: roll0=170400 +50
+#disp6: roll0=170450 +50
+#res4: 49837
+#disp4: roll0=170500 +50
+#res1: 97424
+#disp1: roll0=170550 +50
+#res3: 158840
+#res0: 137792
+#disp3: roll0=170600 +50
+#disp0: roll0=170650 +50
+#res2: 135025
+#disp2: roll0=170700 +50
+#res5: 153417
+#res7: 181185
+#res6: 156231
+#disp5: roll0=170750 +50
+#disp6: roll0=170800 +50
+#disp7: roll0=170850 +50
+#res4: 185979
+#disp4: roll0=170900 +50
+#res1: 158952
+#disp1: roll0=170950 +50
+#res3: 141304
+#disp3: roll0=171000 +50
+#res0: 99472
+#disp0: roll0=171050 +50
+#res5: 120627
+#disp5: roll0=171100 +50
+#res2: 69719
+#disp2: roll0=171150 +50
+#res6: 160031
+#disp6: roll0=171200 +50
+#res7: 149558
+#disp7: roll0=171250 +50
+#res4: 143301
+#disp4: roll0=171300 +50
+#res1: 151423
+#disp1: roll0=171350 +50
+#res3: 164287
+#disp3: roll0=171400 +50
+#res0: 148105
+#disp0: roll0=171450 +50
+#res7: 158380
+#disp7: roll0=171500 +50
+#res5: 123460
+#res6: 58922
+#disp6: roll0=171550 +50
+#res2: 88703
+#disp5: roll0=171600 +50
+#disp2: roll0=171650 +50
+#res4: 75942
+#disp4: roll0=171700 +50
+#res1: 44686
+#disp1: roll0=171750 +50
+#res3: 64381
+#disp3: roll0=171800 +50
+#res0: 52803
+#disp0: roll0=171850 +50
+#res5: 189409
+#disp5: roll0=171900 +50
+#res2: 11078
+#disp2: roll0=171950 +50
+#res7: 40609
+#disp7: roll0=172000 +50
+#res6: 67644
+#disp6: roll0=172050 +50
+#res4: 32233
+#disp4: roll0=172100 +50
+#res3: 335046
+#disp3: roll0=172150 +50
+#res6: 1510223
+#res0: 55389
+#disp0: roll0=172200 +50
+#res1: 53860
+#disp1: roll0=172250 +50
+#disp6: roll0=172300 +50
+#res7: 808150
+#res2: 451800
+#disp2: roll0=172350 +50
+#disp7: roll0=172400 +50
+#res5: 149908
+#disp5: roll0=172450 +50
+#res4: 44831
+#disp4: roll0=172500 +50
+#res3: 48260
+#disp3: roll0=172550 +50
+#res0: 66779
+#disp0: roll0=172600 +50
+#res1: 56201
+#disp1: roll0=172650 +50
+#res6: 67522
+#disp6: roll0=172700 +50
+#res2: 70601
+#res7: 78723
+#disp2: roll0=172750 +50
+#disp7: roll0=172800 +50
+#res5: 73737
+#disp5: roll0=172850 +50
+#res4: 90469
+#disp4: roll0=172900 +50
+#res3: 82865
+#disp3: roll0=172950 +50
+#res0: 75335
+#disp0: roll0=173000 +50
+#res1: 53427
+#disp1: roll0=173050 +50
+#res7: 146446
+#res2: 87589
+#disp7: roll0=173100 +50
+#disp2: roll0=173150 +50
+#res6: 34408
+#disp6: roll0=173200 +50
+#res5: 93614
+#disp5: roll0=173250 +50
+#res4: 94375
+#disp4: roll0=173300 +50
+#res3: 97544
+#disp3: roll0=173350 +50
+#res0: 108358
+#disp0: roll0=173400 +50
+#res6: 41810
+#disp6: roll0=173450 +50
+#res7: 89427
+#res2: 61032
+#disp2: roll0=173500 +50
+#disp7: roll0=173550 +50
+#res1: 100850
+#disp1: roll0=173600 +50
+#res5: 159973
+#disp5: roll0=173650 +50
+#res4: 97082
+#disp4: roll0=173700 +50
+#res1: 271984
+#disp1: roll0=173750 +50
+#res3: 38860
+#disp3: roll0=173800 +50
+#res0: 55985
+#disp0: roll0=173850 +50
+#res5: 10550
+#disp5: roll0=173900 +50
+#res7: 76575
+#disp7: roll0=173950 +50
+#res6: 45000
+#disp6: roll0=174000 +50
+#res2: 37881
+#disp2: roll0=174050 +50
+#res2: 2188276
+#disp2: roll0=174100 +50
+#res6: 1198917
+#disp6: roll0=174150 +50
+#res7: 680272
+#disp7: roll0=174200 +50
+#res3: 492822
+#disp3: roll0=174250 +50
+#res4: 37759
+#disp4: roll0=174300 +50
+#res0: 65207
+#disp0: roll0=174350 +50
+#res1: 66403
+#disp1: roll0=174400 +50
+#res5: 216924
+#disp5: roll0=174450 +50
+#res2: 7915
+#disp2: roll0=174500 +50
+#res6: 10518
+#disp6: roll0=174550 +50
+#res7: 10306
+#disp7: roll0=174600 +50
+#res3: 25755
+#disp3: roll0=174650 +50
+#res4: 21717
+#disp4: roll0=174700 +50
+#res0: 30991
+#disp0: roll0=174750 +50
+#res1: 22883
+#disp1: roll0=174800 +50
+#res5: 23685
+#disp5: roll0=174850 +50
+#res6: 288266
+#disp6: roll0=174900 +50
+#res2: 33199
+#disp2: roll0=174950 +50
+#res7: 35176
+#disp7: roll0=175000 +50
+#res3: 31263
+#disp3: roll0=175050 +50
+#res4: 62740
+#disp4: roll0=175100 +50
+#res0: 52797
+#disp0: roll0=175150 +50
+#res5: 130277
+#disp5: roll0=175200 +50
+#res1: 37507
+#disp1: roll0=175250 +50
+#res6: 387758
+#disp6: roll0=175300 +50
+#res2: 22680
+#disp2: roll0=175350 +50
+#res1: 921264
+#disp1: roll0=175400 +50
+#res4: 657297
+#disp4: roll0=175450 +50
+#res7: 65418
+#disp7: roll0=175500 +50
+#res5: 680029
+#res0: 151573
+#disp0: roll0=175550 +50
+#disp5: roll0=175600 +50
+#res3: 209471
+#disp3: roll0=175650 +50
+#res6: 2136816
+#res2: 2481372
+#disp6: roll0=175700 +50
+#disp2: roll0=175750 +50
+#res1: 19948
+#disp1: roll0=175800 +50
+#res4: 26681
+#disp4: roll0=175850 +50
+#res7: 31368
+#disp7: roll0=175900 +50
+#res0: 49126
+#disp0: roll0=175950 +50
+#res5: 82707
+#disp5: roll0=176000 +50
+#res3: 315218
+#disp3: roll0=176050 +50
+#res6: 439896
+#disp6: roll0=176100 +50
+#res2: 85202
+#disp2: roll0=176150 +50
+#res6: 3857020
+#res7: 937699
+#res3: 874870
+#disp3: roll0=176200 +50
+#res1: 90425
+#disp1: roll0=176250 +50
+#disp7: roll0=176300 +50
+#res5: 1728147
+#res4: 359292
+#disp4: roll0=176350 +50
+#res0: 283015
+#disp0: roll0=176400 +50
+#res2: 2406867
+#disp5: roll0=176450 +50
+#disp6: roll0=176500 +50
+#res3: 66259
+#disp3: roll0=176550 +50
+#res1: 171491
+#disp1: roll0=176600 +50
+#res4: 1515819
+#res7: 449724
+#disp7: roll0=176650 +50
+#disp2: roll0=176700 +50
+#res0: 413643
+#disp0: roll0=176750 +50
+#disp4: roll0=176800 +50
+#res5: 1352706
+#res1: 5103854
+#res6: 2177631
+#disp5: roll0=176850 +50
+#res7: 636274
+#res3: 3948038
+#disp7: roll0=176900 +50
+#res2: 1847286
+#res5: 6731459
+#res4: 5044232
+#res0: 3012336
+#disp6: roll0=176950 +50
+#res7: 3249037
+#disp2: roll0=177000 +50
+#res2: 4839120
+#res6: 7754942
+#disp0: roll0=177050 +50
+#res0: 1897688
+150  15,21,2,8, 14,20,1,7, 13,19,0,6, 12,18,24,5, 11,17,23,4, 10,16,22,3, 9
+#BEST:
+TOTAL: 159482062
+989511.69user 790.67system 34:53:14elapsed 788%CPU (0avgtext+0avgdata 1274752maxresident)k
+0inputs+29512outputs (0major+2259209minor)pagefaults 0swaps
