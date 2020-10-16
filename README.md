@@ -7,7 +7,7 @@ Solvers:
 * solve.C: deterministic solver (takes ~1.5 days on a Core i7, full 8 cores)
 * find_cand.C: stochastic algorithm that finds near-optimal solution candidates (finds actual solution too on minute timescale, you just do not know that it is the best solution ;) 
 
-Development aids:
+Design/development steps:
 * z_histogram.C: computes z histograms = some auxiliary info for design aid (also takes ~1.5 days on 8 cores)  `
 * opt4.py: prototype code for step 2 of the solver
 * y_search.py: some trivial analysis on the output of z_histogram.C (design aid) 
