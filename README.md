@@ -4,8 +4,8 @@ Here is some code that finds the worst possible input for (13-4-1) shellsort on 
 which turns out to be doable afterall, in reasonable O(1 day) runtime, with enough tricks and stuff... and 8 cores. See https://dm248.github.io/posts/20201015_shellsort.html for details on how it works.
 
 **Solvers:**
-* find_cand.C: stochastic algorithm that finds near-optimal solution candidates (finds actual solution too on minute timescale, you just do not know that it is the best s* z_histogram.C: computes z histograms = some auxiliary info for design aid (also takes ~1.5 days on 8 cores)
-olution ;) 
+* find_cand.C: stochastic algorithm that finds near-optimal solution candidates (finds actual solution too on minute timescale, you just do not know that it is the best ;)
+* solve.C: deterministic solver (~1.5 days on a Core i7, full 8 cores)
 
 **Design/development steps:**
 * opt4.py: prototype code for step 2 of the solver
