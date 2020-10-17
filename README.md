@@ -8,7 +8,7 @@ which turns out to be doable afterall, in reasonable O(1 day) runtime, with enou
 olution ;) 
 
 **Design/development steps:**
-*** opt4.py: prototype code for step 2 of the solver**
+* opt4.py: prototype code for step 2 of the solver
 * z_histogram.C: computes z histograms = some auxiliary info for design aid (also takes ~1.5 days on 8 cores)
 * y_search.py: some trivial analysis on the output of z_histogram.C (design aid) 
 * count_swaps.py: some test cases for counting swaps in h-sort (development aid)  
