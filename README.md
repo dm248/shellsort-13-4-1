@@ -14,4 +14,4 @@ which turns out to be doable afterall, in reasonable O(1 day) runtime, with enou
 * *count_swaps.py*: some test cases for counting swaps in h-sort (development aid)  
 
 **Naive "solution":**
-* *naive_solver.java*: naive bruteforce attempt (only works on day timescale if you can run on 100 billion cores...)
+* *naive_solver.java*: naive bruteforce attempt that was offerered as solution (only works on day timescale if you can run on 100 billion cores...)
