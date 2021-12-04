@@ -20,17 +20,19 @@
 typedef unsigned long int u64;
 
 
+const int N = 25;
+
 void generate(int* arr) {
    // start from ordered state
-   for (int i = 0; i < 25; i ++) arr[i] = i;
+   for (int i = 0; i < N; i ++) arr[i] = i;
    // randomize by swapping randomly chosen elements to end
-   for (int i = 0; i < 24; i ++) {
-      int j = rand() % (25 - i); // very slightly biased (rand range is 2^n)
-      std::swap(arr[j], arr[24 - i]);
+   for (int i = 0; i < (N - 1); i ++) {
+      int j = rand() % (N - i); // very slightly biased (rand range is 2^n)
+      std::swap(arr[j], arr[(N - 1) - i]);
    }
 }
 
-// maximize the h-13 swaps
+// maximize the h-13 swaps (hardcoded for N=25)
 void max13(int* arr) {
    for (int i = 0; i < 12; i ++) {
       if (arr[i] < arr[i + 13]) std::swap(arr[i], arr[i + 13]);
@@ -38,7 +40,7 @@ void max13(int* arr) {
 }
 
 void show(const int* arr) {
-   for (int i = 0; i < 25; i ++) {
+   for (int i = 0; i < N; i ++) {
       if (i > 0) std::cout << ',';
       std::cout << arr[i];
    }
@@ -49,43 +51,43 @@ void show(const int* arr) {
 // -1 if no valid 13-sorted mutation found
 int mutate(int* arr, int Nmutate, int swapsMIN) {
    for (int j = 0; j < Nmutate; j ++) {
-      int i1 = rand() % 25;
-      int i2 = rand() % 24;
+      int i1 = rand() % N;
+      int i2 = rand() % (N - 1);
       if (i2 >= i1) i2 ++;
       std::swap(arr[i1], arr[i2]);
       max13(arr);
-      int swaps = sort13_4_1_25(arr);
+      int swaps = sort13_4_1_25(arr);  // hardcoded N=25
       if (swaps > swapsMIN) return swaps;
    }
    return -1;
 }
 
-void arrcpy25(int* dst, const int* src) {
-   memcpy(dst, src, 25 * sizeof(int));
+void arrcpyN(int* dst, const int* src) {
+   memcpy(dst, src, N * sizeof(int));
 }
 
 // search
 int search(int* bestArr, u64 tries, int Nmutate) {
    // initial candidate
-   for (int i = 0; i < 25; i ++) bestArr[i] = i;
+   for (int i = 0; i < N; i ++) bestArr[i] = i;
    // iterate
    int best = -1;
-   int arr[25];
+   int arr[N];
    for (u64 i = 0; i < tries; i ++) {
       // mutate the best
-      arrcpy25(arr, bestArr);
+      arrcpyN(arr, bestArr);
       int swaps = mutate(arr, Nmutate, best);
       // if did not improve, generate a new one and mutate that
       if (swaps <= best) {
          generate(arr);
          max13(arr);
-         swaps = sort13_4_1_25(arr);
+         swaps = sort13_4_1_25(arr); // hardcoded N=25
          if (swaps <= best) swaps = mutate(arr, Nmutate, best);
       }
       // check for improvement either way
       if (swaps > best) {
          best = swaps;
-         arrcpy25(bestArr, arr);
+         arrcpyN(bestArr, arr);
       }
    }
 
@@ -104,7 +106,7 @@ int main(const int argc, const char** const argv) {
    int Nmutate = (argc > 2) ? atoi(argv[2])  : 10;
 
    // infinite loop retries
-   int bestArr[25];
+   int bestArr[N];
    while (true) {
       int best = search(bestArr, tries, Nmutate);
       int swaps = sort13_4_1_25(bestArr);

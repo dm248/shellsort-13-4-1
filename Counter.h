@@ -61,16 +61,16 @@ template<int n, int k> struct CounterFast {
       Counter<n,k> ctr;
       period = ctr.getPeriod();
       idxsArray = new int[period * k];
-      // fill state array, invert element order too j -> 5-j
+      // fill state array, invert element order too j -> (k-1)-j
       for (int i = 0; i < period; i ++) {
-         for (int j = 0; j < 6; j ++) idxsArray[6 * i + j] = ctr.seq[5 - j];
+         for (int j = 0; j < k; j ++) idxsArray[k * i + j] = ctr.seq[(k-1) - j];
          ctr.inc();
       }
    }
 
    ~CounterFast() {   delete[] idxsArray; }
 
-   const int* getState(int i) const {  return idxsArray + (6 * i); }
+   const int* getState(int i) const {  return idxsArray + (k * i); }
 
    int getPeriod() const { return period; }
 

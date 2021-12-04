@@ -1,5 +1,5 @@
 // storage for set of permutations of elements 0...(n-1)
-// - set ordered by decreasing swap count needed to order given permutation
+// - set ordered by decreasing swap count it takes to order given permutation
 //
 
 

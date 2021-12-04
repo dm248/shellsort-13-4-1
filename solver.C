@@ -264,7 +264,6 @@ PermTable<7> permTbl7;
 
 void searchResult(const ResultType& ret, int swapsMIN1) {
    int arr[25];
-   int iter = 0;
    ResultType good;
    for (auto dat: ret) {
       // unpack array
@@ -318,8 +317,6 @@ void searchResult(const ResultType& ret, int swapsMIN1) {
 
 
 std::atomic<int> ctr0rolls;
-//const int Nthreads = 4;
-const int Nthreads = 8;
 
 
 template<class T>
@@ -368,11 +365,16 @@ int main() {
 
    ctr0rolls = 0;
 
+   //const int Nthreads = 4;
+   const int Nthreads = 8;
+
    // run one dispatcher per thread
    //int totalWork = period1 / 1000;
-   //int batchsize = 20;
+   //int totalWork = period1 / 100;
    int totalWork = period1;
+   //int batchsize = 20;
    int batchsize = 50;
+   
    // start dispatcher threads
    std::future<void> futs[Nthreads];  // futures in outer scope, so things run concurrently
    for (int i = 0; i < Nthreads; i ++) {

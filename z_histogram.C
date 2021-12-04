@@ -270,7 +270,7 @@ void decodeArray(u64 iter, int* arr) {
 
 
 void showResult(const ResultType& ret) {
-   for (int i = 0; i < ret.size(); i ++) {
+   for (unsigned int i = 0; i < ret.size(); i ++) {
       if (i > 0) std::cout << ',';
       std::cout << ret[i];
    }
@@ -307,7 +307,7 @@ void dispatch(int id, const T* table3, int batchsize, int maxRolls) {
       ResultType res = fut.get();
       iter ++;
       mtx.lock();
-      for (int i = 0; i < res.size(); i ++) freqDist[i] += res[i];
+      for (unsigned int i = 0; i < res.size(); i ++) freqDist[i] += res[i];
       if (iter % 10 == 0) {
          std::cout << "#res" << id << "\n";
          showResult(res);
@@ -361,7 +361,7 @@ int main() {
    std::cout << "FREQ DIST: ";
    showResult(freqDist);
    u64 tot = 0;
-   for (int i = 0; i < freqDist.size(); i ++) tot += freqDist[i];
+   for (unsigned int i = 0; i < freqDist.size(); i ++) tot += freqDist[i];
    std::cout << "TOTAL: " << tot << '\n' << std::flush;
 
 
