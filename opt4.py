@@ -8,7 +8,7 @@
 #
 
 import itertools
-import score
+import count_swaps as score
 
 
 def genGroup(n):
